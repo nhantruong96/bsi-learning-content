@@ -1,0 +1,36 @@
+{
+  "text_overrides": {
+    "Welcome": "Chào mừng",
+    "Course structure": "Cấu trúc khóa học",
+    "Materials:": "Tài liệu:",
+    "Slides": "Trang trình bày",
+    "Reference materials": "Tài liệu tham khảo",
+    "Course format:": "Hình thức khóa học:",
+    "Activities": "Hoạt động",
+    "Discussions": "Thảo luận",
+    "Agenda": "Chương trình nghị sự",
+    "Agenda – Day 1": "Chương trình nghị sự - Ngày 1",
+    "Agenda – Day 2": "Chương trình nghị sự - Ngày 2",
+    "Collaborative": "Làm việc",
+    "working": "cộng tác",
+    "Collaborative working": "Làm việc cộng tác",
+    "Quantity of information": "Khối lượng thông tin",
+    "Assessment of asset performance": "Đánh giá hiệu suất tài sản",
+    "End of life": "Kết thúc vòng đời",
+    "Trigger event": "Sự kiện kích hoạt"
+  },
+  "full_overrides": {
+    "ISO 19650 Part 1: Building Information Modelling (BIM) Fundamentals Training Course": "Khóa đào tạo ISO 19650 Phần 1: Các nguyên tắc cơ bản của Mô hình thông tin công trình (BIM)",
+    "Lead appointed party mobilizes and prepares detailed plan for information delivery": "Bên được giao nhiệm vụ chính huy động và chuẩn bị kế hoạch chi tiết cho việc chuyển giao thông tin",
+    "Define information requirements and issue to potential appointed parties": "Xác định yêu cầu thông tin và ban hành cho các bên được giao nhiệm vụ tiềm năng",
+    "Review capability and initial plans for information delivery. Confirm appointment": "Xem xét năng lực và các kế hoạch ban đầu cho việc chuyển giao thông tin. Xác nhận bổ nhiệm",
+    "Production of information during project": "Tạo lập thông tin trong quá trình thực hiện dự án",
+    "Production and maintenance of information during asset management": "Tạo lập và duy trì thông tin trong quá trình quản lý tài sản"
+  },
+  "global_replacements": {
+    "phân phối": "triển khai",
+    "các bên được chỉ định": "các bên được giao nhiệm vụ",
+    "mô hình thông tin tài sản": "mô hình thông tin tài sản",
+    "Tài sản mô hình thông tin": "Mô hình thông tin tài sản"
+  }
+}

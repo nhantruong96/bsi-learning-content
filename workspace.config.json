@@ -1,0 +1,83 @@
+{
+  "workspaceName": "BSI Learning Content",
+  "workspaceVersion": 1,
+  "primaryLanguage": "vi-VN",
+  "purposes": [
+    "translation",
+    "curriculum-authoring",
+    "course-development",
+    "review",
+    "delivery-packaging"
+  ],
+  "folders": {
+    "references": "References",
+    "exampleCoursePackages": "References/Example",
+    "working": "_work",
+    "tools": "tools",
+    "translation": "translation",
+    "authoring": "authoring",
+    "courses": "courses"
+  },
+  "courseStructure": [
+    "01_brief",
+    "02_source",
+    "03_authoring",
+    "04_translation",
+    "05_review",
+    "06_delivery"
+  ],
+  "sourcePackageStructure": {
+    "subfolders": [
+      {
+        "logicalName": "certificateSample",
+        "preferredName": "Certificate Sample",
+        "acceptedNames": [
+          "Certificate Sample",
+          "Certificate sample"
+        ]
+      },
+      {
+        "logicalName": "delegateWorkbook",
+        "preferredName": "Delegate Workbook",
+        "acceptedNames": [
+          "Delegate Workbook"
+        ]
+      },
+      {
+        "logicalName": "tutorGuide",
+        "preferredName": "Tutor Guide",
+        "acceptedNames": [
+          "Tutor Guide",
+          "Tutor guide"
+        ]
+      },
+      {
+        "logicalName": "versionControl",
+        "preferredName": "Version Control",
+        "acceptedNames": [
+          "Version Control",
+          "Version control"
+        ]
+      }
+    ],
+    "rootDocuments": [
+      {
+        "logicalName": "buildList",
+        "acceptedPrefixes": [
+          "Build List_"
+        ]
+      },
+      {
+        "logicalName": "importantCourseInformation",
+        "acceptedPrefixes": [
+          "Important Course Info_",
+          "Important Course Information_"
+        ]
+      }
+    ]
+  },
+  "defaults": {
+    "translationConfig": "translation/config/base_vi.json",
+    "translationCache": "_work/cache/google_vi_cache.json"
+  }
+}

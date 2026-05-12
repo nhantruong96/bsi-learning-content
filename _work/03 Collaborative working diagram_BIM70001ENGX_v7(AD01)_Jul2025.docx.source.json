@@ -1,0 +1,426 @@
+{
+    "source":  "C:\\Users\\nhan9\\OneDrive - PORTCOAST CONSULTANT CORPORATION\\BSI BIM Qualifications\\Part 1\\BIM70001ENGX_v7(AD01)_Jul2025\\Delegate Workbook\\03 Collaborative working diagram_BIM70001ENGX_v7(AD01)_Jul2025.docx",
+    "slideCount":  1,
+    "slides":  [
+                   {
+                       "slide":  1,
+                       "entries":  [
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:1|paragraph:41",
+                                           "text":  "/"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:1|paragraph:42",
+                                           "text":  "© 2025 BSI. All rights reserved. 169"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:2|paragraph:1",
+                                           "text":  "Start here for strategic planning, delivery phase, and operational phase appointments"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:3|paragraph:1",
+                                           "text":  "Asset Information Model (AIM)"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:4|paragraph:1",
+                                           "text":  "Existing"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:4|paragraph:2",
+                                           "text":  "relevant asset information"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:5|paragraph:1",
+                                           "text":  "•"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:5|paragraph:2",
+                                           "text":  "•"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:6|paragraph:1",
+                                           "text":  "Project Information Model"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:6|paragraph:2",
+                                           "text":  "(PIM)"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:6|paragraph:3",
+                                           "text":  "Documentation"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:6|paragraph:4",
+                                           "text":  "Alphanumerical information"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:6|paragraph:5",
+                                           "text":  "Geometric information"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:7|paragraph:1",
+                                           "text":  "Documentation"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:7|paragraph:2",
+                                           "text":  "Alphanumerical information"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:7|paragraph:3",
+                                           "text":  "Geometrical information"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:8|paragraph:1",
+                                           "text":  "Planned and unplanned trigger events during operational phase of the"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:8|paragraph:2",
+                                           "text":  "asset lifecycle"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:9|paragraph:1",
+                                           "text":  "Trigger events during delivery phase – usually aligned with ends of project stages"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:10|paragraph:1",
+                                           "text":  "Production of information during project"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:11|paragraph:1",
+                                           "text":  "Production and maintenance of information during asset management"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:12|paragraph:1",
+                                           "text":  "Common Data Environment (CDE) process"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:13|paragraph:1",
+                                           "text":  "End of life"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "story:14|paragraph:1",
+                                           "text":  "Stage …"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/31",
+                                           "text":  "Start here for strategic planning, delivery phase, and operational phase appointments\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/32",
+                                           "text":  "Asset Information Model (AIM)\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/33",
+                                           "text":  "Existing\rrelevant asset information\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/34",
+                                           "text":  "•\r•\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/35",
+                                           "text":  "Project Information Model\r(PIM)\rDocumentation\rAlphanumerical information\rGeometric information\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/36",
+                                           "text":  "Documentation\rAlphanumerical information\rGeometrical information\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/37",
+                                           "text":  "Planned and unplanned trigger events during operational phase of the\rasset lifecycle\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/38",
+                                           "text":  "Trigger events during delivery phase – usually aligned with ends of project stages\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/39",
+                                           "text":  "Production of information during project\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/40",
+                                           "text":  "Production and maintenance of information during asset management\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/41",
+                                           "text":  "Common Data Environment (CDE) process\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/42",
+                                           "text":  "End of life\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/43",
+                                           "text":  "Stage …\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/44",
+                                           "text":  "Stage …\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/45",
+                                           "text":  "Stage …\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/46",
+                                           "text":  "Stage 2\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/47",
+                                           "text":  "Stage 1\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/48",
+                                           "text":  "Trigger event\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/49",
+                                           "text":  "Trigger event\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/50",
+                                           "text":  "Trigger event\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/51",
+                                           "text":  "Trigger event\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/52",
+                                           "text":  "Trigger event\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/53",
+                                           "text":  "Define information requirements and issue to potential appointed parties\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:6/54",
+                                           "text":  "Review capability and initial plans for information delivery.\rConfirm appointment\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/2",
+                                           "text":  "Delivery team decision points\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/3",
+                                           "text":  "1\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/4",
+                                           "text":  "2\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/5",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/6",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/7",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/8",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/9",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/10",
+                                           "text":  "Information exchanges from or within delivery team\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/11",
+                                           "text":  "1\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/12",
+                                           "text":  "2\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/13",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/14",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/15",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/16",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/17",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/18",
+                                           "text":  "Client/asset owner decision points\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/19",
+                                           "text":  "1\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/20",
+                                           "text":  "2\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/21",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/22",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/23",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/24",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/25",
+                                           "text":  "User decision points\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/26",
+                                           "text":  "1\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/27",
+                                           "text":  "2\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/28",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/29",
+                                           "text":  "Authority decision points\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/30",
+                                           "text":  "1\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/31",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:7/32",
+                                           "text":  "…\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:8",
+                                           "text":  "Collaborative\rworking\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:9",
+                                           "text":  "Lead appointed party mobilizes and prepares detailed plan for information delivery\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:10",
+                                           "text":  "Quantity of information\r"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "shape:11",
+                                           "text":  "Assessment of asset performance\r"
+                                       }
+                                   ]
+                   }
+               ]
+}

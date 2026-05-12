@@ -1,0 +1,1787 @@
+[
+  {
+    "slide": 1,
+    "path": "9",
+    "text": "Cuốn sách lớn hơn của BIM"
+  },
+  {
+    "slide": 1,
+    "path": "10",
+    "text": "Xây dựng một tương lai kết nối hơn cho môi trường xây dựng\rTất cả những điều cơ bản từ bộ sách nhỏ gốc của BIM, cùng với những hiểu biết bổ sung dành cho các tổ chức đang phát triển và lãnh đạo cấp cao của ngành xây dựng"
+  },
+  {
+    "slide": 1,
+    "path": "11",
+    "text": "Phiên bản thứ ba năm 2025.\rPhù hợp với loạt tiêu chuẩn ISO 19650 mới nhất."
+  },
+  {
+    "slide": 2,
+    "path": "6",
+    "text": "Nội dung"
+  },
+  {
+    "slide": 2,
+    "path": "7",
+    "text": "Chào mừng\rTiên phong thăng cấp trung cấp\rTiếp tục hành trình BIM của anh/chị Hành trình BSI BIM\rCác tiêu chuẩn cho hành trình BIM của anh/chị Các khóa học và bằng cấp BIM Giải pháp chứng nhận BSI\rTại sao BSI"
+  },
+  {
+    "slide": 3,
+    "path": "2",
+    "text": "BIM (Mô hình thông tin xây dựng) đang chuyển đổi thiết kế, xây dựng và cung cấp môi trường xây dựng. Nó đại diện cho tương lai của ngành xây dựng và việc áp dụng nó trên toàn cầu đang tăng tốc nhanh chóng.\rBIM là một quy trình quản lý thông tin kỹ thuật số có cốt lõi là cộng tác và giao tiếp. Những người sử dụng BIM thành thạo luôn mang lại hiệu quả cao hơn bằng cách tăng cường sự liên kết và tạo điều kiện cho việc ra quyết định chính xác hơn.\rGiống như bất kỳ phương pháp và quy trình nào, BIM tồn tại và phát triển cùng với thị trường mà nó phục vụ. Với công nghệ mới đang nổi lên và sự xem xét kỹ lưỡng về\rbảo mật thông tin ngày càng tăng, các phương pháp hay nhất và tiêu chuẩn xung quanh BIM cũng đang phát triển. Với tư cách là đối tác đáng tin cậy của anh/chị, chúng tôi sẵn sàng hỗ trợ anh/chị trên hành trình này.\rCuốn sách lớn hơn về BIM từ BSI là tài liệu tham khảo nhanh chóng của anh/chị về tư duy và chứng chỉ BIM mới nhất. Để đảm bảo anh/chị tận dụng tối đa nó, hãy tham gia vào các phần phản ánh rõ nhất mối quan hệ hiện tại của anh/chị hoặc tổ chức của anh/chị với BIM.\rTại BSI, chúng tôi đã dẫn đầu tiến bộ tiên phong về BIM kể từ khi thành lập. Danh tiếng của chúng tôi với tư cách là người dẫn đầu về chứng nhận BIM bắt nguồn từ công việc của chúng tôi, chẳng hạn như những đóng góp của chúng tôi cho UK BIM Framework, định hình PAS 1192, được tài trợ bởi nhóm đặc nhiệm BIM và công việc của chúng tôi về các tiêu chuẩn Digital Twin."
+  },
+  {
+    "slide": 3,
+    "path": "4",
+    "text": "Tiến lên:\rAnh/chị là người dùng BIM dày dạn kinh nghiệm trong một tổ chức nơi BIM được áp dụng rộng rãi, đang tìm kiếm nguồn cảm hứng về cách biến chuyên môn BIM của anh/chị thành lợi thế cạnh tranh khác biệt để phát triển doanh nghiệp hoặc nâng cao sự nghiệp của anh/chị."
+  },
+  {
+    "slide": 3,
+    "path": "10",
+    "text": "Trung cấp:\r(Tất cả nội dung anh/chị mong đợi từ các phiên bản cũ của 'Cuốn sách nhỏ về BIM') Anh/chị đang ở giai đoạn đầu với BIM và muốn hiểu nó là gì, nó sẽ mang lại lợi ích như thế nào cho tổ chức hoặc sự nghiệp của anh/chị,\rvà làm thế nào để bắt đầu."
+  },
+  {
+    "slide": 3,
+    "path": "13",
+    "text": "Tiên phong:\rAnh/chị là nhà lãnh đạo ngành hoặc nhà hoạch định chính sách muốn tìm hiểu lợi ích ở cấp độ hệ sinh thái của BIM như một cách để hợp nhất lợi ích kinh doanh và xã hội, đảm bảo môi trường xây dựng có tác động tích cực đến khí hậu và nền kinh tế."
+  },
+  {
+    "slide": 3,
+    "path": "18",
+    "text": "Chào mừng"
+  },
+  {
+    "slide": 3,
+    "path": "19",
+    "text": "Đó là tôi"
+  },
+  {
+    "slide": 3,
+    "path": "23",
+    "text": "Đó là tôi"
+  },
+  {
+    "slide": 3,
+    "path": "27",
+    "text": "Đó là tôi"
+  },
+  {
+    "slide": 4,
+    "path": "3",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 4,
+    "path": "7",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 4,
+    "path": "8",
+    "text": "Chào mừng anh/chị đến với Sách lớn hơn của BSI về BIM\rNội dung\rBIM là gì?\rNguyên tắc hướng dẫn BIM\rError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  {
+    "slide": 4,
+    "path": "11",
+    "text": "Thuật ngữ và chữ viết tắt\rNghiên cứu điển hình: SWECO UK & Ireland đã cải thiện việc triển khai dự án kỹ thuật số như thế nào thông qua BIM"
+  },
+  {
+    "slide": 4,
+    "path": "12",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 4,
+    "path": "18",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 5,
+    "path": "4",
+    "text": "BIM là một quy trình quản lý thông tin tòa nhà trong suốt vòng đời của nội dung. Nó sử dụng biểu diễn kỹ thuật số Shared của\rmột tài sản để tăng cường hợp tác và tạo điều kiện thuận lợi cho quá trình thiết kế, xây dựng và vận hành. Đây là cơ sở đáng tin cậy cho các quyết định.\rVới BIM, anh/chị có thể nhận được hiệu quả cao hơn nhờ lập kế hoạch trước đáng kể trong giai đoạn thiết kế và xây dựng.\rĐiều này cung cấp thông tin toàn diện ở giai đoạn chuyển giao. Với cách tiếp cận chung với quản lý thông tin, các tổ chức có thể giảm thiểu sai sót cũng như cải thiện chi phí, giá trị và hiệu suất carbon.\rVề mặt triển khai, BIM xác định các quy trình về đặc tả, sản xuất, chia sẻ/trao đổi và quản lý thông tin được tạo trong suốt vòng đời của nội dung được xây dựng.\rSau đó, đầu ra của quy trình được áp dụng tương ứng, cụ thể cho dự án mà BIM được sử dụng để chống lại."
+  },
+  {
+    "slide": 5,
+    "path": "5",
+    "text": "BIM là gì?"
+  },
+  {
+    "slide": 5,
+    "path": "15",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 5,
+    "path": "16",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 5,
+    "path": "17",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 6,
+    "path": "3",
+    "text": "Truyền cảm hứng cho niềm tin trong suốt vòng đời của tài sản với chứng nhận BSI BIM\rPhân biệt các dự án BIM của anh/chị và chứng minh\rthông tin xác thực của anh/chị với chứng nhận BSI Kitemark™ dành cho BIM.\rThông qua chứng nhận độc lập, tổ chức của anh/chị có thể xác thực sự tuân thủ và chứng minh sự trưởng thành của BIM bằng bằng chứng về các quy trình an toàn, linh hoạt (cả về mặt vật lý và kỹ thuật số) trên toàn chuỗi giá trị.\rAnh/chị cũng có thể thúc đẩy tiến bộ trong thị trường cạnh tranh bằng cách hợp tác với BSI, công ty dẫn đầu toàn cầu về BIM và là nhà cung cấp duy nhất tiêu chuẩn được ngành này công nhận."
+  },
+  {
+    "slide": 6,
+    "path": "4",
+    "text": "Xây dựng các quy trình BIM linh hoạt và an toàn\rChúng tôi đã cập nhật các chứng nhận Kitemark BIM của mình để bao gồm trọng tâm mới về Bảo mật BIM (ISO 19650-5). Bản cập nhật này ảnh hưởng đến một số lĩnh vực, bao gồm:"
+  },
+  {
+    "slide": 6,
+    "path": "5",
+    "text": "Phân phối dự án"
+  },
+  {
+    "slide": 6,
+    "path": "6",
+    "text": "Quản lý tài sản"
+  },
+  {
+    "slide": 6,
+    "path": "7",
+    "text": "Thiết kế và Xây dựng"
+  },
+  {
+    "slide": 6,
+    "path": "8",
+    "text": "Phần mềm"
+  },
+  {
+    "slide": 6,
+    "path": "9",
+    "text": "Bảo vệ\r\rVà đồ vật\r\rSau khi ban hành ISO 19650-6, một giải pháp chứng nhận trong tương lai đang được phát triển.\rBảo mật thông tin đã trở thành một thành phần quan trọng trong hoạt động kinh doanh liên tục, đó là lý do tại sao điều quan trọng là các tổ chức phải áp dụng cách tiếp cận phù hợp và cân đối về bảo mật. Dấu Kitemark BSI dành cho BIM có thể giúp anh/chị giảm thiểu rủi ro kỹ thuật số, xây dựng các quy trình BIM linh hoạt và an toàn, đồng thời trấn an các bên liên quan."
+  },
+  {
+    "slide": 6,
+    "path": "29",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 6,
+    "path": "30",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 6,
+    "path": "31",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 7,
+    "path": "5",
+    "text": "bản thân họ một cách bất ngờ. Ví dụ về điều này bao gồm; hoàn thành tất cả công việc thiết kế nguyên tắc và điều phối trước khi bắt đầu xây dựng, đồng thời đảm bảo rằng các quyết định thiết kế được đưa ra trong toàn bộ giai đoạn bàn giao về hiệu quả hoạt động và việc sử dụng tài sản."
+  },
+  {
+    "slide": 7,
+    "path": "6",
+    "text": "Bắt đầu với sự kết thúc trong tâm trí\rHai vấn đề chính mà BIM giải quyết là đưa ra quyết định vội vàng và sử dụng thông tin không đầy đủ và/hoặc không chính xác. Bắt đầu với mục đích cuối cùng, những quyết định này được đẩy lên “ngược dòng” để chúng được cung cấp thông tin tốt hơn và không hiện diện"
+  },
+  {
+    "slide": 7,
+    "path": "7",
+    "text": "Con người, quy trình và công nghệ\rBIM không phải là một công cụ hay phần mềm duy nhất. Đó là cách tốt hơn để thiết kế, xây dựng và vận hành tài sản nhờ sử dụng công nghệ. Về cơ bản hơn, đó là về tập hợp các quy trình cần tuân thủ (được nêu trong loạt tiêu chuẩn ISO 19650) và sự thay đổi trong thực tiễn làm việc ở cấp độ hoạt động. Điều này được minh họa rõ nhất bằng nhu cầu về cách tiếp cận hợp tác trong toàn bộ chuỗi cung ứng."
+  },
+  {
+    "slide": 7,
+    "path": "8",
+    "text": "Sự tham gia hợp tác\rMột trong những chỉ số thành công chính của dự án sử dụng BIM là mức độ hợp tác của chuỗi cung ứng để đáp ứng nhu cầu của dự án/tài sản. Điều này có nghĩa là làm việc cởi mở, cũng như chia sẻ thông tin và kinh nghiệm với các thành viên trong chuỗi cung ứng theo cách khuyến khích sự phối hợp và giải quyết vấn đề tập thể."
+  },
+  {
+    "slide": 7,
+    "path": "9",
+    "text": "Nguyên tắc hướng dẫn BIM"
+  },
+  {
+    "slide": 7,
+    "path": "10",
+    "text": "Mục đích cốt lõi của BIM là tận dụng tốt nhất giá trị và tiềm năng của tài sản. Nó đạt được điều này bằng cách xác định rõ ràng yêu cầu thông tin của anh/chị và thông qua quản lý và tạo lập thông tin hợp tác."
+  },
+  {
+    "slide": 7,
+    "path": "24",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 7,
+    "path": "25",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 7,
+    "path": "26",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 8,
+    "path": "4",
+    "text": "Tài sản kỹ thuật số\rViệc cung cấp thông tin phù hợp cho đúng người vào đúng thời điểm sẽ tạo nên sự khác biệt. Khi triển khai một dự án hoặc quản lý tài sản bằng BIM, anh/chị cần chỉ định rõ ràng yêu cầu thông tin của dự án cho toàn bộ nhóm dự án. Hãy tập trung vào chính xác thông tin nào là cần thiết và khi nào, mục đích của nó, định dạng của nó và thông tin sẽ là Shared như thế nào. Đây là tất cả các khía cạnh chính của quản lý thông tin tốt hơn mà BIM cho phép."
+  },
+  {
+    "slide": 8,
+    "path": "5",
+    "text": "Cách tiếp cận chú trọng an ninh\rMặc dù anh/chị không thể loại bỏ tất cả các rủi ro bảo mật, nhưng BIM giúp các tổ chức thiết lập văn hóa và thực tiễn quan tâm đến bảo mật có thể được triển khai trên toàn chuỗi cung ứng. Một giải pháp đảm bảo nhân viên được thông báo và hành động một cách an toàn trong việc bảo vệ thông tin liên quan đến dự án/tài sản, cũng như tổ chức, các bên liên quan và con người của họ."
+  },
+  {
+    "slide": 8,
+    "path": "18",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 8,
+    "path": "19",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 8,
+    "path": "20",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 9,
+    "path": "3",
+    "text": "Các chính phủ trên thế giới đang đẩy nhanh việc áp dụng chứng nhận BIM. Một số đã bắt đầu đưa ra các luật và nhiệm vụ khác nhau yêu cầu các tổ chức sử dụng BIM khi ký hợp đồng với các dự án công trình công cộng, dự án cơ sở hạ tầng hoặc các dự án được xác định theo quy mô.\rCác tiêu chuẩn BIM quốc tế giúp hỗ trợ việc áp dụng này bằng cách thiết lập các yêu cầu tối thiểu và đề xuất các phương pháp hay nhất. Việc sử dụng các tiêu chuẩn này sẽ giúp loại bỏ các rào cản đối với hoạt động hợp tác và đấu thầu cạnh tranh xuyên biên giới. Chúng có thể hoạt động như hộ chiếu cho các tổ chức, giúp họ tiếp cận các thị trường quốc tế nơi chứng nhận BIM là bắt buộc hoặc nơi chứng nhận này đóng vai trò là lợi thế cạnh tranh.\rVới việc xuất bản loạt tiêu chuẩn ISO 19650, BIM hiện đã có định nghĩa được quốc tế thống nhất. ‘BIM theo ISO 19650’ xác định các yêu cầu tối thiểu và đưa ra các khuyến nghị bổ sung để áp dụng phương pháp hay nhất cho BIM."
+  },
+  {
+    "slide": 9,
+    "path": "4",
+    "text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  {
+    "slide": 9,
+    "path": "15",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 9,
+    "path": "16",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 9,
+    "path": "17",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 10,
+    "path": "2",
+    "text": "Thuật ngữ và chữ viết tắt"
+  },
+  {
+    "slide": 10,
+    "path": "3",
+    "text": "Có nhiều thuật ngữ tạo thành một phần của ngôn ngữ BIM. Mặc dù chưa đầy đủ nhưng đây là một số điều phổ biến cần chú ý."
+  },
+  {
+    "slide": 10,
+    "path": "14",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 10,
+    "path": "15",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 10,
+    "path": "16",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 11,
+    "path": "7",
+    "text": "CDE – Môi trường dữ liệu chung\rMột quy trình làm việc để kiểm soát nguồn thông tin duy nhất cho bất kỳ dự án hoặc tài sản cụ thể nào. Được sử dụng để quản lý việc thu thập và phổ biến tất cả thông tin về dự án/tài sản có liên quan đã được phê duyệt.\rĐược sử dụng kết hợp với giải pháp lưu trữ kỹ thuật số, thông tin được Shared cộng tác, theo cách hợp lý và dễ tiếp cận, để giúp tất cả các bên quan trọng dễ dàng truy cập thông tin, sử dụng quy ước đặt tên nhất quán, tránh trùng lặp và giữ quyền sở hữu."
+  },
+  {
+    "slide": 11,
+    "path": "8",
+    "text": "OIR – Yêu cầu thông tin của tổ chức\rĐiều này chỉ định những thông tin cần thiết để đạt được các mục tiêu chiến lược của tổ chức liên quan đến hoạt động kinh doanh, quản lý tài sản, lập kế hoạch danh mục đầu tư, v.v. OIR có thể được phát triển từ hệ thống quản lý tài sản ISO 55001."
+  },
+  {
+    "slide": 11,
+    "path": "9",
+    "text": "NƯỚC – Yêu cầu thông tin của tài sản\rĐiều này xác định thông tin được yêu cầu cũng như các khía cạnh quản lý và kỹ thuật trong việc tạo ra thông tin này để vận hành một tài sản nhằm đáp ứng OIR."
+  },
+  {
+    "slide": 11,
+    "path": "10",
+    "text": "EIR – Yêu cầu trao đổi thông tin\rĐiều này chỉ định thông tin được yêu cầu liên quan đến bổ nhiệm (hợp đồng) cụ thể. Nó bao gồm trách nhiệm, khoảng thời gian, định dạng và mức độ thông tin cần thiết (LOIN) của thông tin dự án; bao gồm yêu cầu thông tin có liên quan từ OIR, AIR và PIR."
+  },
+  {
+    "slide": 11,
+    "path": "15",
+    "text": "PIR – Yêu cầu thông tin của dự án\rĐiều này chỉ định thông tin được yêu cầu liên quan đến một dự án cụ thể; bao gồm yêu cầu thông tin có liên quan từ OIR và AIR."
+  },
+  {
+    "slide": 11,
+    "path": "16",
+    "text": "mức độ thông tin cần thiết (LOIN)\rĐây là một phương pháp xác định mức độ chi tiết của thông tin nhằm hỗ trợ một mục đích nhất định. Điều này cần được xác định là mức độ chi tiết tối thiểu để tránh việc sản xuất quá nhiều thông tin dẫn đến lãng phí."
+  },
+  {
+    "slide": 11,
+    "path": "17",
+    "text": "Tiêu chuẩn thông tin\rĐiều này đặt ra các yêu cầu về trao đổi thông tin, cấu trúc và phân loại thông tin, gán mức độ thông tin cần thiết (LOIN) và sử dụng thông tin trong giai đoạn vận hành của tài sản."
+  },
+  {
+    "slide": 11,
+    "path": "18",
+    "text": "BEP – Kế hoạch thực hiện BIM\rĐiều này chỉ định kế hoạch triển khai sẽ được nhóm triển khai thực hiện như một phản hồi đối với tài liệu đấu thầu đã nhận được. Nó bao gồm, trong số những thứ khác, ai chịu trách nhiệm cung cấp thông tin, cũng như ai sẽ đảm nhận trách nhiệm nào trong nhóm triển khai."
+  },
+  {
+    "slide": 11,
+    "path": "19",
+    "text": "phương pháp và quy trình tạo lập thông tin\rĐiều này thiết lập các phương pháp và thủ tục cần thiết để sử dụng khi tạo, xem xét, triển khai hoặc cung cấp thông tin."
+  },
+  {
+    "slide": 11,
+    "path": "29",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 11,
+    "path": "30",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 11,
+    "path": "31",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 12,
+    "path": "8",
+    "text": "Đăng ký rủi ro\rError 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  {
+    "slide": 12,
+    "path": "9",
+    "text": "PIM – mô hình thông tin dự án\rĐây là sự tổng hợp thông tin được phát triển trong giai đoạn thiết kế/xây dựng của dự án. Thông tin hình thành PIM được tạo bởi nhóm dự án được kiểm soát bởi quy trình làm việc CDE. Khi dự án phát triển, PIM cũng sẽ tăng lên cả về quy mô và độ chính xác; bắt đầu từ mục đích thiết kế tiến tới hồ sơ xây dựng sau khi hoàn thành."
+  },
+  {
+    "slide": 12,
+    "path": "10",
+    "text": "MỤC ĐÍCH – mô hình thông tin tài sản\rĐây là sự tổng hợp các thông tin cần thiết để hỗ trợ việc quản lý và vận hành tài sản (cơ sở hạ tầng hoặc tòa nhà). AIM thường được hình thành hoặc cập nhật bằng cách sử dụng một tập hợp con của PIM ở giai đoạn bàn giao dự án. AIM sẽ liên tục được cập nhật và phát triển khi thông tin được cung cấp sau các công việc có ảnh hưởng đến tài sản."
+  },
+  {
+    "slide": 12,
+    "path": "11",
+    "text": "COBie – Tòa nhà vận hành xây dựng trao đổi thông tin\rĐược xác định trong BS 1192-4 và là một phần của Phụ lục Quốc gia về\rISO 19650-2, đây là phương pháp có cấu trúc để trao đổi thông tin về tài sản có thể bảo trì. COBie là một sơ đồ có cấu trúc được xác định trước được sử dụng để chia sẻ thông tin này ở cả dạng người dùng có thể đọc được và\rcách mà máy có thể hiểu được."
+  },
+  {
+    "slide": 12,
+    "path": "12",
+    "text": "MIDP – Kế hoạch tổng thể chuyển giao thông tin\rĐược phát triển từ kế hoạch Thực thi BIM, đây là kế hoạch chính về thời điểm thông tin sẽ được chuẩn bị, ai và khi nào chuẩn bị. Mỗi thông tin có thể cung cấp sẽ được điều chỉnh theo một mốc triển khai dự án xác định."
+  },
+  {
+    "slide": 12,
+    "path": "13",
+    "text": "TIDP – Kế hoạch chuyển giao thông tin của nhóm nhiệm vụ\rĐây là một kế hoạch do mỗi nhóm nhiệm vụ phát triển, được tích hợp vào Kế hoạch tổng thể chuyển giao thông tin dựa trên các trách nhiệm đã thống nhất được nêu trong Kế hoạch thực hiện BIM."
+  },
+  {
+    "slide": 12,
+    "path": "15",
+    "text": "Kế hoạch huy động\rĐiều này nêu chi tiết cách tiếp cận, khung thời gian và trách nhiệm đối với nhóm triển khai sẽ được thực hiện trong quá trình huy động. Điều này bao gồm việc kiểm tra việc trao đổi thông tin giữa các nhóm nhiệm vụ và kiểm tra phương pháp và quy trình tạo lập thông tin được đề xuất."
+  },
+  {
+    "slide": 12,
+    "path": "25",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 12,
+    "path": "26",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 12,
+    "path": "27",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 13,
+    "path": "12",
+    "text": "Nghiên cứu điển hình: SWECO Vương quốc Anh và Ireland"
+  },
+  {
+    "slide": 13,
+    "path": "14",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 13,
+    "path": "15",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 13,
+    "path": "16",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 14,
+    "path": "2",
+    "text": "Sweco Vương quốc Anh và Ireland đã cải thiện việc triển khai dự án kỹ thuật số như thế nào với Học viện BSI\rSweco Vương quốc Anh & Ireland đã mở rộng kiến ​​thức của nhân viên về quản lý thông tin và ISO 19650 với khóa học trực tuyến Cơ bản về BIM từ BSI."
+  },
+  {
+    "slide": 14,
+    "path": "5",
+    "text": "\"Có nền tảng về tư vấn thiết kế, khóa đào tạo của BSI đã mang lại cho tôi cái nhìn toàn diện hơn về quản lý dự án xây dựng. Việc xem xét luồng thông tin liên tục từ ý tưởng của dự án đến các giai đoạn thiết kế, thực hiện, sử dụng và phá dỡ đã thực sự giúp tôi mở rộng tầm mắt về vai trò quan trọng mà tôi có thể đóng trong toàn bộ quản lý thông tin.\"\rStephen Payne, Kỹ sư cao cấp trong nhóm Cơ sở hạ tầng phát triển."
+  },
+  {
+    "slide": 14,
+    "path": "6",
+    "text": "Craig Hardingham, Giám đốc Kỹ thuật Kỹ thuật số – Cơ sở hạ tầng, cho biết chứng chỉ Chuyên nghiệp được Chứng nhận BIM của BSI xác nhận trình độ chuyên môn của ông về ISO 19650, quản lý thông tin và BIM.\r“Nó đã nhấn mạnh rằng tôi là một trong\rnhững người 'đi đến' để hỗ trợ những người khác trong doanh nghiệp về vấn đề này.”"
+  },
+  {
+    "slide": 14,
+    "path": "7",
+    "text": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\rthông qua Học trực tuyến cơ bản BIM và Chứng chỉ chuyên môn được chứng nhận BIM từ BSI."
+  },
+  {
+    "slide": 14,
+    "path": "9",
+    "text": "Hơn 100 cá nhân đã được hưởng lợi từ\rChương trình Cơ bản về BIM mà doanh nghiệp đã triển khai cho nhiều bộ phận khác nhau, bao gồm Tư vấn và Lập kế hoạch, Tiêu chuẩn xây dựng, Tòa nhà và Cơ sở hạ tầng. Quá trình lựa chọn ứng viên nội bộ của công ty đã cố tình xác định một phạm vi\rvai trò của các bộ phận này, bao gồm giám đốc, giám đốc kỹ thuật, quản lý dự án, kỹ sư và kỹ thuật viên."
+  },
+  {
+    "slide": 14,
+    "path": "19",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 14,
+    "path": "20",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 14,
+    "path": "21",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 15,
+    "path": "2",
+    "text": "Bắt đầu hành trình BIM của anh/chị với BSI và tạo sự khác biệt cho anh/chị so với đối thủ cạnh tranh"
+  },
+  {
+    "slide": 15,
+    "path": "4",
+    "text": "Bằng cách nhúng BIM vào tổ chức của mình, anh/chị có thể giảm bớt sự mâu thuẫn, tăng cường sự cộng tác và khả năng phục hồi trong chuỗi cung ứng và hoạt động của mình, cũng như đẩy nhanh tiến độ hướng tới một môi trường xây dựng bền vững.\rCho dù anh/chị muốn triển khai BIM trong toàn tổ chức hay chuỗi cung ứng của mình, nâng cao kiến ​​thức về BIM của nhóm anh/chị hay tăng cường bảo mật kỹ thuật số, BSI đều có giải pháp phù hợp cho anh/chị."
+  },
+  {
+    "slide": 15,
+    "path": "8",
+    "text": "Tiếp tục hành trình BIM của anh/chị ngay hôm nay"
+  },
+  {
+    "slide": 15,
+    "path": "12",
+    "text": "Nói chuyện với các chuyên gia BIM của chúng tôi"
+  },
+  {
+    "slide": 15,
+    "path": "22",
+    "text": "Trung cấp"
+  },
+  {
+    "slide": 15,
+    "path": "23",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 15,
+    "path": "24",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 16,
+    "path": "5",
+    "text": "BIM đã phát triển: anh/chị có bắt kịp tốc độ không?"
+  },
+  {
+    "slide": 16,
+    "path": "16",
+    "text": "Tiến lên"
+  },
+  {
+    "slide": 16,
+    "path": "22",
+    "text": "Tiến lên"
+  },
+  {
+    "slide": 16,
+    "path": "23",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 16,
+    "path": "24",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 16,
+    "path": "17",
+    "text": "Nội dung"
+  },
+  {
+    "slide": 16,
+    "path": "18",
+    "text": "Đưa trải nghiệm BIM của anh/chị lên một tầm cao mới\rSự tập trung ngày càng tăng vào bảo mật kỹ thuật số trong suốt vòng đời Thiết lập nền tảng cho niềm tin kỹ thuật số"
+  },
+  {
+    "slide": 16,
+    "path": "19",
+    "text": "Chia tỷ lệ BIM"
+  },
+  {
+    "slide": 16,
+    "path": "20",
+    "text": "Case Study: KEO, Chứng minh sự trưởng thành"
+  },
+  {
+    "slide": 17,
+    "path": "4",
+    "text": "BIM có thể đã giúp anh/chị thiết lập các quy trình linh hoạt và an toàn trong các dự án của mình, giảm rủi ro, tận dụng hiệu quả chi phí và xây dựng niềm tin của khách hàng. Nó cũng có thể cho phép anh/chị và tổ chức của anh/chị nắm bắt những cơ hội mới, tăng cường chất lượng và tăng tốc hoạt động kinh doanh hoặc\rhiệu suất cá nhân.\rĐể quản lý rủi ro tốt hơn và tạo ra các cơ hội lâu dài từ BIM, các nhóm phải thường xuyên xem xét cách nó được sử dụng trong các dự án khác nhau, cũng như vai trò của nó trong tương lai của ngành xây dựng.\rVí dụ, quá trình số hóa nhanh chóng trong thập kỷ qua đã làm tăng đáng kể dữ liệu về khối lượng, tính đa dạng và tốc độ. Điều này đang tạo ra những cơ hội mới cho việc cộng tác theo thời gian thực, phân tích dự đoán và tự động hóa nâng cao."
+  },
+  {
+    "slide": 17,
+    "path": "5",
+    "text": "Đưa trải nghiệm BIM của anh/chị lên một tầm cao mới"
+  },
+  {
+    "slide": 17,
+    "path": "6",
+    "text": "Mặc dù điều này mở ra những khả năng mới nhưng nó cũng đặt ra những lo ngại quan trọng về bảo mật thông tin, quản trị và\rniềm tin kỹ thuật số trong suốt vòng đời xây dựng và xây dựng.\rKhi BIM được áp dụng rộng rãi hơn, điều cần thiết là phải chứng minh sự trưởng thành của BIM của anh/chị. Điều này không chỉ tạo nên sự khác biệt cho khả năng của anh/chị mà còn củng cố vị thế của anh/chị trên thị trường\rđồng thời thể hiện cam kết của anh/chị đối với sự đổi mới kỹ thuật số và niềm tin vào môi trường xây dựng. Quản lý bảo mật thông tin và kỹ thuật số là một lĩnh vực quan trọng mà qua đó anh/chị có thể chứng tỏ sự trưởng thành này."
+  },
+  {
+    "slide": 17,
+    "path": "16",
+    "text": "Tiến lên"
+  },
+  {
+    "slide": 17,
+    "path": "17",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 17,
+    "path": "18",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 18,
+    "path": "2",
+    "text": "Sự tập trung ngày càng tăng vào bảo mật kỹ thuật số trong suốt vòng đời"
+  },
+  {
+    "slide": 18,
+    "path": "3",
+    "text": "Kể từ khi BIM ra đời, tốc độ áp dụng công nghệ và số hóa trong xây dựng đã tăng nhanh, kéo theo bối cảnh rủi ro ngày càng phức tạp.\rMột số ví dụ quan trọng bao gồm:"
+  },
+  {
+    "slide": 18,
+    "path": "8",
+    "text": "Bảo mật của Hệ thống tự động hóa tòa nhà (BAS)\rBAS kiểm soát hệ thống sưởi, thông gió, chiếu sáng và các hệ thống quan trọng khác. Vi phạm an ninh có thể dẫn đến sự khó chịu, thiệt hại hoặc thậm chí là các mối nguy hiểm về an toàn. Các giao thức bảo mật, biện pháp kiểm soát truy cập và cập nhật hệ thống thường xuyên là rất quan trọng để ngăn chặn truy cập trái phép và các cuộc tấn công mạng."
+  },
+  {
+    "slide": 18,
+    "path": "9",
+    "text": "Bảo mật dữ liệu trong BIM và Digital Twins\rMô hình thông tin tòa nhà (BIM) và bản sao kỹ thuật số nắm giữ lượng lớn dữ liệu nhạy cảm về thiết kế, xây dựng và vận hành của tòa nhà. Vi phạm dữ liệu có thể\rlộ tài sản trí tuệ, tiết lộ lỗ hổng hoặc làm gián đoạn hoạt động của tòa nhà. Mã hóa dữ liệu mạnh mẽ, kiểm soát quyền truy cập và lưu trữ đám mây an toàn là những biện pháp bảo vệ cần thiết."
+  },
+  {
+    "slide": 18,
+    "path": "10",
+    "text": "Bảo mật Internet vạn vật (IoT) trong các tòa nhà\rViệc sử dụng ngày càng nhiều các thiết bị IoT cho các chức năng khác nhau như\rcảm biến nhiệt độ hoặc máy dò chiếm chỗ đặt ra những thách thức bảo mật mới. Những kẻ tấn công có thể khai thác các thiết bị không bảo mật để giành quyền truy cập vào mạng xây dựng hoặc khởi động các cuộc tấn công mạng. Việc triển khai phân đoạn, tường lửa và các giao thức xác thực thiết bị an toàn là rất quan trọng."
+  },
+  {
+    "slide": 18,
+    "path": "11",
+    "text": "Nhận thức về an ninh mạng cho nhân viên tòa nhà\rLỗi của con người là một yếu tố quan trọng trong nhiều cuộc tấn công mạng. Giáo dục chủ sở hữu tòa nhà, người vận hành và người quản lý cơ sở về các phương pháp hay nhất về an ninh mạng như nhận thức về lừa đảo và vệ sinh mật khẩu là rất quan trọng."
+  },
+  {
+    "slide": 18,
+    "path": "21",
+    "text": "Tiến lên"
+  },
+  {
+    "slide": 18,
+    "path": "22",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 18,
+    "path": "23",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 19,
+    "path": "2",
+    "text": "Thiết lập nền tảng cho niềm tin kỹ thuật số"
+  },
+  {
+    "slide": 19,
+    "path": "3",
+    "text": "Để giải quyết các thách thức kỹ thuật số ngày càng tăng trong môi trường xây dựng, chứng nhận Kitemark BSI BIM được cập nhật của chúng tôi hiện bao gồm BIM An ninh (ISO 19650-5), nâng cao quy trình bảo mật trong các dự án của anh/chị. Chứng nhận này đánh giá mức độ tổ chức của anh/chị tích hợp các nguyên tắc bảo mật theo thông số kỹ thuật BS EN ISO 19650-5, tập trung vào Cách tiếp cận chú trọng an ninh đến BIM.\rVới chứng nhận BSI cập nhật, anh/chị có thể chứng tỏ rằng các dự án của mình được triển khai thông qua các quy trình an toàn, đáng tin cậy—vượt quá sự mong đợi của khách hàng, các bên liên quan và đối tác, đồng thời nâng cao niềm tin vào khả năng bảo mật kỹ thuật số của anh/chị."
+  },
+  {
+    "slide": 19,
+    "path": "4",
+    "text": "Một khuôn khổ vững chắc cho niềm tin kỹ thuật số và bảo mật BIM giúp giải quyết các thách thức chung của ngành như:"
+  },
+  {
+    "slide": 19,
+    "path": "9",
+    "text": "Phân mảnh:\rNgành xây dựng thường có thể hoạt động trong các hầm chứa. Điều này tạo ra những thách thức cho việc thực hiện các biện pháp bảo mật dữ liệu nhất quán và thúc đẩy\rvăn hóa tin cậy kỹ thuật số trên toàn chuỗi cung ứng."
+  },
+  {
+    "slide": 19,
+    "path": "11",
+    "text": "Cơ sở hạ tầng kế thừa:\rNhiều tòa nhà hiện tại thiếu cơ sở hạ tầng cần thiết để hỗ trợ các công nghệ kỹ thuật số tiên tiến, cần phải nâng cấp hoặc trang bị thêm để đảm bảo thu thập và sử dụng dữ liệu an toàn và đáng tin cậy."
+  },
+  {
+    "slide": 19,
+    "path": "12",
+    "text": "Nhầm lẫn về quyền sở hữu dữ liệu:\rCác thỏa thuận rõ ràng về quyền sở hữu dữ liệu, quyền truy cập và giới hạn sử dụng là rất quan trọng trong lĩnh vực BE, nơi nhiều bên liên quan cộng tác trong các dự án."
+  },
+  {
+    "slide": 19,
+    "path": "13",
+    "text": "Thực tiễn tốt nhất đã lỗi thời:\rLực lượng lao động xây dựng cần được trang bị những kỹ năng và trình độ học vấn cần thiết để thực hiện hiệu quả\rtận dụng các công cụ kỹ thuật số và hiểu các phương pháp hay nhất để bảo mật dữ liệu\rvà sự riêng tư."
+  },
+  {
+    "slide": 19,
+    "path": "14",
+    "text": "+"
+  },
+  {
+    "slide": 19,
+    "path": "36",
+    "text": "Tiến lên"
+  },
+  {
+    "slide": 19,
+    "path": "37",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 19,
+    "path": "38",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 20,
+    "path": "3",
+    "text": "Mở rộng BIM và áp dụng Xây dựng 4.0\rTương lai của môi trường xây dựng sẽ tập trung vào ba đặc điểm cốt lõi: tính linh hoạt, khả năng tương tác và khả năng phục hồi. Các dự án phát triển thành phố thông minh như Thành phố Sejong ở Hàn Quốc và The Palm ở Dubai, Các Tiểu vương quốc Ả Rập Thống nhất (UAE) đã cho thấy việc tạo ra các thành phố và tòa nhà thông minh dựa trên công nghệ và quy trình tập hợp các chuyên gia từ khắp biên giới và tạo điều kiện cho sự hợp tác không hạn chế. BIM đóng vai trò rất lớn trong các dự án như thế này và sự phát triển của BIM đang tăng tốc.\rCác nhà đổi mới đã tích hợp các giải pháp BIM của họ vào môi trường đám mây thông qua mô hình Shared (còn được gọi là Open BIM). Họ cũng đang mở rộng các ứng dụng BIM để bao gồm các khía cạnh như quản lý thời gian, kiểm soát chi phí và quản lý vòng đời toàn diện của các tòa nhà.\rĐể đảm bảo vị trí dẫn đầu trong tương lai của lĩnh vực xây dựng, các tổ chức phải áp dụng phương pháp tiếp cận kỹ thuật số ưu tiên, sử dụng BIM để thiết kế mà không bị ràng buộc và quản lý hiệu quả các dự án phức tạp quy mô lớn một cách an toàn và hiệu quả.\rCác tổ chức trong lĩnh vực này đang ngày càng chuyển sang BSI để giúp hiện thực hóa các mục tiêu BIM và Xây dựng 4.0 đầy tham vọng này. Các giải pháp và tiêu chuẩn đào tạo của chúng tôi giúp các chuyên gia mở rộng kiến ​​thức và áp dụng các quy trình mạnh mẽ nhằm tạo ra các tòa nhà thông minh an toàn, bền vững và hiệu quả."
+  },
+  {
+    "slide": 20,
+    "path": "4",
+    "text": "Chia tỷ lệ BIM"
+  },
+  {
+    "slide": 20,
+    "path": "14",
+    "text": "Tiến lên"
+  },
+  {
+    "slide": 20,
+    "path": "15",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 20,
+    "path": "16",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 21,
+    "path": "12",
+    "text": "Nghiên cứu điển hình: KEO, Chứng minh sự trưởng thành của BIM"
+  },
+  {
+    "slide": 21,
+    "path": "14",
+    "text": "Tiến lên"
+  },
+  {
+    "slide": 21,
+    "path": "15",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 21,
+    "path": "16",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 22,
+    "path": "2",
+    "text": "KEO thể hiện chuyên môn và khả năng lãnh đạo với Kitemark Thiết kế và Xây dựng BIM của BSI (ISO 19650)\rKEO là nhà tư vấn quốc tế, cung cấp các dịch vụ trọn gói trong lĩnh vực xây dựng và tự nhiên.\rlĩnh vực môi trường. Họ là một trong số ít ở Trung Đông hoạt động trong ngành Kiến trúc, Kỹ thuật và Xây dựng (AEC). Trong hơn 57 năm, KEO đã dẫn đầu bằng tầm nhìn, đóng góp vào nhiều dự án đầy tham vọng nhất thế giới và những địa điểm mang tính biểu tượng ở Trung Đông."
+  },
+  {
+    "slide": 22,
+    "path": "3",
+    "text": "KEO coi chứng nhận Kitemark cho BIM (ISO 19650) là một lợi thế cạnh tranh. Một tổ chức sẽ thể hiện khả năng lãnh đạo thông qua sự hợp tác minh bạch và toàn ngành bằng cách sử dụng các tiêu chuẩn quốc tế. BSI Kitemark thể hiện khả năng của KEO và cho khách hàng cũng như cộng tác viên thấy rằng KEO sử dụng BIM để quản lý thông tin một cách có hệ thống và an toàn trong toàn bộ vòng đời của KEO.\rmột tài sản được xây dựng"
+  },
+  {
+    "slide": 22,
+    "path": "4",
+    "text": "Kể từ khi đạt được chứng nhận Kitemark Thiết kế và Xây dựng Mô hình Thông tin Công trình (BIM) (ISO 19650) của BSI, KEO đã nhận được sự công nhận ngày càng tăng trong ngành. Được trang bị ISO 19650, công ty hiện thể hiện các quy trình linh hoạt và an toàn kỹ thuật số trong suốt vòng đời của tài sản."
+  },
+  {
+    "slide": 22,
+    "path": "7",
+    "text": "\"BIM là cách tiêu chuẩn của chúng tôi để thực hiện các dự án và nó được sử dụng cho hầu hết những gì chúng tôi làm. Nó đóng một vai trò mạnh mẽ trong việc thống nhất và điều chỉnh các quy trình, tiêu chuẩn và thủ tục của chúng tôi, và Dấu Kitemark BSI cho Thiết kế và Xây dựng BIM là bằng chứng về điều này.\""
+  },
+  {
+    "slide": 22,
+    "path": "8",
+    "text": "Tại sao lại là BSI?\r“Chúng tôi chọn BSI hơn các công ty khác vì sự hiện diện toàn cầu và mức độ phù hợp trên toàn thế giới nhờ chuyên môn và kinh nghiệm hàng đầu về tiêu chuẩn, thực hành tốt nhất và đổi mới.”"
+  },
+  {
+    "slide": 22,
+    "path": "9",
+    "text": "Juan Tena Florez\rGiám đốc thiết kế kỹ thuật số khu vực, KEO."
+  },
+  {
+    "slide": 22,
+    "path": "10",
+    "text": "Dấu Kitemark Thiết kế và Xây dựng BIM hiện kết hợp Dấu Kitemark BSI cho Bảo mật BIM (ISO 19650-5). Điều này cho phép các doanh nghiệp như KEO chứng minh, thông qua xác minh độc lập, rằng việc triển khai dự án của họ được quản lý bằng biện pháp bảo mật kỹ thuật số mạnh mẽ và tốt nhất. Nó cũng cho thấy rằng họ nỗ lực hết mình để mang lại cho khách hàng sự tin cậy và tin tưởng."
+  },
+  {
+    "slide": 22,
+    "path": "21",
+    "text": "Tiến lên"
+  },
+  {
+    "slide": 22,
+    "path": "22",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 22,
+    "path": "23",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 23,
+    "path": "5",
+    "text": "Tạo điều kiện thuận lợi cho sự tiến bộ và mở ra các cơ hội toàn cầu với BIM"
+  },
+  {
+    "slide": 23,
+    "path": "9",
+    "text": "Tiếp tục hành trình BIM của anh/chị ngay hôm nay"
+  },
+  {
+    "slide": 23,
+    "path": "13",
+    "text": "Nói chuyện với các chuyên gia BIM của chúng tôi"
+  },
+  {
+    "slide": 23,
+    "path": "14",
+    "text": "Tạo điều kiện thuận lợi cho tiến trình và đạt được lợi thế cạnh tranh với chứng nhận BSI BIM, bao gồm chứng nhận Kitemark mới và cải tiến, hiện bao gồm Cách tiếp cận chú trọng an ninh đến quản lý thông tin. Đẩy nhanh các cơ hội của anh/chị và giành được các gói thầu mới bằng cách mở ra khả năng tiếp cận các thị trường trong nước và quốc tế đòi hỏi phải tuân thủ bộ tiêu chuẩn ISO 19650 trong khi tạo ra câu chuyện thành công BIM của riêng anh/chị."
+  },
+  {
+    "slide": 23,
+    "path": "23",
+    "text": "Tiến lên"
+  },
+  {
+    "slide": 23,
+    "path": "24",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 23,
+    "path": "25",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 24,
+    "path": "5",
+    "text": "Tiềm năng của tư duy ưu tiên bảo mật"
+  },
+  {
+    "slide": 24,
+    "path": "16",
+    "text": "Tiên phong"
+  },
+  {
+    "slide": 24,
+    "path": "23",
+    "text": "Tiên phong"
+  },
+  {
+    "slide": 24,
+    "path": "24",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 24,
+    "path": "25",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 24,
+    "path": "17",
+    "text": "Nội dung"
+  },
+  {
+    "slide": 24,
+    "path": "18",
+    "text": "Đẩy nhanh tiến độ hướng tới một thế giới kiên cường và bền vững\rCác yếu tố toàn cầu thúc đẩy việc áp dụng BIM\rTận dụng BIM để đẩy nhanh tiến độ hướng tới một thế giới bền vững hơn"
+  },
+  {
+    "slide": 24,
+    "path": "19",
+    "text": "BIM và nền kinh tế tuần hoàn"
+  },
+  {
+    "slide": 24,
+    "path": "20",
+    "text": "BIM và giảm chi phí để tăng khả năng phục hồi"
+  },
+  {
+    "slide": 24,
+    "path": "21",
+    "text": "Nghiên cứu điển hình: Chấn lưu Nedam"
+  },
+  {
+    "slide": 25,
+    "path": "3",
+    "text": "Là một chuyên gia giàu kinh nghiệm và có tầm ảnh hưởng trong lĩnh vực này, anh/chị là thành viên của tập thể đang định hình tương lai của môi trường xây dựng. Xây dựng 4.0. Các nhà lãnh đạo trong lĩnh vực này đã xác định lại kỳ vọng bằng cách thiết kế các tòa nhà thông minh, bền vững, mang lại điều gì đó mới mẻ về chất lượng và khác biệt cho người cư ngụ."
+  },
+  {
+    "slide": 25,
+    "path": "4",
+    "text": "Đẩy nhanh tiến độ hướng tới một thế giới kiên cường và bền vững"
+  },
+  {
+    "slide": 25,
+    "path": "5",
+    "text": "BIM đóng vai trò then chốt trong việc thúc đẩy Xây dựng 4.0 và"
+  },
+  {
+    "slide": 25,
+    "path": "6",
+    "text": "tăng cường tính bền vững, cung cấp một khuôn khổ mạnh mẽ để tích hợp các sáng kiến ​​mới về môi trường, xã hội và quản trị (ESG). Giải pháp mạnh mẽ này có thể được tận dụng làm nền tảng cho sự tiến bộ xã hội trong môi trường xây dựng trên quy mô toàn cầu.\rAnh/chị đóng một vai trò mạnh mẽ trong việc chứng minh BIM có thể có tác động tích cực lâu dài như thế nào đối với xã hội. Đó là lý do tại sao các nhà lãnh đạo và người tạo ra sự thay đổi như anh/chị phải khuyến khích mạng lưới và đồng nghiệp của mình đạt được các tiêu chuẩn BIM cao nhất.\rDấu Kitemark BSI dành cho bảo mật BIM\r(ISO 19650-5) có thể giúp các tổ chức trên toàn cầu nắm bắt một cách an toàn các cơ hội kỹ thuật số mà dữ liệu môi trường xây dựng mang lại, đồng thời tạo ra một tương lai an toàn, bền vững và kết nối cho tất cả mọi người."
+  },
+  {
+    "slide": 25,
+    "path": "8",
+    "text": "“Cho đến nay, các tòa nhà và lĩnh vực xây dựng là nguồn phát thải khí nhà kính lớn nhất, chiếm tới 37% lượng khí thải toàn cầu.\rChương trình Môi trường Liên Hiệp Quốc1"
+  },
+  {
+    "slide": 25,
+    "path": "9",
+    "text": "1 - Vật liệu xây dựng và khí hậu: Xây dựng một tương lai mới, UNEP, https://www.unep.org/re-sources/report/building-materials-and-climate-constructing-new-future, tháng 9 năm 2023"
+  },
+  {
+    "slide": 25,
+    "path": "19",
+    "text": "Tiên phong"
+  },
+  {
+    "slide": 25,
+    "path": "20",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 25,
+    "path": "21",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 26,
+    "path": "2",
+    "text": "Các yếu tố toàn cầu thúc đẩy việc áp dụng BIM"
+  },
+  {
+    "slide": 26,
+    "path": "3",
+    "text": "Ngày nay, một số “xu hướng lớn” toàn cầu có mối liên hệ với nhau đang đặt ra chương trình nghị sự cho tất cả những ai tham gia vào việc định hình tương lai của môi trường xây dựng.\rĐặc biệt, các chính phủ đang chịu áp lực ngày càng tăng trong việc đưa ra và thực thi các biện pháp khử cacbon thông qua các quy định, trợ cấp và khuyến khích, bên cạnh các nhiệm vụ như Mục tiêu Phát triển Bền vững của Liên hợp quốc. Hiệu ứng nhỏ giọt này cũng sẽ thúc đẩy các công ty tư nhân, nhà đầu tư và khách hàng hành động bền vững và có trách nhiệm.\rĐể điều hướng các xu hướng này một cách hiệu quả, các tổ chức phải sử dụng các công nghệ và quy trình tiên tiến như BIM, mang lại lợi thế chiến lược\rtrong việc thích ứng với những thay đổi toàn cầu này. Việc tích hợp hiệu quả chứng nhận BIM vào mô hình hoạt động của họ giúp các tổ chức giải quyết những vấn đề quan trọng này, mang lại lợi ích hữu hình không chỉ cho ngành mà còn cho xã hội nói chung."
+  },
+  {
+    "slide": 26,
+    "path": "8",
+    "text": "Đô thị hóa nhanh chóng và tăng trưởng dân số\rXu hướng xã hội và các sự kiện địa chính trị (bao gồm cả đại dịch) đang làm gia tăng việc di chuyển đến các thành phố, đặc biệt là ở châu Á. Đến năm 2050, ước tính có khoảng 68% dân số thế giới sẽ sống ở\rkhu vực đô thị. Điều này sẽ gây thêm căng thẳng cho môi trường toàn cầu nói chung và ngành xây dựng nói riêng."
+  },
+  {
+    "slide": 26,
+    "path": "9",
+    "text": "Cuộc đại tuyệt chủng thứ sáu\rSự suy giảm nhanh chóng về đa dạng sinh học toàn cầu, được tăng cường bởi các quá trình và việc sử dụng vật liệu của môi trường xây dựng, có nguy cơ làm sụp đổ các hệ sinh thái tự nhiên cần thiết cho sự sống còn của chúng ta.\rĐiều này nhấn mạnh sự cần thiết của các biện pháp xây dựng bền vững được BIM hỗ trợ."
+  },
+  {
+    "slide": 26,
+    "path": "10",
+    "text": "Mô hình ‘lấy làm lãng phí’\rSự phụ thuộc lâu dài của chúng ta vào mô hình tiêu dùng chỉ đi theo một hướng – từ nguyên liệu thô đến chất thải – là không bền vững. Chính phủ và doanh nghiệp phải nắm bắt thông tư\rkinh tế nếu chúng muốn ngăn chặn những thiệt hại cho môi trường trong tương lai và giảm thiểu chất thải."
+  },
+  {
+    "slide": 26,
+    "path": "11",
+    "text": "Thay đổi ưu tiên công\rCác thế hệ mới đang bước vào các vị trí lãnh đạo cấp cao mong đợi sự bền vững – trong kinh doanh và chính trị. Điều này có ý nghĩa rất lớn đối với tính minh bạch của tổ chức và chiến lược hoạt động."
+  },
+  {
+    "slide": 26,
+    "path": "12",
+    "text": "Trình điều khiển áp dụng BIM"
+  },
+  {
+    "slide": 26,
+    "path": "22",
+    "text": "Tiên phong"
+  },
+  {
+    "slide": 26,
+    "path": "23",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 26,
+    "path": "24",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 27,
+    "path": "3",
+    "text": "Vậy nó hoạt động như thế nào?\rViệc sử dụng tốt BIM có thể giúp ngành xây dựng vượt qua những thách thức lớn của ngành. Bằng cách thống nhất dữ liệu giữa các bên liên quan khác nhau trong các dự án xây dựng và cơ sở hạ tầng, các cơ hội mới về hiệu quả và đổi mới có thể được tận dụng. BIM cũng cung cấp cho các tổ chức trong toàn bộ chuỗi giá trị một khuôn khổ để họ có thể báo cáo hiệu quả về lượng khí thải carbon.\rChứng nhận Kitemark BSI BIM có thể giúp các tổ chức trưởng thành trong việc xây dựng chuỗi giá trị như:\rNó định vị các công ty là người dẫn đầu thị trường bằng cách thể hiện các quy trình hoàn thiện và khả năng nổi bật trong đổi mới kỹ thuật số và tính bền vững, từ đó đảm bảo hoạt động của họ trong tương lai.\rNó tăng cường khả năng phục hồi: Về cốt lõi, BIM tập trung vào việc thúc đẩy giá trị và hiệu quả trong suốt vòng đời, giúp các bên liên quan giảm chi phí và tăng sức mạnh đấu thầu.\rÍt chất thải hơn có nghĩa là chi phí thấp hơn nhờ vào khuôn khổ chung để chia sẻ dữ liệu, liên kết quy trình và minh bạch.\rNiềm tin kỹ thuật số rất quan trọng đối với hoạt động kinh doanh và lập kế hoạch hợp tác ngày nay; việc có thể chứng minh phương pháp thực hành tốt nhất về bảo mật kỹ thuật số sẽ giúp ích rất nhiều cho việc nâng cao thông tin xác thực của anh/chị."
+  },
+  {
+    "slide": 27,
+    "path": "4",
+    "text": "Tận dụng BIM để đẩy nhanh tiến độ hướng tới một thế giới bền vững hơn"
+  },
+  {
+    "slide": 27,
+    "path": "18",
+    "text": "Tiên phong"
+  },
+  {
+    "slide": 27,
+    "path": "19",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 27,
+    "path": "20",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 28,
+    "path": "2",
+    "text": "BIM và nền kinh tế tuần hoàn"
+  },
+  {
+    "slide": 28,
+    "path": "3",
+    "text": "BIM có thể giúp các tổ chức tận dụng các nguyên tắc kinh tế tuần hoàn bằng cách nào?"
+  },
+  {
+    "slide": 28,
+    "path": "4",
+    "text": "Khi nói đến việc giúp các chuyên gia môi trường xây dựng đạt được mục tiêu bền vững của họ, BIM là một công cụ vô cùng quý giá.\rBIM tăng cường sự cộng tác và hiệu quả trong việc thiết kế, triển khai và bảo trì các tài sản được xây dựng trong suốt vòng đời của chúng, được hỗ trợ bởi công nghệ tiên tiến."
+  },
+  {
+    "slide": 28,
+    "path": "12",
+    "text": "Nó giúp các tổ chức:\rTạo ra lợi nhuận ngay lập tức.\rTính toán chính xác hơn khối lượng vật liệu cần thiết.\rChọn xung quanh các sản phẩm và dịch vụ thân thiện với môi trường hơn.\rĐo lường hiệu quả sử dụng năng lượng của tòa nhà thông qua các mô hình mô phỏng.\rĐặt nền tảng cho các dự án IoT như bản sao kỹ thuật số."
+  },
+  {
+    "slide": 28,
+    "path": "13",
+    "text": "Tiết kiệm chi phí và hiệu quả từ BIM có thể được tái đầu tư vào các lĩnh vực quan trọng như sử dụng và phát triển vật liệu thân thiện với môi trường, cũng như các chương trình đa dạng và hòa nhập, khiến các công ty trở nên hấp dẫn hơn đối với thế hệ chuyên gia tiếp theo.\rĐạt được chứng nhận Kitemark BSI là một cách tuyệt vời để đảm bảo anh/chị có sẵn kiến ​​thức và quy trình để mở rộng quy mô sáng kiến ​​BIM của mình và thực hiện các dự án bền vững."
+  },
+  {
+    "slide": 28,
+    "path": "24",
+    "text": "Tiên phong"
+  },
+  {
+    "slide": 28,
+    "path": "25",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 28,
+    "path": "26",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 29,
+    "path": "3",
+    "text": "Giảm chi phí để tăng khả năng phục hồi\rTrong nền kinh tế toàn cầu ngày nay, việc hạn chế chi tiêu có thể sẽ là một vấn đề đáng được cân nhắc liên tục đối với các bên liên quan trong môi trường xây dựng. Đây là lĩnh vực mà BIM có thể mang lại giá trị lớn, đặc biệt là trong giai đoạn khám phá và lập kế hoạch.\rCác dự án xây dựng lớn thường có thời gian dài. Bằng cách tận dụng các nguyên tắc BIM để tạo điều kiện cho sự hợp tác chặt chẽ giữa các bên liên quan khi bắt đầu dự án, anh/chị có thể hiểu sâu hơn về hoạt động của các công ty đối tác. Điều này có thể cung cấp thông tin cho việc ra quyết định chiến lược, tối ưu hóa quy trình và giảm thiểu lãng phí, từ đó giảm chi phí.\rCông nghệ và quy trình BIM cho phép các nhà quản lý tài chính tạo ra các ước tính chi phí đáng tin cậy hơn và loại bỏ hoàn toàn lỗi của con người\rtrong việc dự báo. Thông qua việc phát hiện sớm các xung đột, BIM cải thiện hiệu quả, giảm việc làm lại và giảm thiểu bội chi tài chính. Nhìn chung, BIM có thể đóng vai trò chính trong việc nâng cao hiệu quả chi phí cho các dự án xây dựng và chứng nhận Kitemark có thể đảm bảo rằng tất cả các bên liên quan đều tuân thủ các nguyên tắc BIM ở mức tiêu chuẩn hóa trở lên."
+  },
+  {
+    "slide": 29,
+    "path": "4",
+    "text": "BIM và giảm chi phí để tăng khả năng phục hồi"
+  },
+  {
+    "slide": 29,
+    "path": "14",
+    "text": "Tiên phong"
+  },
+  {
+    "slide": 29,
+    "path": "15",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 29,
+    "path": "16",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 30,
+    "path": "12",
+    "text": "Nghiên cứu điển hình: Chấn lưu Nedam"
+  },
+  {
+    "slide": 30,
+    "path": "14",
+    "text": "Tiên phong"
+  },
+  {
+    "slide": 30,
+    "path": "15",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 30,
+    "path": "16",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 31,
+    "path": "2",
+    "text": "BIM đang hoạt động:\rChia tỷ lệ BIM bằng Ballast Nedam\rBallast Nedam là một công ty xây dựng và kỹ thuật của Hà Lan có khoảng 2.000 nhân viên. Cam kết liên tục đổi mới và số hóa các quy trình làm việc của mình, Ballast Nedam\rlà nhà tiên phong được công nhận của BIM trên phạm vi quốc tế. Họ quyết định đạt được BSI Kitemark cho ISO 19650 phần 1 và 2, tăng tính minh bạch, hiệu quả và chất lượng trong các dự án và quy trình. BIM đã cho phép phát hiện các xung đột trong thiết kế tòa nhà được cải thiện hơn nhiều, dẫn đến ít vấn đề xảy ra hơn khi dự án phát triển và có khả năng tiết kiệm đáng kể thời gian và chi phí khi khắc phục chúng."
+  },
+  {
+    "slide": 31,
+    "path": "4",
+    "text": "\"Một cái nhìn có ý thức về các quy trình của chúng tôi và cách chúng tôi có thể tổ chức chúng hiệu quả hơn, nằm trong DNA công ty của chúng tôi. Chúng tôi nhận ra rằng BIM là vấn đề tiêu chuẩn hóa các quy trình hơn là lập mô hình. Để các quy trình này bền vững, cần có các quy trình và tiêu chuẩn được chấp nhận và áp dụng trong toàn công ty.\""
+  },
+  {
+    "slide": 31,
+    "path": "6",
+    "text": "Serkan Sen, Trưởng phòng BIM, Thiết kế & Kỹ thuật Tòa nhà, Ballast Nedam."
+  },
+  {
+    "slide": 31,
+    "path": "16",
+    "text": "Tiên phong"
+  },
+  {
+    "slide": 31,
+    "path": "17",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 31,
+    "path": "18",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 32,
+    "path": "2",
+    "text": "Nhúng BIM vào chuỗi giá trị của anh/chị và hưởng lợi từ tác động tiên phong dẫn đầu ngành"
+  },
+  {
+    "slide": 32,
+    "path": "4",
+    "text": "Nâng cao chuỗi giá trị của anh/chị và đảm bảo tác động lâu dài bằng cách lồng ghép sự cộng tác và các biện pháp thực hành tốt nhất xuyên suốt. Với tư cách là đối tác đáng tin cậy của anh/chị, chúng tôi có thể giúp anh/chị nâng cấp các chiến lược quản lý thông tin của mình bằng chương trình chứng nhận Kitemark nâng cao của chúng tôi, hiện đã tích hợp Cách tiếp cận chú trọng an ninh. Bằng cách thể hiện khả năng lãnh đạo của mình trong lĩnh vực tin cậy kỹ thuật số, anh/chị sẽ tăng tốc cơ hội giành được các gói thầu dự án chiến lược và tạo ra câu chuyện hấp dẫn về tác động của ngành."
+  },
+  {
+    "slide": 32,
+    "path": "8",
+    "text": "Tiếp tục hành trình BIM của anh/chị ngay hôm nay"
+  },
+  {
+    "slide": 32,
+    "path": "12",
+    "text": "Nói chuyện với các chuyên gia BIM của chúng tôi"
+  },
+  {
+    "slide": 32,
+    "path": "22",
+    "text": "Tiên phong"
+  },
+  {
+    "slide": 32,
+    "path": "23",
+    "text": "Chuyển đến Dịch vụ"
+  },
+  {
+    "slide": 32,
+    "path": "24",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 33,
+    "path": "2",
+    "text": "Tổng hợp các dịch vụ BIM của BSI"
+  },
+  {
+    "slide": 33,
+    "path": "4",
+    "text": "Các khóa học và bằng cấp của BIM\rHiểu rõ hơn về BIM là gì, cách triển khai nó và xây dựng năng lực để tiếp tục đạt được phương pháp thực hành tốt nhất với các khóa học và chứng chỉ BIM ISO19650 của chúng tôi."
+  },
+  {
+    "slide": 33,
+    "path": "6",
+    "text": "Giấy chứng nhận phù hợp BIM\rGiải pháp này đã được phát triển cho bất kỳ tổ chức nào tham gia sử dụng BIM. Nó sẽ giúp anh/chị chứng minh khả năng BIM của mình thông qua xác minh độc lập và khách quan của bên thứ ba."
+  },
+  {
+    "slide": 33,
+    "path": "8",
+    "text": "Đánh giá khoảng cách BIM\rĐánh giá tùy chọn này giúp anh/chị xác định mọi lỗ hổng trong tài liệu mà tiêu chuẩn yêu cầu. Đánh giá khoảng cách giúp anh/chị chuẩn bị cho đội ngũ quản lý của mình tham gia sâu hơn và giúp nhân viên nắm bắt những thay đổi cần thiết, giúp anh/chị tiết kiệm thời gian và tiền bạc. Ngoài ra, nó còn đóng vai trò như một công cụ hỗ trợ quản lý dự án có giá trị, hợp lý hóa quy trình và nêu bật những rủi ro và cơ hội tiềm ẩn."
+  },
+  {
+    "slide": 33,
+    "path": "10",
+    "text": "Chứng nhận Kitemark BIM\rPhân biệt các dự án BIM của anh/chị và nâng cao uy tín của anh/chị với chứng nhận Kitemark độc lập của BSI cho BIM. Với chứng nhận, anh/chị có thể\rthúc đẩy tiến bộ trong thị trường cạnh tranh bằng cách chứng minh sự tuân thủ, thể hiện sự trưởng thành của BIM và triển khai các quy trình linh hoạt, an toàn kỹ thuật số trên toàn chuỗi giá trị.\rSau khi được chứng nhận, các chuyến giám sát hàng năm sẽ đảm bảo tuân thủ các tiêu chuẩn mới nhất."
+  },
+  {
+    "slide": 33,
+    "path": "19",
+    "text": "Tiêu chuẩn\rBSI Knowledge, nền tảng trực tuyến của chúng tôi, cung cấp cho anh/chị quyền truy cập vào các tiêu chuẩn BIM cũng như hơn 9.000 tiêu chuẩn liên quan đến môi trường xây dựng, bao gồm các tiêu chuẩn cụ thể về xây dựng và kỹ thuật dân dụng."
+  },
+  {
+    "slide": 33,
+    "path": "25",
+    "text": "Dịch vụ BIM"
+  },
+  {
+    "slide": 33,
+    "path": "26",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 34,
+    "path": "2",
+    "text": "Tiêu chuẩn cho hành trình BIM của anh/chị"
+  },
+  {
+    "slide": 34,
+    "path": "3",
+    "text": "BSI Knowledge, nền tảng trực tuyến của chúng tôi, cung cấp cho anh/chị quyền truy cập vào các tiêu chuẩn BIM cũng như hơn 9.000 tiêu chuẩn liên quan đến môi trường xây dựng, bao gồm các tiêu chuẩn cụ thể về xây dựng và kỹ thuật dân dụng. Các tiêu chuẩn của chúng tôi được thiết kế để giúp anh/chị thiết lập các biện pháp thực hành tốt nhất, xây dựng khả năng phục hồi và bảo mật, nắm bắt các công nghệ mới và có vị trí tốt cho\rtăng trưởng trong tương lai.\rVới đăng ký Kiến thức BSI, bất kỳ ai trong tổ chức của anh/chị cần quyền truy cập vào nhiều tiêu chuẩn đều có thể xem và tải xuống\rhọ. Tất cả các đăng ký đều cung cấp quyền truy cập vào các nhà xuất bản tiêu chuẩn quốc tế và Vương quốc Anh, bao gồm các tiêu chuẩn BS, EN, ISO, PAS, IEC và ASTM."
+  },
+  {
+    "slide": 34,
+    "path": "11",
+    "text": "Với Kiến thức BSI, anh/chị có thể:"
+  },
+  {
+    "slide": 34,
+    "path": "12",
+    "text": "Mua, truy cập và quản lý các tiêu chuẩn của anh/chị ở mọi nơi, từ mọi thiết bị, trong một nền tảng dễ sử dụng.\rKhám phá danh mục tài nguyên toàn diện và thông tin chi tiết về phương pháp hay nhất.\rĐăng ký các mô-đun dựng sẵn hoặc xây dựng tiêu chuẩn được cá nhân hóa\rthu thập, tiết kiệm tiền tổ chức của anh/chị.\rGiảm rủi ro bằng cách đảm bảo sự phù hợp với các yêu cầu quy định.\rTạo niềm tin cho khách hàng bằng cách thể hiện cam kết về chất lượng thông qua việc sử dụng tiêu chuẩn."
+  },
+  {
+    "slide": 34,
+    "path": "20",
+    "text": "Dịch vụ BIM"
+  },
+  {
+    "slide": 34,
+    "path": "21",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 35,
+    "path": "11",
+    "text": "Các khóa học và bằng cấp của BIM"
+  },
+  {
+    "slide": 35,
+    "path": "27",
+    "text": "BIM ISO 19650 Phần 1: Nguyên tắc cơ bản BIM ISO 19650 Phần 2: Phân phối dự án BIM ISO 19650 Phần 3: Giai đoạn vận hành\rBIM ISO 19650 Phần 4: trao đổi thông tin BIM ISO 19650 Phần 5: Tư duy an ninh BIM ISO 19650 Phần 6: Nhận thức về sức khỏe và an toàn BIM\rBIM Tóm tắt/Hội thảo cấp cao"
+  },
+  {
+    "slide": 35,
+    "path": "28",
+    "text": "Hãy học theo cách phù hợp với anh/chị:"
+  },
+  {
+    "slide": 35,
+    "path": "29",
+    "text": "Trực tiếp\rSống trực tuyến"
+  },
+  {
+    "slide": 35,
+    "path": "30",
+    "text": "học trực tuyến\rTrong nhà"
+  },
+  {
+    "slide": 35,
+    "path": "31",
+    "text": "© 2025 BSI. Mọi quyền được bảo lưu.\t35"
+  },
+  {
+    "slide": 36,
+    "path": "33",
+    "text": "Anh/chị có các kỹ năng phù hợp trong tổ chức của mình để đáp ứng các dự án BIM hiện tại hoặc tương lai không?\rKhi BIM trở thành hoạt động kinh doanh bình thường, làm cách nào anh/chị có thể đảm bảo năng lực của nhóm của mình và tính nhất quán trong các dự án BIM?\rChứng chỉ BIM của chúng tôi sẽ mang lại cho anh/chị Dấu tin cậy BSI, trấn an khách hàng, người viết giá thầu và nhóm dự án của anh/chị rằng kỹ năng của anh/chị đã được xác thực. Anh/chị có thể đạt được Người thực hành hoặc\rTrạng thái chuyên nghiệp bằng cách hoàn thành thành công các khóa học và đánh giá liên quan của họ.\rKhi anh/chị đã đạt được chứng chỉ BSI Professional và với ba năm kinh nghiệm liên quan, anh/chị có thể chọn chứng nhận kỹ năng của mình. Chương trình kéo dài ba năm sẽ cung cấp bằng chứng cho thấy kỹ năng của anh/chị dựa trên kinh nghiệm và cập nhật."
+  },
+  {
+    "slide": 36,
+    "path": "62",
+    "text": "+"
+  },
+  {
+    "slide": 36,
+    "path": "63",
+    "text": "+"
+  },
+  {
+    "slide": 36,
+    "path": "64",
+    "text": "+"
+  },
+  {
+    "slide": 36,
+    "path": "65",
+    "text": "+"
+  },
+  {
+    "slide": 36,
+    "path": "66",
+    "text": "+"
+  },
+  {
+    "slide": 36,
+    "path": "67",
+    "text": "+"
+  },
+  {
+    "slide": 36,
+    "path": "68",
+    "text": "+"
+  },
+  {
+    "slide": 36,
+    "path": "69",
+    "text": "+"
+  },
+  {
+    "slide": 36,
+    "path": "70",
+    "text": "Bài thi"
+  },
+  {
+    "slide": 36,
+    "path": "71",
+    "text": "Bài thi"
+  },
+  {
+    "slide": 36,
+    "path": "72",
+    "text": "Bài thi"
+  },
+  {
+    "slide": 36,
+    "path": "73",
+    "text": "Bài thi"
+  },
+  {
+    "slide": 36,
+    "path": "74",
+    "text": "Bài thi"
+  },
+  {
+    "slide": 36,
+    "path": "75",
+    "text": "Bài thi"
+  },
+  {
+    "slide": 36,
+    "path": "77",
+    "text": "Nguyên tắc cơ bản"
+  },
+  {
+    "slide": 36,
+    "path": "79",
+    "text": "Nguyên tắc cơ bản"
+  },
+  {
+    "slide": 36,
+    "path": "80",
+    "text": "Thông tin BIM"
+  },
+  {
+    "slide": 36,
+    "path": "81",
+    "text": "Trao đổi"
+  },
+  {
+    "slide": 36,
+    "path": "82",
+    "text": "Thông tin BIM"
+  },
+  {
+    "slide": 36,
+    "path": "83",
+    "text": "Trao đổi"
+  },
+  {
+    "slide": 36,
+    "path": "84",
+    "text": "Thực tế"
+  },
+  {
+    "slide": 36,
+    "path": "85",
+    "text": "Ứng dụng"
+  },
+  {
+    "slide": 36,
+    "path": "86",
+    "text": "Thực tế"
+  },
+  {
+    "slide": 36,
+    "path": "87",
+    "text": "Ứng dụng"
+  },
+  {
+    "slide": 36,
+    "path": "89",
+    "text": "Dự án"
+  },
+  {
+    "slide": 36,
+    "path": "90",
+    "text": "Vận chuyển"
+  },
+  {
+    "slide": 36,
+    "path": "92",
+    "text": "hoạt động"
+  },
+  {
+    "slide": 36,
+    "path": "93",
+    "text": "Giai đoạn"
+  },
+  {
+    "slide": 36,
+    "path": "94",
+    "text": "BIM Sức khỏe"
+  },
+  {
+    "slide": 36,
+    "path": "95",
+    "text": "và An toàn"
+  },
+  {
+    "slide": 36,
+    "path": "96",
+    "text": "BIM Sức khỏe"
+  },
+  {
+    "slide": 36,
+    "path": "97",
+    "text": "và An toàn"
+  },
+  {
+    "slide": 36,
+    "path": "98",
+    "text": "Bảo mật BIM-"
+  },
+  {
+    "slide": 36,
+    "path": "99",
+    "text": "sự có tâm"
+  },
+  {
+    "slide": 36,
+    "path": "100",
+    "text": "Bảo mật BIM-"
+  },
+  {
+    "slide": 36,
+    "path": "101",
+    "text": "sự có tâm"
+  },
+  {
+    "slide": 36,
+    "path": "102",
+    "text": "Chuyên gia thông tin dự án BIM"
+  },
+  {
+    "slide": 36,
+    "path": "103",
+    "text": "BIM Chuyên gia thông tin tài sản"
+  },
+  {
+    "slide": 36,
+    "path": "104",
+    "text": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  {
+    "slide": 36,
+    "path": "105",
+    "text": "BIM Thông tin tài sản được chứng nhận chuyên nghiệp"
+  },
+  {
+    "slide": 36,
+    "path": "106",
+    "text": "Bài thi"
+  },
+  {
+    "slide": 36,
+    "path": "107",
+    "text": "Bài thi"
+  },
+  {
+    "slide": 36,
+    "path": "108",
+    "text": "Bài thi"
+  },
+  {
+    "slide": 36,
+    "path": "109",
+    "text": "Bài thi"
+  },
+  {
+    "slide": 36,
+    "path": "110",
+    "text": "Chứng cớ"
+  },
+  {
+    "slide": 36,
+    "path": "111",
+    "text": "Lộ trình thông tin dự án BIM\rNgười thực hành thông tin dự án BIM"
+  },
+  {
+    "slide": 36,
+    "path": "112",
+    "text": "Chứng cớ"
+  },
+  {
+    "slide": 36,
+    "path": "113",
+    "text": "Lộ trình thông tin tài sản BIM\rNgười thực hành thông tin tài sản BIM"
+  },
+  {
+    "slide": 36,
+    "path": "146",
+    "text": "Các khóa học và bằng cấp của BIM"
+  },
+  {
+    "slide": 36,
+    "path": "153",
+    "text": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  {
+    "slide": 36,
+    "path": "157",
+    "text": "Dịch vụ BIM"
+  },
+  {
+    "slide": 36,
+    "path": "158",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 37,
+    "path": "4",
+    "text": "Các khóa đào tạo chung về tiêu chuẩn BIM"
+  },
+  {
+    "slide": 37,
+    "path": "5",
+    "text": "BIM ISO 19650 Phần 1: Nguyên tắc cơ bản\rError 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.\r\rKhóa học này rất lý tưởng nếu anh/chị đang áp dụng các phương pháp BIM vào tổ chức của mình hoặc giúp khách hàng hoặc chuỗi cung ứng của anh/chị áp dụng nó. Nó sẽ đặc biệt hữu ích cho các chuyên gia quản lý tài sản và xây dựng bao gồm người quản lý dự án, người quản lý tài sản, nhà thiết kế, nhà xây dựng, nhà sản xuất, nhà thầu bảo trì và người quản lý thông tin."
+  },
+  {
+    "slide": 37,
+    "path": "6",
+    "text": "Hợp tác BIM: Tóm tắt quản lý cấp cao\rKhóa học này sẽ giúp anh/chị hiểu về tác động của các phương pháp tiếp cận số hóa, tinh gọn và hợp tác đối với việc triển khai và sử dụng các tài sản được xây dựng.\rAnh/chị sẽ học được tầm quan trọng của việc đặt ra mục đích rõ ràng và các ưu tiên về cách đạt được những mục tiêu này trong chiến lược triển khai.\rNó nhấn mạnh tầm quan trọng của việc đặt BIM cộng tác trong các quy trình quản lý tài sản và triển khai dự án hiện tại và tương lai cũng như các luồng thông tin cũng như hiểu rõ các vai trò và chức năng chính có liên quan.\rAnh/chị cũng sẽ được xem xét các trường hợp kinh doanh và động lực thay đổi trong quá trình xây dựng và vận hành các tài sản đã xây dựng.\r\rCác nhà quản lý cấp cao được giao nhiệm vụ tìm hiểu và sau đó thúc đẩy các quy trình hợp tác BIM cho các hoạt động triển khai dự án hoặc quản lý tài sản của họ.\r\rChúng tôi thực sự khuyên anh/chị nên có kinh nghiệm tham gia quản lý với các hoạt động dự án và danh mục tài sản.\r\rThời lượng: khóa đào tạo nội bộ bốn giờ"
+  },
+  {
+    "slide": 37,
+    "path": "14",
+    "text": "Thời lượng: hai ngày đào tạo trực tuyến hoặc trên lớp\rHọc trực tuyến theo yêu cầu cũng có sẵn"
+  },
+  {
+    "slide": 37,
+    "path": "21",
+    "text": "Dịch vụ BIM"
+  },
+  {
+    "slide": 37,
+    "path": "22",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 38,
+    "path": "2",
+    "text": "Các khóa đào tạo lộ trình BIM"
+  },
+  {
+    "slide": 38,
+    "path": "3",
+    "text": "Thời lượng: Tất cả các khóa đào tạo chuyển tiếp được cung cấp trực tiếp trực tuyến, tại lớp học hoặc thông qua Học trực tuyến theo yêu cầu - để hoàn toàn linh hoạt."
+  },
+  {
+    "slide": 38,
+    "path": "11",
+    "text": "BIM ISO 19650 Phần 2:\rPhân phối dự án\rKhóa học này sẽ giúp anh/chị hiểu các quy trình quản lý thông tin cần thiết để thực hiện một dự án thiết kế và xây dựng bằng BIM theo ISO 19650-2: Giai đoạn chuyển giao dự án.\rKhóa học này lý tưởng cho khách hàng của dự án, nhà thiết kế (kiến trúc sư, kỹ sư kết cấu và dân dụng, kỹ sư dịch vụ, v.v.), nhà thầu chính và nhà thầu phụ, nhà sản xuất các sản phẩm hoặc linh kiện phức tạp cũng như người quản lý tài sản hoặc cơ sở vật chất."
+  },
+  {
+    "slide": 38,
+    "path": "14",
+    "text": "BIM ISO 19650 Phần 3:\rGiai đoạn vận hành\rError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\rtrong ISO 19650-3 và cách thức liên kết này với các phần khác của bộ tiêu chuẩn ISO 19650. Nó tiếp nối khóa học Cơ bản về BIM, giới thiệu chủ đề quản lý thông tin bằng cách sử dụng BIM cộng tác.\rKhóa học này lý tưởng cho người quản lý tài sản hoặc cơ sở vật chất, nhà thầu tài sản, chủ sở hữu tài sản hoặc người điều hành tài sản.\rNhững người làm việc trong các dự án (phía khách hàng hoặc phía cung cấp) có thể hiểu thêm về thông tin vận hành và dự án Yêu cầu trao đổi thông tin."
+  },
+  {
+    "slide": 38,
+    "path": "17",
+    "text": "BIM ISO 19650 Phần 4:\rtrao đổi thông tin\rKhóa học này sẽ giúp anh/chị có được những lợi ích của\rISO 19650/UK BIM Framework kỹ thuật số trao đổi thông tin giữa chuỗi thiết kế/cung ứng và khách hàng/nhà điều hành.\rKhóa học cũng nhấn mạnh tầm quan trọng của quy trình CDE và kiểm tra việc cung cấp thông tin trong việc thiết lập niềm tin."
+  },
+  {
+    "slide": 38,
+    "path": "18",
+    "text": "Khóa học này rất lý tưởng nếu anh/chị tham gia truyền đạt các lợi ích của BIM trong tổ chức của mình."
+  },
+  {
+    "slide": 38,
+    "path": "21",
+    "text": "BIM ISO 19650 Phần 5:\rTư duy an ninh\rKhóa học này sẽ giúp anh/chị tìm hiểu các tác động bảo mật phát sinh từ BIM theo ISO 19650. Khóa học sẽ hướng dẫn anh/chị các nội dung của ISO 19650-\r5 và mức độ ảnh hưởng của an ninh đến vai trò của họ (khách hàng, chủ sở hữu tài sản, nhà thiết kế, nhà thầu, người quản lý cơ sở vật chất, v.v.). Tất cả các giải pháp chứng nhận Kitemark BIM hiện đang được nâng cấp để kết hợp BIM (ISO 19650-5)."
+  },
+  {
+    "slide": 38,
+    "path": "22",
+    "text": "Khóa học này lý tưởng cho khách hàng, nhà thiết kế, cơ sở vật chất, người quản lý xây dựng và vận hành, những người có thể cần thực hiện các chính sách bảo mật liên quan đến môi trường xây dựng."
+  },
+  {
+    "slide": 38,
+    "path": "25",
+    "text": "BIM ISO 19650 Phần 6:\rSức khỏe và An toàn\rKhóa học này sẽ giúp anh/chị hiểu được lợi ích của thông tin an toàn và sức khỏe có cấu trúc cũng như các lợi ích của nó.\rtrao đổi thông tin kỹ thuật số giữa chuỗi thiết kế và cung ứng cũng như khách hàng hoặc nhà điều hành. Nó nhấn mạnh tầm quan trọng của Yêu cầu thông tin của tài sản (AIR) rõ ràng và Kế hoạch làm việc kỹ thuật số có thể kiểm tra được.\rKhóa học này lý tưởng cho khách hàng, nhà thiết kế, cơ sở vật chất, người quản lý xây dựng và vận hành chịu trách nhiệm cung cấp sức khỏe và an toàn trong một dự án hợp tác hoặc BIM."
+  },
+  {
+    "slide": 38,
+    "path": "27",
+    "text": "Dịch vụ BIM"
+  },
+  {
+    "slide": 38,
+    "path": "28",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 39,
+    "path": "3",
+    "text": "Nhận thức về BIM\rGiúp doanh nghiệp rộng hơn hiểu được tầm quan trọng của BIM và vai trò của chúng trong việc đảm bảo tuân thủ Chương trình học trực tuyến quy mô nhỏ của chúng tôi.\rKhóa học Nhận thức BIM này cung cấp cho nhóm của anh/chị sự hiểu biết cơ bản về Mô hình thông tin công trình (BIM) và tầm quan trọng của nó trong quá trình thiết kế và xây dựng.\r\rThời lượng: 30 phút học trực tuyến theo yêu cầu"
+  },
+  {
+    "slide": 39,
+    "path": "5",
+    "text": "“Lợi ích lớn hơn của Học trực tuyến BIM của BSI là nó đã mở rộng kiến ​​thức ở nhiều vai trò khác nhau trong toàn doanh nghiệp. Điều này nâng cao khả năng trò chuyện của chúng tôi với\rkhách hàng về nhu cầu của họ, chúng tôi phải làm gì để đáp ứng nhu cầu của họ và điều này tác động như thế nào đến các vai trò khác nhau trong dự án. Chứng chỉ Chuyên môn được Chứng nhận BIM từ BSI thể hiện kỹ năng của nhân viên chúng tôi trong các cuộc đấu thầu mới và đảm bảo với khách hàng của chúng tôi rằng họ đang nhận được kiến ​​thức chuyên môn phù hợp cần thiết cho các dự án của mình.”"
+  },
+  {
+    "slide": 39,
+    "path": "6",
+    "text": "Craig Hardingham, Giám đốc Kỹ thuật Kỹ thuật số – Cơ sở hạ tầng, Sweco Vương quốc Anh và Ireland"
+  },
+  {
+    "slide": 39,
+    "path": "16",
+    "text": "Dịch vụ BIM"
+  },
+  {
+    "slide": 39,
+    "path": "17",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 40,
+    "path": "2",
+    "text": "BSI\rgiải pháp chứng nhận"
+  },
+  {
+    "slide": 40,
+    "path": "4",
+    "text": "Dấu Kitemark BSI cho Thiết kế và Xây dựng BSI Kitemark cho BIM Quản lý tài sản BSI Kitemark cho các đối tượng BIM\rDấu Kitemark BSI cho Sức khỏe và An toàn BSI Kitemark cho Phần mềm BIM\rDấu Kitemark BSI dành cho BIM Bảo mật Chứng nhận Tuân thủ BIM"
+  },
+  {
+    "slide": 40,
+    "path": "18",
+    "text": "Dịch vụ BIM"
+  },
+  {
+    "slide": 40,
+    "path": "19",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 41,
+    "path": "5",
+    "text": "Dấu Kitemark BSI cho Thiết kế và Xây dựng\rPhù hợp với mọi tổ chức trong nhóm dự án, BSI Kitemark cung cấp thước đo mạnh mẽ về việc thực hiện các dự án BIM của công ty, chứng nhận các doanh nghiệp về sự chuyên cần trong thiết kế và xây dựng, quản lý chuỗi cung ứng và cung cấp dịch vụ khách hàng xuất sắc. Giống như các Dấu Kitemark BSI khác, các tổ chức nắm giữ Dấu Kitemark BSI sẽ được đánh giá thường xuyên,\rmang lại cho khách hàng sự tự tin hoàn toàn về việc cung cấp các tiêu chuẩn ngành.\rDấu Kitemark BIM dành cho Thiết kế và Xây dựng đang được nâng cấp để kết hợp với Bảo mật BIM (ISO 19650-5). Điều này sẽ cho phép anh/chị chứng minh rằng việc triển khai dự án của anh/chị được quản lý trong các quy trình Có tư duy an ninh, mang lại niềm tin và sự tin cậy cho khách hàng trong ứng dụng BIM cũng như bảo mật thông tin và kỹ thuật số tổng thể của anh/chị.\rChứng minh sự tuân thủ ISO 19650-1 và ISO 19650-2.\rChứng minh bảo mật kỹ thuật số với ISO 19650-5.\rChứng nhận Kitemark cũng giúp anh/chị chứng minh khả năng đáp ứng các yêu cầu trong Phụ lục Quốc gia của Vương quốc Anh và tuân thủ BS 1192-4.\r\"BSI Kitemark là một thương hiệu được kính trọng. Áp dụng cho các dịch vụ của chúng tôi, nó sẽ củng cố niềm tin của khách hàng và chứng tỏ chất lượng cao hơn trong việc thực hiện các dự án BIM.\"\rDavid Throssell,\rGiám đốc Xây dựng Kỹ thuật số, Skanska Vương quốc Anh"
+  },
+  {
+    "slide": 41,
+    "path": "18",
+    "text": "Dịch vụ BIM"
+  },
+  {
+    "slide": 41,
+    "path": "19",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 42,
+    "path": "5",
+    "text": "Dấu Kitemark BSI dành cho Quản lý tài sản BIM cung cấp sự đảm bảo rằng các nhà quản lý tài sản và cơ sở vật chất đã tích hợp BIM vào các quy trình quản lý tài sản của họ. Và nó xác nhận rằng thông tin tài sản là chính xác và cập nhật. Chúng tôi đánh giá:"
+  },
+  {
+    "slide": 42,
+    "path": "6",
+    "text": "Dấu Kitemark BSI dành cho Đối tượng BIM là chuẩn mực trong phương pháp thực hành tốt nhất để sản xuất các sản phẩm kỹ thuật số được sử dụng trong các mẫu BIM. Được thiết kế để chứng minh rằng các nhà sản xuất đã đưa BIM vào quy trình sản xuất sản phẩm của họ, nó bao gồm đầy đủ các sản phẩm xây dựng dành cho kết cấu, kiến ​​trúc và cơ khí, điện và hệ thống ống nước.\rQuy trình chứng nhận Kitemark đảm bảo rằng Đối tượng BIM giống hệt sản phẩm thực tế của anh/chị, giúp khách hàng hoàn toàn tin tưởng trong quá trình thiết kế, xây dựng và quản lý tài sản. Tiêu chuẩn đánh giá là BS 8541 – Đối tượng thư viện về kiến ​​trúc, kỹ thuật và xây dựng:"
+  },
+  {
+    "slide": 42,
+    "path": "7",
+    "text": "Phần 1 – Nhận dạng và phân loại\rPhần 2 – Hình dạng và kích thước"
+  },
+  {
+    "slide": 42,
+    "path": "8",
+    "text": "Phần 3 – Thuộc tính để xác định và đánh giá"
+  },
+  {
+    "slide": 42,
+    "path": "9",
+    "text": "BSI Kitemark cho quản lý tài sản BIM"
+  },
+  {
+    "slide": 42,
+    "path": "10",
+    "text": "bằng chứng về các thủ tục dạng văn bản được kiểm soát đối với tất cả các quy trình theo tiêu chuẩn đánh giá BS EN ISO 19650-3;\rbằng chứng về việc thực hiện các quy trình này đối với tài sản được quản lý; đo lường và giám sát sự hài lòng của khách hàng; Và\rquản lý hiệu quả chuỗi cung ứng và Quản lý chất lượng (ISO 9001).\rDấu Kitemark BSI cho Quản lý tài sản BIM hiện kết hợp Dấu Kitemark BSI cho Bảo mật BIM (ISO 19650-5)."
+  },
+  {
+    "slide": 42,
+    "path": "11",
+    "text": "Dấu Kitemark BSI cho Đối tượng BIM"
+  },
+  {
+    "slide": 42,
+    "path": "12",
+    "text": "Chúng tôi cũng đã phát triển một bộ yêu cầu bổ sung cho BSI KitemarkTM dựa trên các tiêu chuẩn này và dựa trên phản hồi của ngành để giúp đảm bảo nội dung BIM của anh/chị có chất lượng cao nhất.\rDấu Kitemark BSI dành cho Đối tượng BIM hiện kết hợp Dấu Kitemark BSI dành cho Bảo mật BIM (ISO 19650-5)."
+  },
+  {
+    "slide": 42,
+    "path": "13",
+    "text": "\"Chúng tôi có thể áp dụng các tiêu chuẩn và quy trình nhất quán trong toàn tập đoàn để quản lý dữ liệu và thông tin trong vòng đời của tài sản. Nó giúp xây dựng năng lực cho các đồng nghiệp của chúng tôi để cải thiện chất lượng triển khai và làm cho quy trình trở nên hiệu quả. BSI Kitemark cuối cùng sẽ cải thiện cách chúng tôi quản lý tài sản cho khách hàng và cuối cùng là cho xã hội.\"\rNavil Shetty,\rGiám đốc, Nghiên cứu viên và Chủ tịch Kỹ thuật Quản lý Tài sản, Atkins Ltd"
+  },
+  {
+    "slide": 42,
+    "path": "15",
+    "text": "“Dấu Kitemark BSI dành cho Đối tượng BIM mang lại cho khách hàng sự tự tin và an tâm khi biết các đối tượng của chúng tôi được tạo ra bằng cách tuân theo quy trình và tiêu chuẩn phù hợp, đồng thời chúng là sự thể hiện thực sự của sản phẩm vật chất.”\rManuela Fazzan,\rGiám đốc Kỹ thuật và Thiết kế, Wienerberger Ltd\r© 2025 BSI. Mọi quyền được bảo lưu.\t42"
+  },
+  {
+    "slide": 42,
+    "path": "17",
+    "text": "Dịch vụ BIM"
+  },
+  {
+    "slide": 42,
+    "path": "19",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 43,
+    "path": "4",
+    "text": "Dấu Kitemark BSI cho Sức khỏe và An toàn"
+  },
+  {
+    "slide": 43,
+    "path": "5",
+    "text": "Việc áp dụng BIM mang lại cơ hội lớn hơn để thấy trước các rủi ro về an toàn và sức khỏe sớm hơn trong quá trình triển khai và quản lý dự án, cũng như khả năng truy cập nhiều hơn vào thông tin đáng tin cậy, có thể tìm kiếm được.\rDấu Kitemark cho Sức khỏe và An toàn của BSI dựa trên PAS 1192-6, đặc điểm kỹ thuật dành cho việc chia sẻ cộng tác và sử dụng thông tin Sức khỏe và An toàn có cấu trúc bằng cách sử dụng BIM. Dấu Kitemark này xác nhận việc áp dụng các quy trình và kết quả đầu ra theo PAS 1192-6. Anh/chị có thể sử dụng nó làm bằng chứng hỗ trợ việc quản lý hiệu quả theo tiêu chuẩn quốc tế về sức khỏe, an toàn và phúc lợi nghề nghiệp (ISO 45001).\rDấu Kitemark cho Sức khỏe và An toàn của BSI hiện kết hợp với Dấu Kitemark BSI cho Bảo mật BIM (ISO 19650-5).\rLưu ý: ISO 19650-6 được phát hành vào tháng 1 năm 2025. Các giải pháp chứng nhận đang được phát triển."
+  },
+  {
+    "slide": 43,
+    "path": "6",
+    "text": "BSI Kitemark cho phần mềm BIM"
+  },
+  {
+    "slide": 43,
+    "path": "7",
+    "text": "Đối với các công ty phần mềm, BSI Kitemark dành cho Phần mềm BIM cung cấp xác nhận độc lập rằng các công cụ phần mềm của anh/chị hỗ trợ và phù hợp với\rChuỗi ISO 19650 và các tiêu chuẩn BIM bổ sung như DIN SPEC 91391. Điều này sẽ giúp khách hàng tin tưởng rằng phần mềm của anh/chị đáp ứng các phương pháp thực hành tốt nhất được quốc tế công nhận dành cho BIM và sẽ giúp hợp lý hóa các phương pháp làm việc của họ.\rAnh/chị cũng sẽ được yêu cầu chứng minh tính bảo mật của phần mềm, cách anh/chị hỗ trợ người dùng phần mềm, phần mềm có khả năng phục hồi và Hệ thống quản lý doanh nghiệp cơ bản (BMS).\rDấu Kitemark BSI cho Phần mềm hiện nay kết hợp với Dấu Kitemark BSI cho Bảo mật BIM (ISO 19650-5)."
+  },
+  {
+    "slide": 43,
+    "path": "17",
+    "text": "Dịch vụ BIM"
+  },
+  {
+    "slide": 43,
+    "path": "18",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 44,
+    "path": "4",
+    "text": "Dấu Kitemark BSI dành cho BIM An ninh đánh giá sự tuân thủ của tổ chức đối với BS EN ISO 19650-5, quy định bắt buộc Cách tiếp cận chú trọng an ninh phải thực hiện Mô hình hóa thông tin tòa nhà (BIM). Chứng nhận này đánh giá hệ thống vật lý và công nghệ, nhận thức của nhân viên và quy trình bảo mật của tổ chức. Những cải tiến gần đây đã mở rộng Dấu Kitemark này trên tất cả BSI BIM\rchứng nhận, tăng cường đảm bảo an ninh cho các dự án nhạy cảm. Các bản cập nhật này tích hợp bảo mật sâu hơn vào các quy trình BIM, giải quyết nhu cầu quản lý bảo mật toàn diện trong các dự án cơ sở hạ tầng quan trọng.\rLưu ý: ISO 19650-6 được phát hành vào tháng 1 năm 2025. Các giải pháp chứng nhận đang được phát triển."
+  },
+  {
+    "slide": 44,
+    "path": "5",
+    "text": "0003\rChứng chỉ xác minh cấp đầu vào này đã được phát triển cho bất kỳ tổ chức nào tham gia sử dụng BIM, được thiết kế để cung cấp mức độ tuân thủ hoặc đảm bảo cơ bản, giúp những người chưa sẵn sàng hoặc chưa thể đáp ứng các tiêu chuẩn khắt khe hơn cần thiết cho chứng nhận Kitemark có thể truy cập được. Nó sẽ giúp anh/chị chứng minh khả năng BIM của mình thông qua xác minh độc lập và khách quan của bên thứ ba với BSI. Khách hàng của chúng tôi tin tưởng chuyên môn về BIM được UKAS công nhận vì chúng tôi đã đi đầu trong việc phát triển chứng nhận BIM kể từ khi thành lập."
+  },
+  {
+    "slide": 44,
+    "path": "6",
+    "text": "Dấu Kitemark BSI dành cho bảo mật BIM"
+  },
+  {
+    "slide": 44,
+    "path": "7",
+    "text": "Giấy chứng nhận phù hợp BIM"
+  },
+  {
+    "slide": 44,
+    "path": "17",
+    "text": "Dịch vụ BIM"
+  },
+  {
+    "slide": 44,
+    "path": "18",
+    "text": "Đưa tôi trở lại điểm bắt đầu"
+  },
+  {
+    "slide": 45,
+    "path": "9",
+    "text": "Tại sao lại là BSI?"
+  },
+  {
+    "slide": 45,
+    "path": "10",
+    "text": "Một tổ chức được lãnh đạo có mục đích\rTác nhân mang lại sự thay đổi tích cực trong lĩnh vực môi trường xây dựng."
+  },
+  {
+    "slide": 45,
+    "path": "11",
+    "text": "Trong hơn 120 năm, BSI đã mang lại lợi ích cho thế giới một cách sâu sắc và độc đáo. Sự độc lập, phạm vi tiếp cận toàn cầu và khả năng tiếp cận các chuyên gia hàng đầu khiến chúng tôi trở nên khác biệt."
+  },
+  {
+    "slide": 45,
+    "path": "12",
+    "text": "Do cách thức hợp nhất độc đáo, chúng tôi tái đầu tư lợi nhuận của mình để thúc đẩy sự tiến bộ và hợp tác, tăng cường niềm tin giữa người tiêu dùng, chính phủ và các tổ chức."
+  },
+  {
+    "slide": 45,
+    "path": "13",
+    "text": "Cuối cùng, chúng tôi giúp doanh nghiệp và xã hội cùng nhau phát triển, thúc đẩy tiến trình hướng tới một xã hội công bằng và một thế giới bền vững."
+  },
+  {
+    "slide": 45,
+    "path": "14",
+    "text": "BSI đã đi đầu về BIM kể từ khi bắt đầu, phát triển một loạt tiêu chuẩn BIM bao gồm tất cả các yếu tố chính từ thiết kế, quản lý thông tin, quản lý cơ sở vật chất và bảo mật. Đã từng\rtiếp tục hợp tác với ngành để phát triển và cải tiến bộ tiêu chuẩn và chứng nhận Kitemark nhằm tạo dựng một môi trường xây dựng an toàn hơn, bảo mật hơn và bền vững hơn cho tất cả mọi người trong tương lai."
+  },
+  {
+    "slide": 45,
+    "path": "15",
+    "text": "Hãy cùng nhau định hình tương lai của tổ chức anh/chị\rHãy nói chuyện với các chuyên gia BIM của chúng tôi ngay hôm nay để biết cách họ có thể giúp anh/chị tiên phong xuất sắc, khơi dậy niềm tin và thúc đẩy các cơ hội toàn cầu với chứng nhận BIM.\rLiên hệ với chúng tôi www.bsigroup.com"
+  }
+]
