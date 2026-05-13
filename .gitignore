@@ -1,0 +1,24 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+
+# Temporary and conflict artifacts
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.rej
+*.log
+~$*
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
