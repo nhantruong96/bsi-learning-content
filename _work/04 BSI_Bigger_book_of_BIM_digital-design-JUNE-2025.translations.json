@@ -97,7 +97,7 @@
   {
     "slide": 5,
     "path": "4",
-    "text": "BIM là một quy trình quản lý thông tin tòa nhà trong suốt vòng đời của nội dung. Nó sử dụng biểu diễn kỹ thuật số Shared của\rmột tài sản để tăng cường hợp tác và tạo điều kiện thuận lợi cho quá trình thiết kế, xây dựng và vận hành. Đây là cơ sở đáng tin cậy cho các quyết định.\rVới BIM, anh/chị có thể nhận được hiệu quả cao hơn nhờ lập kế hoạch trước đáng kể trong giai đoạn thiết kế và xây dựng.\rĐiều này cung cấp thông tin toàn diện ở giai đoạn chuyển giao. Với cách tiếp cận chung với quản lý thông tin, các tổ chức có thể giảm thiểu sai sót cũng như cải thiện chi phí, giá trị và hiệu suất carbon.\rVề mặt triển khai, BIM xác định các quy trình về đặc tả, sản xuất, chia sẻ/trao đổi và quản lý thông tin được tạo trong suốt vòng đời của nội dung được xây dựng.\rSau đó, đầu ra của quy trình được áp dụng tương ứng, cụ thể cho dự án mà BIM được sử dụng để chống lại."
+    "text": "BIM là một quy trình quản lý thông tin tòa nhà trong suốt vòng đời của nội dung. Nó sử dụng biểu diễn kỹ thuật số dùng chung của\rmột tài sản để tăng cường hợp tác và tạo điều kiện thuận lợi cho quá trình thiết kế, xây dựng và vận hành. Đây là cơ sở đáng tin cậy cho các quyết định.\rVới BIM, anh/chị có thể nhận được hiệu quả cao hơn nhờ lập kế hoạch trước đáng kể trong giai đoạn thiết kế và xây dựng.\rĐiều này cung cấp thông tin toàn diện ở giai đoạn bàn giao. Với cách tiếp cận chung với quản lý thông tin, các tổ chức có thể giảm thiểu sai sót cũng như cải thiện chi phí, giá trị và hiệu suất carbon.\rVề mặt triển khai, BIM xác định các quy trình về đặc tả, sản xuất, chia sẻ/trao đổi và quản lý thông tin được tạo trong suốt vòng đời của nội dung được xây dựng.\rSau đó, đầu ra của quy trình được áp dụng tương ứng, cụ thể cho dự án mà BIM được sử dụng để chống lại."
   },
   {
     "slide": 5,
@@ -132,7 +132,7 @@
   {
     "slide": 6,
     "path": "5",
-    "text": "Phân phối dự án"
+    "text": "Triển khai dự án"
   },
   {
     "slide": 6,
@@ -172,7 +172,7 @@
   {
     "slide": 7,
     "path": "5",
-    "text": "bản thân họ một cách bất ngờ. Ví dụ về điều này bao gồm; hoàn thành tất cả công việc thiết kế nguyên tắc và điều phối trước khi bắt đầu xây dựng, đồng thời đảm bảo rằng các quyết định thiết kế được đưa ra trong toàn bộ giai đoạn bàn giao về hiệu quả hoạt động và việc sử dụng tài sản."
+    "text": "bản thân họ một cách bất ngờ. Ví dụ về điều này bao gồm; hoàn thành tất cả công việc thiết kế nguyên tắc và điều phối trước khi bắt đầu xây dựng, đồng thời đảm bảo rằng các quyết định thiết kế được đưa ra trong toàn bộ giai đoạn triển khai về hiệu quả hoạt động và việc sử dụng tài sản."
   },
   {
     "slide": 7,
@@ -217,7 +217,7 @@
   {
     "slide": 8,
     "path": "4",
-    "text": "Tài sản kỹ thuật số\rViệc cung cấp thông tin phù hợp cho đúng người vào đúng thời điểm sẽ tạo nên sự khác biệt. Khi triển khai một dự án hoặc quản lý tài sản bằng BIM, anh/chị cần chỉ định rõ ràng yêu cầu thông tin của dự án cho toàn bộ nhóm dự án. Hãy tập trung vào chính xác thông tin nào là cần thiết và khi nào, mục đích của nó, định dạng của nó và thông tin sẽ là Shared như thế nào. Đây là tất cả các khía cạnh chính của quản lý thông tin tốt hơn mà BIM cho phép."
+    "text": "Tài sản kỹ thuật số\rViệc cung cấp thông tin phù hợp cho đúng người vào đúng thời điểm sẽ tạo nên sự khác biệt. Khi triển khai một dự án hoặc quản lý tài sản bằng BIM, anh/chị cần chỉ định rõ ràng yêu cầu thông tin của dự án cho toàn bộ nhóm dự án. Hãy tập trung vào chính xác thông tin nào là cần thiết và khi nào, mục đích của nó, định dạng của nó và thông tin sẽ được chia sẻ như thế nào. Đây là tất cả các khía cạnh chính của quản lý thông tin tốt hơn mà BIM cho phép."
   },
   {
     "slide": 8,
@@ -292,7 +292,7 @@
   {
     "slide": 11,
     "path": "7",
-    "text": "CDE – Môi trường dữ liệu chung\rMột quy trình làm việc để kiểm soát nguồn thông tin duy nhất cho bất kỳ dự án hoặc tài sản cụ thể nào. Được sử dụng để quản lý việc thu thập và phổ biến tất cả thông tin về dự án/tài sản có liên quan đã được phê duyệt.\rĐược sử dụng kết hợp với giải pháp lưu trữ kỹ thuật số, thông tin được Shared cộng tác, theo cách hợp lý và dễ tiếp cận, để giúp tất cả các bên quan trọng dễ dàng truy cập thông tin, sử dụng quy ước đặt tên nhất quán, tránh trùng lặp và giữ quyền sở hữu."
+    "text": "CDE – Môi trường dữ liệu chung\rMột quy trình làm việc để kiểm soát nguồn thông tin duy nhất cho bất kỳ dự án hoặc tài sản cụ thể nào. Được sử dụng để quản lý việc thu thập và phổ biến tất cả thông tin về dự án/tài sản có liên quan đã được phê duyệt.\rĐược sử dụng kết hợp với giải pháp lưu trữ kỹ thuật số, thông tin được chia sẻ một cách cộng tác, theo cách hợp lý và dễ tiếp cận, để giúp tất cả các bên quan trọng dễ dàng truy cập thông tin, sử dụng quy ước đặt tên nhất quán, tránh trùng lặp và giữ quyền sở hữu."
   },
   {
     "slide": 11,
@@ -362,7 +362,7 @@
   {
     "slide": 12,
     "path": "10",
-    "text": "MỤC ĐÍCH – mô hình thông tin tài sản\rĐây là sự tổng hợp các thông tin cần thiết để hỗ trợ việc quản lý và vận hành tài sản (cơ sở hạ tầng hoặc tòa nhà). AIM thường được hình thành hoặc cập nhật bằng cách sử dụng một tập hợp con của PIM ở giai đoạn bàn giao dự án. AIM sẽ liên tục được cập nhật và phát triển khi thông tin được cung cấp sau các công việc có ảnh hưởng đến tài sản."
+    "text": "MỤC ĐÍCH – mô hình thông tin tài sản\rĐây là sự tổng hợp các thông tin cần thiết để hỗ trợ việc quản lý và vận hành tài sản (cơ sở hạ tầng hoặc tòa nhà). AIM thường được hình thành hoặc cập nhật bằng cách sử dụng một tập hợp con của PIM ở giai đoạn bàn giao của dự án. AIM sẽ liên tục được cập nhật và phát triển khi thông tin được cung cấp sau các công việc có ảnh hưởng đến tài sản."
   },
   {
     "slide": 12,
@@ -672,7 +672,7 @@
   {
     "slide": 20,
     "path": "3",
-    "text": "Mở rộng BIM và áp dụng Xây dựng 4.0\rTương lai của môi trường xây dựng sẽ tập trung vào ba đặc điểm cốt lõi: tính linh hoạt, khả năng tương tác và khả năng phục hồi. Các dự án phát triển thành phố thông minh như Thành phố Sejong ở Hàn Quốc và The Palm ở Dubai, Các Tiểu vương quốc Ả Rập Thống nhất (UAE) đã cho thấy việc tạo ra các thành phố và tòa nhà thông minh dựa trên công nghệ và quy trình tập hợp các chuyên gia từ khắp biên giới và tạo điều kiện cho sự hợp tác không hạn chế. BIM đóng vai trò rất lớn trong các dự án như thế này và sự phát triển của BIM đang tăng tốc.\rCác nhà đổi mới đã tích hợp các giải pháp BIM của họ vào môi trường đám mây thông qua mô hình Shared (còn được gọi là Open BIM). Họ cũng đang mở rộng các ứng dụng BIM để bao gồm các khía cạnh như quản lý thời gian, kiểm soát chi phí và quản lý vòng đời toàn diện của các tòa nhà.\rĐể đảm bảo vị trí dẫn đầu trong tương lai của lĩnh vực xây dựng, các tổ chức phải áp dụng phương pháp tiếp cận kỹ thuật số ưu tiên, sử dụng BIM để thiết kế mà không bị ràng buộc và quản lý hiệu quả các dự án phức tạp quy mô lớn một cách an toàn và hiệu quả.\rCác tổ chức trong lĩnh vực này đang ngày càng chuyển sang BSI để giúp hiện thực hóa các mục tiêu BIM và Xây dựng 4.0 đầy tham vọng này. Các giải pháp và tiêu chuẩn đào tạo của chúng tôi giúp các chuyên gia mở rộng kiến ​​thức và áp dụng các quy trình mạnh mẽ nhằm tạo ra các tòa nhà thông minh an toàn, bền vững và hiệu quả."
+    "text": "Mở rộng BIM và áp dụng Xây dựng 4.0\rTương lai của môi trường xây dựng sẽ tập trung vào ba đặc điểm cốt lõi: tính linh hoạt, khả năng tương tác và khả năng phục hồi. Các dự án phát triển thành phố thông minh như Thành phố Sejong ở Hàn Quốc và The Palm ở Dubai, Các Tiểu vương quốc Ả Rập Thống nhất (UAE) đã cho thấy việc tạo ra các thành phố và tòa nhà thông minh dựa trên công nghệ và quy trình tập hợp các chuyên gia từ khắp biên giới và tạo điều kiện cho sự hợp tác không hạn chế. BIM đóng vai trò rất lớn trong các dự án như thế này và sự phát triển của BIM đang tăng tốc.\rCác nhà đổi mới đã tích hợp các giải pháp BIM của họ vào môi trường đám mây thông qua mô hình dùng chung (còn được gọi là Open BIM). Họ cũng đang mở rộng các ứng dụng BIM để bao gồm các khía cạnh như quản lý thời gian, kiểm soát chi phí và quản lý vòng đời toàn diện của các tòa nhà.\rĐể đảm bảo vị trí dẫn đầu trong tương lai của lĩnh vực xây dựng, các tổ chức phải áp dụng phương pháp tiếp cận kỹ thuật số ưu tiên, sử dụng BIM để thiết kế mà không bị ràng buộc và quản lý hiệu quả các dự án phức tạp quy mô lớn một cách an toàn và hiệu quả.\rCác tổ chức trong lĩnh vực này đang ngày càng chuyển sang BSI để giúp hiện thực hóa các mục tiêu BIM và Xây dựng 4.0 đầy tham vọng này. Các giải pháp và tiêu chuẩn đào tạo của chúng tôi giúp các chuyên gia mở rộng kiến ​​thức và áp dụng các quy trình mạnh mẽ nhằm tạo ra các tòa nhà thông minh an toàn, bền vững và hiệu quả."
   },
   {
     "slide": 20,
@@ -1197,7 +1197,7 @@
   {
     "slide": 35,
     "path": "27",
-    "text": "BIM ISO 19650 Phần 1: Nguyên tắc cơ bản BIM ISO 19650 Phần 2: Phân phối dự án BIM ISO 19650 Phần 3: Giai đoạn vận hành\rBIM ISO 19650 Phần 4: trao đổi thông tin BIM ISO 19650 Phần 5: Tư duy an ninh BIM ISO 19650 Phần 6: Nhận thức về sức khỏe và an toàn BIM\rBIM Tóm tắt/Hội thảo cấp cao"
+    "text": "BIM ISO 19650 Phần 1: Nguyên tắc cơ bản BIM ISO 19650 Phần 2: Triển khai dự án BIM ISO 19650 Phần 3: Giai đoạn vận hành\rBIM ISO 19650 Phần 4: trao đổi thông tin BIM ISO 19650 Phần 5: Tư duy an ninh BIM ISO 19650 Phần 6: Nhận thức về sức khỏe và an toàn BIM\rBIM Tóm tắt/Hội thảo cấp cao"
   },
   {
     "slide": 35,
@@ -1527,7 +1527,7 @@
   {
     "slide": 38,
     "path": "11",
-    "text": "BIM ISO 19650 Phần 2:\rPhân phối dự án\rKhóa học này sẽ giúp anh/chị hiểu các quy trình quản lý thông tin cần thiết để thực hiện một dự án thiết kế và xây dựng bằng BIM theo ISO 19650-2: Giai đoạn chuyển giao dự án.\rKhóa học này lý tưởng cho khách hàng của dự án, nhà thiết kế (kiến trúc sư, kỹ sư kết cấu và dân dụng, kỹ sư dịch vụ, v.v.), nhà thầu chính và nhà thầu phụ, nhà sản xuất các sản phẩm hoặc linh kiện phức tạp cũng như người quản lý tài sản hoặc cơ sở vật chất."
+    "text": "BIM ISO 19650 Phần 2:\rTriển khai dự án\rKhóa học này sẽ giúp anh/chị hiểu các quy trình quản lý thông tin cần thiết để thực hiện một dự án thiết kế và xây dựng bằng BIM theo ISO 19650-2: Giai đoạn triển khai dự án.\rKhóa học này lý tưởng cho chủ đầu tư dự án, nhà thiết kế (kiến trúc sư, kỹ sư kết cấu và dân dụng, kỹ sư dịch vụ, v.v.), nhà thầu chính và nhà thầu phụ, nhà sản xuất các sản phẩm hoặc linh kiện phức tạp cũng như người quản lý tài sản hoặc cơ sở vật chất."
   },
   {
     "slide": 38,

@@ -118,6 +118,46 @@
       "replacement": "nhóm triển khai"
     },
     {
+      "pattern": "\\bproject delivery phase\\b",
+      "replacement": "giai đoạn triển khai dự án"
+    },
+    {
+      "pattern": "\\bdelivery phase of assets\\b",
+      "replacement": "giai đoạn triển khai của tài sản"
+    },
+    {
+      "pattern": "\\bdelivery phase of an asset\\b",
+      "replacement": "giai đoạn triển khai của tài sản"
+    },
+    {
+      "pattern": "\\bdelivery phase of the asset\\b",
+      "replacement": "giai đoạn triển khai của tài sản"
+    },
+    {
+      "pattern": "\\bproject delivery information\\b",
+      "replacement": "thông tin triển khai dự án"
+    },
+    {
+      "pattern": "\\bdelivery phase projects\\b",
+      "replacement": "các dự án trong giai đoạn triển khai"
+    },
+    {
+      "pattern": "\\bcapital/delivery phase\\b",
+      "replacement": "giai đoạn vốn/triển khai"
+    },
+    {
+      "pattern": "\\binformation model delivery\\b",
+      "replacement": "chuyển giao mô hình thông tin"
+    },
+    {
+      "pattern": "\\bhandover stage\\b",
+      "replacement": "giai đoạn bàn giao"
+    },
+    {
+      "pattern": "\\bhandover\\b",
+      "replacement": "bàn giao"
+    },
+    {
       "pattern": "\\binformation management\\b",
       "replacement": "quản lý thông tin"
     },
@@ -158,16 +198,32 @@
       "replacement": "WIP"
     },
     {
-      "pattern": "\\bShared\\b",
-      "replacement": "Shared"
+      "pattern": "\\bproject client\\b",
+      "replacement": "chủ đầu tư dự án"
     },
     {
-      "pattern": "\\bPublished\\b",
-      "replacement": "Published"
+      "pattern": "\\bproject clients\\b",
+      "replacement": "các chủ đầu tư dự án"
     },
     {
-      "pattern": "\\bArchive\\b",
-      "replacement": "Archive"
+      "pattern": "\\bclient organization\\b",
+      "replacement": "tổ chức chủ đầu tư"
+    },
+    {
+      "pattern": "\\bclient organizations\\b",
+      "replacement": "các tổ chức chủ đầu tư"
+    },
+    {
+      "pattern": "\\bclient team\\b",
+      "replacement": "nhóm chủ đầu tư"
+    },
+    {
+      "pattern": "\\bclient/asset owner\\b",
+      "replacement": "chủ đầu tư/chủ sở hữu tài sản"
+    },
+    {
+      "pattern": "\\bowner/client\\b",
+      "replacement": "chủ sở hữu/chủ đầu tư"
     },
     {
       "pattern": "\\bPIRs\\b",
@@ -520,11 +576,20 @@
     "Possession": "Sự chiếm hữu",
     "Cyber": "Mạng",
     "Physical": "Vật lý",
-    "Materials": "Tài liệu",
+    "Elements": "Các phần tử",
+    "Materials": "Vật liệu",
+    "Materials\n(Forthcoming)": "Vật liệu\r(Sắp có)",
     "Directions": "Hướng dẫn",
     "Asset": "Tài sản",
     "asset": "tài sản",
+    "WIP": "WIP",
+    "Shared": "Shared",
+    "Published": "Published",
+    "Archive": "Archive",
+    "BIM dimensions": "Các chiều của BIM",
+    "BIM Dimensions": "Các chiều của BIM",
     "Materials:\nSlides\nReference materials\nStandard": "Tài liệu:\rTrang trình bày\rTài liệu tham khảo\rTiêu chuẩn",
+    "Materials:\nSlides\nReference materials": "Tài liệu:\rTrang trình bày\rTài liệu tham khảo",
     "Course format:\nActivities\nDiscussions": "Hình thức khóa học:\rHoạt động\rThảo luận",
     "Be aware of the emergency exits": "Chú ý các lối thoát hiểm",
     "Restrooms": "Phòng vệ sinh",
@@ -534,7 +599,11 @@
     "Appointing party": "Bên giao nhiệm vụ",
     "Lead appointed party": "Bên được giao nhiệm vụ chính",
     "Appointed party/Task team": "Bên được giao nhiệm vụ/Nhóm nhiệm vụ",
-    "Client": "Khách hàng",
+    "Client": "Chủ đầu tư",
+    "Clients": "Các chủ đầu tư",
+    "Client team": "Nhóm chủ đầu tư",
+    "Client request": "Yêu cầu của chủ đầu tư",
+    "Client/asset owner decision points": "Điểm quyết định của chủ đầu tư/chủ sở hữu tài sản",
     "Architect": "Kiến trúc sư",
     "Structural engineer": "Kỹ sư kết cấu",
     "M&E Consultant": "Tư vấn M&E",
@@ -546,6 +615,9 @@
     "Electrical": "Điện",
     "Ductwork": "Hệ thống ống gió",
     "Dampers": "Van gió",
+    "Business layer": "Lớp kinh doanh",
+    "enable": "cho phép",
+    "Enable": "Cho phép",
     "Module\ncomplete": "Hoàn thành module",
     "Course complete": "Hoàn thành khóa học",
     "No": "Không",
@@ -604,7 +676,38 @@
     "Sổ tay đại diện": "Sổ tay học viên",
     "sổ tay đại diện": "sổ tay học viên",
     "Sự phản xạ": "Phản tư",
-    "giao hàng": "chuyển giao",
+    "Phân phối dự án": "Triển khai dự án",
+    "phân phối dự án": "triển khai dự án",
+    "Giai đoạn bàn giao tài sản": "Giai đoạn triển khai của tài sản",
+    "giai đoạn bàn giao tài sản": "giai đoạn triển khai của tài sản",
+    "Giai đoạn chuyển giao tài sản": "Giai đoạn triển khai của tài sản",
+    "giai đoạn chuyển giao tài sản": "giai đoạn triển khai của tài sản",
+    "Giai đoạn bàn giao của tài sản": "Giai đoạn triển khai của tài sản",
+    "giai đoạn bàn giao của tài sản": "giai đoạn triển khai của tài sản",
+    "Giai đoạn chuyển giao của tài sản": "Giai đoạn triển khai của tài sản",
+    "giai đoạn chuyển giao của tài sản": "giai đoạn triển khai của tài sản",
+    "Giai đoạn vốn/chuyển giao": "Giai đoạn vốn/triển khai",
+    "giai đoạn vốn/chuyển giao": "giai đoạn vốn/triển khai",
+    "Giai đoạn Vốn/Chuyển giao": "Giai đoạn vốn/triển khai",
+    "Giai đoạn vốn/giao hàng": "Giai đoạn vốn/triển khai",
+    "giai đoạn vốn/giao hàng": "giai đoạn vốn/triển khai",
+    "Giai đoạn Vốn/Giao hàng": "Giai đoạn vốn/triển khai",
+    "Các dự án giai đoạn chuyển giao": "Các dự án giai đoạn triển khai",
+    "các dự án giai đoạn chuyển giao": "các dự án giai đoạn triển khai",
+    "Hợp đồng giai đoạn chuyển giao": "Hợp đồng giai đoạn triển khai",
+    "hợp đồng giai đoạn chuyển giao": "hợp đồng giai đoạn triển khai",
+    "thông tin bàn giao dự án": "thông tin triển khai dự án",
+    "Thông tin bàn giao dự án": "Thông tin triển khai dự án",
+    "quản lý và bàn giao thông tin": "quản lý và chuyển giao thông tin",
+    "Quản lý và bàn giao thông tin": "Quản lý và chuyển giao thông tin",
+    "tạo lập và bàn giao": "tạo lập và chuyển giao",
+    "Tạo lập và bàn giao": "Tạo lập và chuyển giao",
+    "giai đoạn vận hành và giai đoạn bàn giao": "giai đoạn vận hành và giai đoạn triển khai",
+    "Giai đoạn vận hành và giai đoạn bàn giao": "Giai đoạn vận hành và giai đoạn triển khai",
+    "giai đoạn vận hành và giai đoạn chuyển giao": "giai đoạn vận hành và giai đoạn triển khai",
+    "Giai đoạn vận hành và giai đoạn chuyển giao": "Giai đoạn vận hành và giai đoạn triển khai",
+    "Giao hàng mô hình thông tin": "Chuyển giao mô hình thông tin",
+    "giao hàng mô hình thông tin": "chuyển giao mô hình thông tin",
     "các cuộc hẹn": "các bổ nhiệm",
     "vùng chứa": "container",
     "cuộc hẹn": "bổ nhiệm",
@@ -614,6 +717,24 @@
     "Nhóm công việc": "Nhóm nhiệm vụ",
     "nhóm công tác": "nhóm nhiệm vụ",
     "Nhóm công tác": "Nhóm nhiệm vụ",
+    "mô hình, tài liệu và dữ liệu kỷ luật riêng lẻ": "mô hình, tài liệu và dữ liệu chuyên ngành riêng lẻ",
+    "mô hình kỷ luật riêng lẻ": "mô hình chuyên ngành riêng lẻ",
+    "nguyên tắc thiết kế": "bộ môn thiết kế",
+    "Nguyên tắc thiết kế": "Bộ môn thiết kế",
+    "các nguyên tắc thiết kế": "các bộ môn thiết kế",
+    "Các nguyên tắc thiết kế": "Các bộ môn thiết kế",
+    "từng nguyên tắc thiết kế": "từng bộ môn thiết kế",
+    "Từng nguyên tắc thiết kế": "Từng bộ môn thiết kế",
+    "các nhóm và bộ phận riêng lẻ": "các nhóm và bộ môn riêng lẻ",
+    "Các nhóm và bộ phận riêng lẻ": "Các nhóm và bộ môn riêng lẻ",
+    "giai đoạn làm việc và kỷ luật của họ": "giai đoạn làm việc và chuyên ngành của họ",
+    "Giai đoạn làm việc và kỷ luật của họ": "Giai đoạn làm việc và chuyên ngành của họ",
+    "mỗi ngành cần cho thiết kế của họ": "mỗi bộ môn cần cho thiết kế của mình",
+    "Mỗi ngành cần cho thiết kế của họ": "Mỗi bộ môn cần cho thiết kế của mình",
+    "mỗi môn học cần cho thiết kế của họ": "mỗi bộ môn cần cho thiết kế của mình",
+    "Mỗi môn học cần cho thiết kế của họ": "Mỗi bộ môn cần cho thiết kế của mình",
+    "ngành kỹ thuật kết cấu": "chuyên ngành kỹ thuật kết cấu",
+    "Ngành kỹ thuật kết cấu": "Chuyên ngành kỹ thuật kết cấu",
     "nhóm bàn giao": "nhóm triển khai",
     "Nhóm bàn giao": "Nhóm triển khai",
     "information containers": "các container thông tin",
@@ -638,8 +759,24 @@
     "Kế hoạch bàn giao thông tin của nhóm nhiệm vụ": "Kế hoạch chuyển giao thông tin của nhóm nhiệm vụ",
     "Kế hoạch chuyển giao thông tin của nhóm công tác": "Kế hoạch chuyển giao thông tin của nhóm nhiệm vụ",
     "Các kế hoạch chuyển giao thông tin của nhóm công tác": "Các kế hoạch chuyển giao thông tin của nhóm nhiệm vụ",
-    "Nguyên vật liệu": "Tài liệu",
-    "nguyên vật liệu": "tài liệu",
+    "Nguyên vật liệu": "Vật liệu",
+    "nguyên vật liệu": "vật liệu",
+    "Kích thước BIM": "Các chiều của BIM",
+    "kích thước BIM": "các chiều của BIM",
+    "một loạt kích thước BIM": "một loạt các chiều của BIM",
+    "một loạt các kích thước BIM": "một loạt các chiều của BIM",
+    "Khách hàng dự án": "Chủ đầu tư dự án",
+    "khách hàng dự án": "chủ đầu tư dự án",
+    "khách hàng/chủ sở hữu": "chủ đầu tư/chủ sở hữu",
+    "Khách hàng/chủ sở hữu": "Chủ đầu tư/chủ sở hữu",
+    "khách hàng/chủ sở hữu tài sản": "chủ đầu tư/chủ sở hữu tài sản",
+    "Khách hàng/chủ sở hữu tài sản": "Chủ đầu tư/chủ sở hữu tài sản",
+    "tổ chức khách hàng": "tổ chức chủ đầu tư",
+    "Tổ chức khách hàng": "Tổ chức chủ đầu tư",
+    "khách hàng công": "chủ đầu tư công",
+    "Khách hàng công": "Chủ đầu tư công",
+    "khách hàng công cộng": "chủ đầu tư công",
+    "Khách hàng công cộng": "Chủ đầu tư công",
     "Chỉ đường": "Hướng dẫn",
     "chỉ đường": "hướng dẫn",
     "delivery teams": "các nhóm triển khai",

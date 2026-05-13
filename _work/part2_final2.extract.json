@@ -1,5 +1,5 @@
 {
-    "source":  "D:\\OneDrive\\Documents\\Codex\\BSI Workbook Translator\\References\\Example\\01 Slides BIM71201ENGX_v4_Jul2025_VN.pptx",
+    "source":  "C:\\Users\\nhan9\\Documents\\Codex\\bsi-learning-content\\_work\\part2_final2.pptx",
     "slideCount":  76,
     "slides":  [
                    {
@@ -514,7 +514,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "BIM theo ISO 19650 được hỗ trợ bởi một loạt tiêu chuẩn đang phát triển. Hiện có sáu phần trong bộ tiêu chuẩn đã được công bố, ban hành từ năm 2018 đến năm 2025.\r\rNhững tài liệu này bao gồm: \rCác khái niệm và nguyên tắc quản lý thông tin trong toàn bộ vòng đời của tài sản – ISO 19650-1:2018\rquản lý thông tin trong quá trình thiết kế và xây dựng các dự án (được gọi là giai đoạn triển khai của tài sản) – ISO 19650-2:2018\rquản lý thông tin trong giai đoạn vận hành tài sản – ISO 19650-3:2020\rtrao đổi thông tin bao gồm tiêu chí kiểm tra chất lượng thông tin – ISO 19650-4:2022\rNhững cân nhắc liên quan đến bảo mật cho quản lý thông tin – ISO 19650-5:2020\r\rCác tài liệu khác có thể tồn tại ở cấp quốc gia bao gồm các Phụ lục Quốc gia chính thức của ISO 19650-2 và ISO 19650-4.\r\rVương quốc Anh: Các tài liệu bổ sung của Vương quốc Anh được mô tả trên slide tiếp theo, bao gồm Phụ lục Quốc gia Vương quốc Anh của ISO 19650-2.\r\r"
+                                           "text":  "BIM theo ISO 19650 được hỗ trợ bởi một loạt tiêu chuẩn đang phát triển. Hiện có sáu phần trong bộ tiêu chuẩn đã được công bố, ban hành từ năm 2018 đến năm 2025.\r\rNhững tài liệu này bao gồm: \rCác khái niệm và nguyên tắc quản lý thông tin trong toàn bộ vòng đời của tài sản – ISO 19650-1:2018\rquản lý thông tin trong quá trình thiết kế và xây dựng các dự án (được gọi là giai đoạn bàn giao tài sản) – ISO 19650-2:2018\rquản lý thông tin trong giai đoạn vận hành tài sản – ISO 19650-3:2020\rtrao đổi thông tin bao gồm tiêu chí kiểm tra chất lượng thông tin – ISO 19650-4:2022\rNhững cân nhắc liên quan đến bảo mật cho quản lý thông tin – ISO 19650-5:2020\r\rCác tài liệu khác có thể tồn tại ở cấp quốc gia bao gồm các Phụ lục Quốc gia chính thức của ISO 19650-2 và ISO 19650-4.\r\rVương quốc Anh: Các tài liệu bổ sung của Vương quốc Anh được mô tả trên slide tiếp theo, bao gồm Phụ lục Quốc gia Vương quốc Anh của ISO 19650-2.\r\r"
                                        },
                                        {
                                            "slide":  8,
@@ -617,7 +617,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "Vương quốc Anh: Ở Vương quốc Anh, tiêu chuẩn quản lý thông tin theo yêu cầu của Chính phủ và nhiều khách hàng khác từng được gọi là BIM Cấp 2. Với sự ra đời của tiêu chuẩn ISO 19650, tiêu chuẩn này thường được gọi là UK BIM Framework (xem www.ukbimframework.org). Điều này được hỗ trợ bởi một loạt trụ cột xác định và gói gọn quy trình cũng như yêu cầu. \r\rViệc triển khai BIM của Vương quốc Anh được hướng dẫn bằng cách sử dụng chín tài liệu/công cụ trên trang trình bày này:\rCác khái niệm và nguyên tắc quản lý thông tin trong toàn bộ vòng đời của tài sản – BS EN ISO 19650-1:2018\rquản lý thông tin trong các dự án thiết kế và xây dựng (được gọi là giai đoạn triển khai của tài sản) – BS EN ISO 19650-2:2018\rquản lý thông tin trong giai đoạn vận hành tài sản – BS EN ISO 19650-3:2020\rtrao đổi thông tin bao gồm thông qua COBie – BS EN ISO 19650-4:2022\rNhững cân nhắc liên quan đến bảo mật cho quản lý thông tin – BS EN ISO 19650-5:2020\rPhân loại – Uniclass 2015 Published và được NBS (Thông số kỹ thuật tòa nhà quốc gia) duy trì\rTriển khai các dự án chú trọng đến việc vận hành và bảo trì, bao gồm cả Hạ cánh mềm – BS 8536:2022\rThông tin về sức khỏe và an toàn – ISO 1192-6:2018 (đã được phát triển thành ISO 19650-6)\rBổ sung hợp đồng – Mẫu giao thức thông tin UK BIM Framework (Published 2020 và 2021)\r\rBộ đầy đủ hiện đã có trong ngành và do đó có thể được sử dụng để đạt được UK BIM Framework bằng cách sử dụng kết hợp các tiêu chuẩn ISO và Vương quốc Anh.\r\rPhiên bản tiêu chuẩn ISO của Vương quốc Anh (được xác định là tiêu chuẩn BS EN ISO) bao gồm một số tài liệu bổ sung. Tất cả các phần đều bao gồm lời nói đầu ngắn gọn trong nước với những cập nhật về thuật ngữ và các vấn đề khác. BS EN ISO 19650-2 và BS EN ISO 19650-4 đều có Phụ lục Quốc gia Vương quốc Anh. Các phụ lục quốc gia này chứa một số chi tiết dành riêng cho Vương quốc Anh từ các tiêu chuẩn trước đó (BS 1192, PAS 1192-2 và BS 1192-4) không thể đưa vào các tài liệu ISO cốt lõi."
+                                           "text":  "Vương quốc Anh: Ở Vương quốc Anh, tiêu chuẩn quản lý thông tin theo yêu cầu của Chính phủ và nhiều khách hàng khác từng được gọi là BIM Cấp 2. Với sự ra đời của tiêu chuẩn ISO 19650, tiêu chuẩn này thường được gọi là UK BIM Framework (xem www.ukbimframework.org). Điều này được hỗ trợ bởi một loạt trụ cột xác định và gói gọn quy trình cũng như yêu cầu. \r\rViệc triển khai BIM của Vương quốc Anh được hướng dẫn bằng cách sử dụng chín tài liệu/công cụ trên trang trình bày này:\rCác khái niệm và nguyên tắc quản lý thông tin trong toàn bộ vòng đời của tài sản – BS EN ISO 19650-1:2018\rquản lý thông tin trong các dự án thiết kế và xây dựng (được gọi là giai đoạn bàn giao tài sản) – BS EN ISO 19650-2:2018\rquản lý thông tin trong giai đoạn vận hành tài sản – BS EN ISO 19650-3:2020\rtrao đổi thông tin bao gồm thông qua COBie – BS EN ISO 19650-4:2022\rNhững cân nhắc liên quan đến bảo mật cho quản lý thông tin – BS EN ISO 19650-5:2020\rPhân loại – Uniclass 2015 Published và được NBS (Thông số kỹ thuật tòa nhà quốc gia) duy trì\rCung cấp các dự án chú trọng đến việc vận hành và bảo trì, bao gồm cả Hạ cánh mềm – BS 8536:2022\rThông tin về sức khỏe và an toàn – ISO 1192-6:2018 (đã được phát triển thành ISO 19650-6)\rBổ sung hợp đồng – Mẫu giao thức thông tin UK BIM Framework (Published 2020 và 2021)\r\rBộ đầy đủ hiện đã có trong ngành và do đó có thể được sử dụng để đạt được UK BIM Framework bằng cách sử dụng kết hợp các tiêu chuẩn ISO và Vương quốc Anh.\r\rPhiên bản tiêu chuẩn ISO của Vương quốc Anh (được xác định là tiêu chuẩn BS EN ISO) bao gồm một số tài liệu bổ sung. Tất cả các phần đều bao gồm lời nói đầu ngắn gọn trong nước với những cập nhật về thuật ngữ và các vấn đề khác. BS EN ISO 19650-2 và BS EN ISO 19650-4 đều có Phụ lục Quốc gia Vương quốc Anh. Các phụ lục quốc gia này chứa một số chi tiết dành riêng cho Vương quốc Anh từ các tiêu chuẩn trước đó (BS 1192, PAS 1192-2 và BS 1192-4) không thể đưa vào các tài liệu ISO cốt lõi."
                                        },
                                        {
                                            "slide":  9,
@@ -664,7 +664,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "6 khái niệm và nguyên tắc chính này được liệt kê trong Điều 9 của ISO 19650-1. Họ nói rõ rằng việc triển khai BIM đúng cách theo ISO 19650 cần có sự tham gia của cả chủ đầu tư/chủ sở hữu tài sản hoặc nhà điều hành (đối với mục b và c) và quản lý tài sản hoặc chuỗi cung ứng triển khai dự án (đối với mục a và f). Ngoài ra, cần có một số nguồn lực (mục d và e).\r\rMọi người tham gia vào dự án BIM đều có thể đọc danh sách này và xác nhận rằng tất cả các khái niệm/nguyên tắc này đều đang được áp dụng. Nếu thiếu bất kỳ yếu tố nào trong số đó thì việc quản lý tài sản hoặc triển khai dự án không thể tuân thủ \u0027BIM theo ISO 19650\u0027.\r\rNhững nguyên tắc này nhấn mạnh lý do tại sao các tuyên bố của khách hàng chẳng hạn như “thực hiện dự án này bằng BIM” là không thỏa đáng. Tất nhiên, chỉ có thể áp dụng các nguyên tắc BIM trong chuỗi cung ứng, nhưng nhiều lợi ích của BIM sẽ không đạt được trong những trường hợp này.\r\rVì đây là lần đầu tiên cụm từ ‘container thông tin’ được sử dụng trong các slide nên cần xem xét định nghĩa: container thông tin được định nghĩa trong ISO 19650-1 (3.3.12) là: \r\r\u0027Một tập hợp thông tin liên tục được đặt tên có thể truy xuất được từ bên trong hệ thống phân cấp lưu trữ tệp, hệ thống hoặc ứng dụng\u0027\r\rContainer là kho lưu trữ thông tin. Chúng có thể là bản vẽ, lịch trình, mô hình hoặc tập hợp con của tệp như chương hoặc lớp. Bất kỳ hệ thống lưu trữ thông tin nào ở một nơi duy nhất đều là một thùng chứa. Do đó, việc đặt tên container phải được thống nhất trong tất cả các dự án - điều này sẽ được đề cập ở phần sau của khóa học."
+                                           "text":  "6 khái niệm và nguyên tắc chính này được liệt kê trong Điều 9 của ISO 19650-1. Họ nói rõ rằng việc triển khai BIM đúng cách theo ISO 19650 cần có sự tham gia của cả khách hàng/chủ sở hữu tài sản hoặc nhà điều hành (đối với mục b và c) và quản lý tài sản hoặc chuỗi cung ứng phân phối dự án (đối với mục a và f). Ngoài ra, cần có một số nguồn lực (mục d và e).\r\rMọi người tham gia vào dự án BIM đều có thể đọc danh sách này và xác nhận rằng tất cả các khái niệm/nguyên tắc này đều đang được áp dụng. Nếu thiếu bất kỳ yếu tố nào trong số đó thì việc quản lý tài sản hoặc phân phối dự án không thể tuân thủ \u0027BIM theo ISO 19650\u0027.\r\rNhững nguyên tắc này nhấn mạnh lý do tại sao các tuyên bố của khách hàng chẳng hạn như “thực hiện dự án này bằng BIM” là không thỏa đáng. Tất nhiên, chỉ có thể áp dụng các nguyên tắc BIM trong chuỗi cung ứng, nhưng nhiều lợi ích của BIM sẽ không đạt được trong những trường hợp này.\r\rVì đây là lần đầu tiên cụm từ ‘container thông tin’ được sử dụng trong các slide nên cần xem xét định nghĩa: container thông tin được định nghĩa trong ISO 19650-1 (3.3.12) là: \r\r\u0027Một tập hợp thông tin liên tục được đặt tên có thể truy xuất được từ bên trong hệ thống phân cấp lưu trữ tệp, hệ thống hoặc ứng dụng\u0027\r\rContainer là kho lưu trữ thông tin. Chúng có thể là bản vẽ, lịch trình, mô hình hoặc tập hợp con của tệp như chương hoặc lớp. Bất kỳ hệ thống lưu trữ thông tin nào ở một nơi duy nhất đều là một thùng chứa. Do đó, việc đặt tên container phải được thống nhất trong tất cả các dự án - điều này sẽ được đề cập ở phần sau của khóa học."
                                        },
                                        {
                                            "slide":  10,
@@ -739,7 +739,7 @@
                                            "path":  "26/20",
                                            "kind":  "text",
                                            "shapeName":  "TextBox 19",
-                                           "text":  "Phiên bản tiếng Anh \rTổ chức và số hóa thông tin về các tòa nhà và công trình kỹ thuật dân dụng, bao gồm mô hình hóa thông tin tòa nhà (BIM) - quản lý thông tin sử dụng mô hình hóa thông tin tòa nhà - Phần 2: Giai đoạn triển khai của tài sản (ISO 19650-2:2018) "
+                                           "text":  "Phiên bản tiếng Anh \rTổ chức và số hóa thông tin về các tòa nhà và công trình kỹ thuật dân dụng, bao gồm mô hình hóa thông tin tòa nhà (BIM) - quản lý thông tin sử dụng mô hình hóa thông tin tòa nhà - Phần 2: Giai đoạn bàn giao tài sản (ISO 19650-2:2018) "
                                        },
                                        {
                                            "slide":  11,
@@ -767,7 +767,7 @@
                                            "path":  "14",
                                            "kind":  "text",
                                            "shapeName":  "TextBox 13",
-                                           "text":  "0rgnization và số hóa thông tin về \rcác tòa nhà và công trình xây dựng dân dụng, bao gồm cả \rmô hình hóa thông tin tòa nhà (BIM) - Thông tin \rquản lý bằng cách sử dụng mô hình thông tin tòa nhà \r \rPhần 2: Giai đoạn triển khai của tài sản"
+                                           "text":  "0rgnization và số hóa thông tin về \rcác tòa nhà và công trình xây dựng dân dụng, bao gồm cả \rmô hình hóa thông tin tòa nhà (BIM) - Thông tin \rquản lý bằng cách sử dụng mô hình thông tin tòa nhà \r \rPhần 2: Giai đoạn bàn giao tài sản"
                                        },
                                        {
                                            "slide":  11,
@@ -828,7 +828,7 @@
                                            "path":  "28",
                                            "kind":  "text",
                                            "shapeName":  "Rounded Rectangle 27",
-                                           "text":  "Điều 1,2, 3 – Phạm vi, tài liệu tham khảo và các thuật ngữ, định nghĩa\rĐiều 4-5 quy trình quản lý thông tin\rĐiều 5.1 Đánh giá và nhu cầu\rĐiều 5.2 Mời thầu\rĐiều 5.3 Hồ sơ dự thầu\rĐiều 5.4 Bổ nhiệm\rĐiều 5.5 Huy động \rĐiều 5.6 Hợp tác tạo lập thông tin \rĐiều 5.7 Chuyển giao mô hình thông tin\rĐiều 5.8 Kết thúc dự án \r\rPhụ lục A Ma trận quản lý thông tin (mang tính tham khảo)."
+                                           "text":  "Điều 1,2, 3 – Phạm vi, tài liệu tham khảo và các thuật ngữ, định nghĩa\rĐiều 4-5 quy trình quản lý thông tin\rĐiều 5.1 Đánh giá và nhu cầu\rĐiều 5.2 Mời thầu\rĐiều 5.3 Hồ sơ dự thầu\rĐiều 5.4 Bổ nhiệm\rĐiều 5.5 Huy động \rĐiều 5.6 Hợp tác tạo lập thông tin \rĐiều 5.7 Giao hàng mô hình thông tin\rĐiều 5.8 Kết thúc dự án \r\rPhụ lục A Ma trận gán quản lý thông tin (mang tính tham khảo)."
                                        },
                                        {
                                            "slide":  12,
@@ -861,7 +861,7 @@
                                            "path":  "32",
                                            "kind":  "text",
                                            "shapeName":  "Rounded Rectangle 31",
-                                           "text":  "Tiêu chuẩn quy trình\rđang được phát triển"
+                                           "text":  "Tiêu chuẩn quy trình\rđược phát triển"
                                        },
                                        {
                                            "slide":  13,
@@ -945,7 +945,7 @@
                                            "path":  "38",
                                            "kind":  "text",
                                            "shapeName":  "Rounded Rectangle 37",
-                                           "text":  "Dữ liệu (lớn) phi cấu trúc"
+                                           "text":  "Dữ liệu phi cấu trúc (BIG)"
                                        },
                                        {
                                            "slide":  13,
@@ -959,7 +959,7 @@
                                            "path":  "44",
                                            "kind":  "text",
                                            "shapeName":  "Rounded Rectangle 43",
-                                           "text":  "Giai đoạn 1\rCộng tác dựa trên tệp"
+                                           "text":  "Giai đoạn 1\rCộng tác dựa trên tập tin"
                                        },
                                        {
                                            "slide":  13,
@@ -1022,7 +1022,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "Mô hình trưởng thành BIM này nêu rõ sự khác biệt giữa làm việc trong Môi trường BIM và các cách làm việc trước đây. \r\rSơ đồ minh họa cách BIM tập hợp các khía cạnh khác nhau – các lớp – và cách chúng trở nên phức tạp hơn khi giai đoạn triển khai BIM tăng lên.\r\rVương quốc Anh: BIM Giai đoạn 2 tương đương với BIM Cấp 2 trước đây và hiện được gọi là UK BIM Framework. Đây là mức độ hoàn thiện do Chính phủ Vương quốc Anh quy định cho các dự án của mình trong Nhiệm vụ quản lý thông tin (Published trong \u0027Lộ trình Chuyển đổi Hiệu suất Cơ sở hạ tầng đến năm 2030\u0027.\r\rCác định nghĩa về kỳ hạn có thể được tóm tắt như sau: \r\rGiai đoạn 1: Cộng tác dựa trên tệp ở định dạng 2D hoặc 3D bằng công cụ cộng tác cung cấp môi trường dữ liệu chung, có thể là một số cấu trúc và định dạng dữ liệu tiêu chuẩn\r\rGiai đoạn 2: Môi trường 3D được quản lý trong đó các mô hình thông tin riêng biệt được liên kết (kết hợp) thành các định dạng có thể kiểm tra được. Việc tích hợp dựa trên cơ sở các tiêu chuẩn mở nếu có thể, nhưng các giao diện độc quyền hoặc phần mềm trung gian riêng biệt cũng có thể được sử dụng hoặc cần thiết. Giai đoạn 2 tập hợp rõ ràng việc triển khai dự án và các hoạt động vận hành tài sản thành một quy trình quản lý thông tin toàn diện\r\rGiai đoạn 3: quản lý thông tin thông qua các công nghệ cơ sở dữ liệu sử dụng máy chủ đối tượng để cung cấp tài nguyên chung cho tất cả các hoạt động của dự án và tài sản quản lý thông tin. Nhiều khía cạnh về sự trưởng thành này của BIM vẫn đang được phát triển\r\rISO 19650-1 và -2 trải rộng trên tất cả các giai đoạn triển khai BIM, mặc dù giai đoạn 1 còn thiếu nhiều cơ hội về hiệu lực và hiệu suất và giai đoạn 3 có thể yêu cầu tích hợp chặt chẽ hơn các quy trình. "
+                                           "text":  "Mô hình trưởng thành BIM này nêu rõ sự khác biệt giữa làm việc trong Môi trường BIM và các cách làm việc trước đây. \r\rSơ đồ minh họa cách BIM tập hợp các khía cạnh khác nhau – các lớp – và cách chúng trở nên phức tạp hơn khi giai đoạn triển khai BIM tăng lên.\r\rVương quốc Anh: BIM Giai đoạn 2 tương đương với BIM Cấp 2 trước đây và hiện được gọi là UK BIM Framework. Đây là mức độ hoàn thiện do Chính phủ Vương quốc Anh quy định cho các dự án của mình trong Nhiệm vụ quản lý thông tin (Published trong \u0027Lộ trình Chuyển đổi Hiệu suất Cơ sở hạ tầng đến năm 2030\u0027.\r\rCác định nghĩa về kỳ hạn có thể được tóm tắt như sau: \r\rGiai đoạn 1: Cộng tác dựa trên tệp ở định dạng 2D hoặc 3D bằng công cụ cộng tác cung cấp môi trường dữ liệu chung, có thể là một số cấu trúc và định dạng dữ liệu tiêu chuẩn\r\rGiai đoạn 2: Môi trường 3D được quản lý trong đó các mô hình thông tin riêng biệt được liên kết (kết hợp) thành các định dạng có thể kiểm tra được. Việc tích hợp dựa trên cơ sở các tiêu chuẩn mở nếu có thể, nhưng các giao diện độc quyền hoặc phần mềm trung gian riêng biệt cũng có thể được sử dụng hoặc cần thiết. Giai đoạn 2 tập hợp rõ ràng việc phân phối dự án và các hoạt động vận hành tài sản thành một quy trình quản lý thông tin toàn diện\r\rGiai đoạn 3: quản lý thông tin thông qua các công nghệ cơ sở dữ liệu sử dụng máy chủ đối tượng để cung cấp tài nguyên chung cho tất cả các hoạt động của dự án và tài sản quản lý thông tin. Nhiều khía cạnh về sự trưởng thành này của BIM vẫn đang được phát triển\r\rISO 19650-1 và -2 trải rộng trên tất cả các giai đoạn triển khai BIM, mặc dù giai đoạn 1 còn thiếu nhiều cơ hội về hiệu lực và hiệu suất và giai đoạn 3 có thể yêu cầu tích hợp chặt chẽ hơn các quy trình. "
                                        },
                                        {
                                            "slide":  13,
@@ -1256,7 +1256,7 @@
                                            "path":  "11|cell:1,1",
                                            "kind":  "table_cell",
                                            "shapeName":  "Table 2",
-                                           "text":  "Các khái niệm và nguyên tắc từ ISO 19650 Phần 2: Giai đoạn triển khai dự án"
+                                           "text":  "Các khái niệm và nguyên tắc từ ISO 19650 Phần 2: Giai đoạn phân phối dự án"
                                        },
                                        {
                                            "slide":  15,
@@ -1383,14 +1383,14 @@
                                            "path":  "3/32",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 31",
-                                           "text":  "Giai đoạn …"
+                                           "text":  "Sân khấu …"
                                        },
                                        {
                                            "slide":  18,
                                            "path":  "3/36",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 35",
-                                           "text":  "Giai đoạn …"
+                                           "text":  "Sân khấu …"
                                        },
                                        {
                                            "slide":  18,
@@ -1404,21 +1404,21 @@
                                            "path":  "3/38",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 37",
-                                           "text":  "Sự kiện kích hoạt"
+                                           "text":  "Cò súng\rsự kiện"
                                        },
                                        {
                                            "slide":  18,
                                            "path":  "3/39",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 38",
-                                           "text":  "Sự kiện kích hoạt"
+                                           "text":  "Cò súng\rsự kiện"
                                        },
                                        {
                                            "slide":  18,
                                            "path":  "3/40",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 39",
-                                           "text":  "Sự kiện kích hoạt"
+                                           "text":  "Cò súng\rsự kiện"
                                        },
                                        {
                                            "slide":  18,
@@ -1453,14 +1453,14 @@
                                            "path":  "3/53",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 52",
-                                           "text":  "Sự kiện kích hoạt"
+                                           "text":  "Cò súng\rsự kiện"
                                        },
                                        {
                                            "slide":  18,
                                            "path":  "3/54",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 53",
-                                           "text":  "Sự kiện kích hoạt"
+                                           "text":  "Cò súng\rsự kiện"
                                        },
                                        {
                                            "slide":  18,
@@ -1551,7 +1551,7 @@
                                            "path":  "591/419",
                                            "kind":  "text",
                                            "shapeName":  "TextBox 418",
-                                           "text":  "Điểm quyết định của chủ đầu tư/chủ sở hữu tài sản"
+                                           "text":  "Điểm quyết định của khách hàng/chủ sở hữu tài sản"
                                        },
                                        {
                                            "slide":  18,
@@ -1794,7 +1794,7 @@
                                            "path":  "26",
                                            "kind":  "text",
                                            "shapeName":  "TextBox 25",
-                                           "text":  "Chu kỳ triển khai dự án"
+                                           "text":  "Chu kỳ phân phối dự án"
                                        },
                                        {
                                            "slide":  19,
@@ -1885,7 +1885,7 @@
                                            "path":  "42/14",
                                            "kind":  "text",
                                            "shapeName":  "TextBox 13",
-                                           "text":  "Chuẩn bị và đề cương"
+                                           "text":  "Chuẩn bị và giới thiệu"
                                        },
                                        {
                                            "slide":  19,
@@ -1941,7 +1941,7 @@
                                            "path":  "42/22",
                                            "kind":  "text",
                                            "shapeName":  "TextBox 21",
-                                           "text":  "Các giai đoạn dự án được sử dụng ở Vương quốc Anh được xác định trong Kế hoạch làm việc thống nhất (cũng như Kế hoạch làm việc RIBA 2020)"
+                                           "text":  "Các giai đoạn dự án được sử dụng ở Vương quốc Anh được xác định trong Kế hoạch làm việc thống nhất (cũng như Kế hoạch làm việc RIBA 2020"
                                        },
                                        {
                                            "slide":  19,
@@ -1995,14 +1995,14 @@
                                            "path":  "3/33",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 32",
-                                           "text":  "Giai đoạn …"
+                                           "text":  "Sân khấu …"
                                        },
                                        {
                                            "slide":  20,
                                            "path":  "3/36",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 35",
-                                           "text":  "Giai đoạn …"
+                                           "text":  "Sân khấu …"
                                        },
                                        {
                                            "slide":  20,
@@ -2016,21 +2016,21 @@
                                            "path":  "3/38",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 37",
-                                           "text":  "Sự kiện kích hoạt"
+                                           "text":  "Cò súng\rsự kiện"
                                        },
                                        {
                                            "slide":  20,
                                            "path":  "3/39",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 38",
-                                           "text":  "Sự kiện kích hoạt"
+                                           "text":  "Cò súng\rsự kiện"
                                        },
                                        {
                                            "slide":  20,
                                            "path":  "3/40",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 39",
-                                           "text":  "Sự kiện kích hoạt"
+                                           "text":  "Cò súng\rsự kiện"
                                        },
                                        {
                                            "slide":  20,
@@ -2065,14 +2065,14 @@
                                            "path":  "3/53",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 52",
-                                           "text":  "Sự kiện kích hoạt"
+                                           "text":  "Cò súng\rsự kiện"
                                        },
                                        {
                                            "slide":  20,
                                            "path":  "3/54",
                                            "kind":  "text",
                                            "shapeName":  "Rectangle 53",
-                                           "text":  "Sự kiện kích hoạt"
+                                           "text":  "Cò súng\rsự kiện"
                                        },
                                        {
                                            "slide":  20,
@@ -2198,7 +2198,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "Thông tin trong một dự án là một khái niệm năng động. Nó phát triển khi dự án đang được tiến hành và bàn giao, thông qua thiết kế và trong quá trình xây dựng. Vùng bên trong đường màu xanh lam cho thấy mức tăng trưởng ổn định, nhưng đây chỉ là sự đơn giản hóa trong biểu đồ. \r\rCó hai điểm bàn giao ở đầu và cuối dự án. Việc bàn giao ngay từ đầu thể hiện việc sử dụng thông tin có sẵn - thông tin về một tòa nhà sắp được tân trang lại hoặc về địa điểm sẽ được phát triển. Việc bàn giao cuối cùng là từ dự án đến quản lý tài sản/cơ sở vật chất.\r\rmô hình thông tin trong quá trình triển khai dự án là mô hình thông tin dự án – bao gồm thông tin đồ họa (các đối tượng 3D được sắp xếp theo hình học, với một số dữ liệu được đính kèm với các đối tượng đó), dữ liệu phi đồ họa cùng với những gì được chứa trong từng đối tượng và tài liệu liên quan đến đối tượng, hệ thống hoặc toàn bộ dự án.\r\rSau khi bàn giao, một số nội dung của mô hình thông tin dự án có thể được sử dụng để quản lý tài sản/cơ sở dài hạn như một phần của mô hình thông tin tài sản. Thông tin dự án không được sử dụng trong mô hình thông tin tài sản có thể được giữ lại cho mục đích ghi lại. \r\rKhi được chỉ định và bàn giao chính xác, thông tin dự án được sử dụng để quản lý tài sản sẽ tiết kiệm đáng kể thời gian và tiền bạc vì việc khảo sát tài sản và thu thập thông tin không cần phải lặp lại khi bắt đầu quản lý cơ sở vật chất.\r\r"
+                                           "text":  "Thông tin trong một dự án là một khái niệm năng động. Nó phát triển khi dự án đang được tiến hành và bàn giao, thông qua thiết kế và trong quá trình xây dựng. Vùng bên trong đường màu xanh lam cho thấy mức tăng trưởng ổn định, nhưng đây chỉ là sự đơn giản hóa trong biểu đồ. \r\rCó hai điểm bàn giao ở đầu và cuối dự án. Việc bàn giao ngay từ đầu thể hiện việc sử dụng thông tin có sẵn - thông tin về một tòa nhà sắp được tân trang lại hoặc về địa điểm sẽ được phát triển. Việc bàn giao cuối cùng là từ dự án đến quản lý tài sản/cơ sở vật chất.\r\rmô hình thông tin trong quá trình phân phối dự án là mô hình thông tin dự án – bao gồm thông tin đồ họa (các đối tượng 3D được sắp xếp theo hình học, với một số dữ liệu được đính kèm với các đối tượng đó), dữ liệu phi đồ họa cùng với những gì được chứa trong từng đối tượng và tài liệu liên quan đến đối tượng, hệ thống hoặc toàn bộ dự án.\r\rSau khi bàn giao, một số nội dung của mô hình thông tin dự án có thể được sử dụng để quản lý tài sản/cơ sở dài hạn như một phần của mô hình thông tin tài sản. Thông tin dự án không được sử dụng trong mô hình thông tin tài sản có thể được giữ lại cho mục đích ghi lại. \r\rKhi được chỉ định và bàn giao chính xác, thông tin dự án được sử dụng để quản lý tài sản sẽ tiết kiệm đáng kể thời gian và tiền bạc vì việc khảo sát tài sản và thu thập thông tin không cần phải lặp lại khi bắt đầu quản lý cơ sở vật chất.\r\r"
                                        },
                                        {
                                            "slide":  20,
@@ -2231,7 +2231,7 @@
                                            "path":  "591/419",
                                            "kind":  "text",
                                            "shapeName":  "TextBox 418",
-                                           "text":  "Điểm quyết định của chủ đầu tư/chủ sở hữu tài sản"
+                                           "text":  "Điểm quyết định của khách hàng/chủ sở hữu tài sản"
                                        },
                                        {
                                            "slide":  21,
@@ -3005,7 +3005,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "Điểm khởi đầu của bên giao nhiệm vụ (Anh: Chủ đầu tư dự án) là hiểu nhu cầu cấp cao của họ về thông tin dự án. Cuối cùng thì điều này sẽ tùy thuộc vào từng khách hàng cụ thể, nhưng có thể sẽ có một số lĩnh vực mà tất cả các khách hàng đều quan tâm chung. Ví dụ: khách hàng sẽ quan tâm đến việc tuân thủ ngân sách, cung cấp kết quả hoạt động phù hợp với nhu cầu kỹ thuật đã tạo ra dự án ngay từ đầu, việc tuân thủ luật pháp liên quan hoặc các tiêu chuẩn của công ty. Một số khách hàng có thể quan tâm đặc biệt đến ngày giao nhà (ví dụ: hội đồng quản trị trường học hoặc siêu thị) hoặc chi phí vận hành dài hạn của tòa nhà/tài sản. Các khách hàng khác có thể lo ngại về tác động môi trường của dự án.\r\rNhững yêu cầu thông tin này một phần xuất phát từ quy trình quản trị dự án của chính khách hàng – những câu hỏi nào cần được trả lời trong dự án nhóm triển khai tại các cổng tiếp theo – và một phần từ lợi ích kinh doanh của các bộ phận khác như tài chính, pháp lý, vận hành, quản lý bất động sản, v.v. Một khi chúng đã được hiểu rõ, những yêu cầu này hiếm khi thay đổi nên không cần phải viết lại từ đầu mỗi khi xem xét một dự án mới.\r\rTrong ngôn ngữ của ISO 19650, những yêu cầu cấp cao này đối với thông tin dự án được gọi là Dự án yêu cầu thông tin (PIR). Vì chúng được liên kết với các quyết định và phê duyệt dự án cụ thể mà khách hàng sẽ áp dụng nội bộ để giữ cho dự án đi đúng hướng nên chúng gần như chắc chắn được liên kết với tập hợp các giai đoạn dự án quan trọng của chính khách hàng.\r\r"
+                                           "text":  "Điểm khởi đầu của bên giao nhiệm vụ (Anh: Khách hàng dự án) là hiểu nhu cầu cấp cao của họ về thông tin dự án. Cuối cùng thì điều này sẽ tùy thuộc vào từng khách hàng cụ thể, nhưng có thể sẽ có một số lĩnh vực mà tất cả các khách hàng đều quan tâm chung. Ví dụ: khách hàng sẽ quan tâm đến việc tuân thủ ngân sách, cung cấp kết quả hoạt động phù hợp với nhu cầu kỹ thuật đã tạo ra dự án ngay từ đầu, việc tuân thủ luật pháp liên quan hoặc các tiêu chuẩn của công ty. Một số khách hàng có thể quan tâm đặc biệt đến ngày giao nhà (ví dụ: hội đồng quản trị trường học hoặc siêu thị) hoặc chi phí vận hành dài hạn của tòa nhà/tài sản. Các khách hàng khác có thể lo ngại về tác động môi trường của dự án.\r\rNhững yêu cầu thông tin này một phần xuất phát từ quy trình quản trị dự án của chính khách hàng – những câu hỏi nào cần được trả lời trong dự án nhóm triển khai tại các cổng tiếp theo – và một phần từ lợi ích kinh doanh của các bộ phận khác như tài chính, pháp lý, vận hành, quản lý bất động sản, v.v. Một khi chúng đã được hiểu rõ, những yêu cầu này hiếm khi thay đổi nên không cần phải viết lại từ đầu mỗi khi xem xét một dự án mới.\r\rTrong ngôn ngữ của ISO 19650, những yêu cầu cấp cao này đối với thông tin dự án được gọi là Dự án yêu cầu thông tin (PIR). Vì chúng được liên kết với các quyết định và phê duyệt dự án cụ thể mà khách hàng sẽ áp dụng nội bộ để giữ cho dự án đi đúng hướng nên chúng gần như chắc chắn được liên kết với tập hợp các giai đoạn dự án quan trọng của chính khách hàng.\r\r"
                                        },
                                        {
                                            "slide":  26,
@@ -3270,7 +3270,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "PIR do bên giao nhiệm vụ (Vương quốc Anh: Chủ đầu tư dự án) ghi lại sẽ hữu ích cho họ trong nội bộ để thấy rằng một dự án đang giải quyết những mối quan tâm chính của họ, nhưng bản thân những nhu cầu thông tin cấp cao này khó có thể đủ chính xác để đưa trực tiếp vào bất kỳ hợp đồng nào với nhóm triển khai của họ (Vương quốc Anh: Nhà thiết kế, nhà thầu, v.v.).\r\rCần có yêu cầu thông tin cụ thể hơn cho việc này và đây là Exchange yêu cầu thông tin (EIR). \r\rEIR tồn tại ở cấp độ của từng bổ nhiệm riêng lẻ được thực hiện để thực hiện toàn bộ dự án. Sẽ có rất nhiều loại trong số này, giữa bên giao nhiệm vụ (Anh: Khách hàng) và nhà thiết kế của họ (kiến trúc sư, kỹ sư kết cấu, kỹ sư dịch vụ xây dựng, v.v.), giữa khách hàng và nhà thầu của họ, giữa nhà thầu và nhà thầu phụ của họ, v.v.\r\rVề lý thuyết, EIR sẽ xếp tầng trong chuỗi cung ứng. \r\rTất nhiên, họ cần ngày càng cụ thể hơn (và ngắn gọn) hơn khi thực hiện việc này, vì mỗi cấp hợp đồng phụ giải quyết các phân đoạn ngày càng nhỏ hơn của dự án.\r\r"
+                                           "text":  "PIR do bên giao nhiệm vụ (Vương quốc Anh: Khách hàng dự án) ghi lại sẽ hữu ích cho họ trong nội bộ để thấy rằng một dự án đang giải quyết những mối quan tâm chính của họ, nhưng bản thân những nhu cầu thông tin cấp cao này khó có thể đủ chính xác để đưa trực tiếp vào bất kỳ hợp đồng nào với nhóm triển khai của họ (Vương quốc Anh: Nhà thiết kế, nhà thầu, v.v.).\r\rCần có yêu cầu thông tin cụ thể hơn cho việc này và đây là Exchange yêu cầu thông tin (EIR). \r\rEIR tồn tại ở cấp độ của từng bổ nhiệm riêng lẻ được thực hiện để thực hiện toàn bộ dự án. Sẽ có rất nhiều loại trong số này, giữa bên giao nhiệm vụ (Anh: Khách hàng) và nhà thiết kế của họ (kiến trúc sư, kỹ sư kết cấu, kỹ sư dịch vụ xây dựng, v.v.), giữa khách hàng và nhà thầu của họ, giữa nhà thầu và nhà thầu phụ của họ, v.v.\r\rVề lý thuyết, EIR sẽ xếp tầng trong chuỗi cung ứng. \r\rTất nhiên, họ cần ngày càng cụ thể hơn (và ngắn gọn) hơn khi thực hiện việc này, vì mỗi cấp hợp đồng phụ giải quyết các phân đoạn ngày càng nhỏ hơn của dự án.\r\r"
                                        },
                                        {
                                            "slide":  30,
@@ -3997,7 +3997,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "Ý tưởng xếp tầng yêu cầu thông tin trong chuỗi cung ứng là trọng tâm của ISO 19650-2. Điều 5.2.1 mô tả rằng bên giao nhiệm vụ (Anh: Chủ đầu tư dự án) phải thiết lập Exchange yêu cầu thông tin cho mỗi bổ nhiệm mà nó thực hiện. Trong ví dụ của slide này, có bốn bổ nhiệm được thực hiện bởi bên giao nhiệm vụ, do đó có bốn bộ EIR.\r\rĐiều 5.4.3 sau đó mô tả rằng mỗi bên được giao nhiệm vụ chính phân tầng một số EIR của bên giao nhiệm vụ xuống các bên được chỉ định. Đồng thời, bên được giao nhiệm vụ chính có thể thêm EIR của riêng nó, chẳng hạn nếu nó cần thông tin cụ thể để giúp nó quản lý nhóm triển khai. Những sản phẩm bàn giao này sẽ không phải là Shared với bên giao nhiệm vụ (Vương quốc Anh: Chủ đầu tư dự án).\r\rNgoài ra còn có vấn đề làm cho EIR ở bất kỳ cấp độ cụ thể nào của chuỗi cung ứng phù hợp với mức độ phức tạp và phạm vi công việc ở cấp độ đó. Vì vậy, cách tốt nhất là bất kỳ tổ chức nào cũng nên đảm bảo rằng EIR mà họ cấp cho các nhà cung cấp khác nhau chỉ hướng tới các sản phẩm cung cấp thông tin mà mỗi nhà cung cấp chịu trách nhiệm. Nếu bên giao nhiệm vụ thực hiện con đường dễ dàng chỉ là phát hành tài liệu EIR trên toàn dự án cho mọi bên được giao nhiệm vụ chính, thì điều này không giúp người nhận thấy rõ họ đang phải chịu trách nhiệm về điều gì. Điều này có thể dễ dàng trở thành biện pháp tránh rủi ro, không tương thích với các nguyên tắc làm việc cộng tác đằng sau BIM.\r\r\r"
+                                           "text":  "Ý tưởng xếp tầng yêu cầu thông tin trong chuỗi cung ứng là trọng tâm của ISO 19650-2. Điều 5.2.1 mô tả rằng bên giao nhiệm vụ (Anh: Khách hàng dự án) phải thiết lập Exchange yêu cầu thông tin cho mỗi bổ nhiệm mà nó thực hiện. Trong ví dụ của slide này, có bốn bổ nhiệm được thực hiện bởi bên giao nhiệm vụ, do đó có bốn bộ EIR.\r\rĐiều 5.4.3 sau đó mô tả rằng mỗi bên được giao nhiệm vụ chính phân tầng một số EIR của bên giao nhiệm vụ xuống các bên được chỉ định. Đồng thời, bên được giao nhiệm vụ chính có thể thêm EIR của riêng nó, chẳng hạn nếu nó cần thông tin cụ thể để giúp nó quản lý nhóm triển khai. Những sản phẩm bàn giao này sẽ không phải là Shared với bên giao nhiệm vụ (Vương quốc Anh: Khách hàng dự án).\r\rNgoài ra còn có vấn đề làm cho EIR ở bất kỳ cấp độ cụ thể nào của chuỗi cung ứng phù hợp với mức độ phức tạp và phạm vi công việc ở cấp độ đó. Vì vậy, cách tốt nhất là bất kỳ tổ chức nào cũng nên đảm bảo rằng EIR mà họ cấp cho các nhà cung cấp khác nhau chỉ hướng tới các sản phẩm cung cấp thông tin mà mỗi nhà cung cấp chịu trách nhiệm. Nếu bên giao nhiệm vụ thực hiện con đường dễ dàng chỉ là phát hành tài liệu EIR trên toàn dự án cho mọi bên được giao nhiệm vụ chính, thì điều này không giúp người nhận thấy rõ họ đang phải chịu trách nhiệm về điều gì. Điều này có thể dễ dàng trở thành biện pháp tránh rủi ro, không tương thích với các nguyên tắc làm việc cộng tác đằng sau BIM.\r\r\r"
                                        },
                                        {
                                            "slide":  34,
@@ -4440,7 +4440,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "Chiến lược liên kết mô tả cách dự án, trong trường hợp này là một dự án cơ sở hạ tầng, nói chung được phân chia như một cấu trúc phân chia container để làm cho dự án (hoặc tài sản) có thể quản lý được. \r\rĐiều này có thể vì một số lý do:\rQuản lý các quy trình thiết kế song song liên quan đến các nhiệm vụ thiết kế khác nhau - những quy trình này thường được liên kết với các bộ môn thiết kế nhưng cũng có thể được liên kết với các thành phần dự án cụ thể như một hệ thống khác\rTrong trường hợp này, mỗi phân tích container sẽ mô tả không gian 3D mà mỗi bộ môn cần cho thiết kế của mình\rQuản lý quyền truy cập thông tin vì lý do bảo mật – ở đây khối lượng sẽ được xác định theo phần nào của thiết kế bị hạn chế đối với một số thành viên nhất định trong nhóm\rQuản lý luồng thông tin qua internet – đặc biệt khi cơ sở hạ tầng CNTT không phù hợp để xử lý việc truyền tệp mô hình toàn bộ dự án đủ nhanh để cho phép làm việc từ xa hiệu quả\r\rDù lý do là gì, mỗi phân tích container riêng lẻ không được trùng lặp với bất kỳ phân tích container nào khác và mỗi phần của dự án phải tồn tại trong một container. Không được có khoảng trống hoặc trùng lặp giữa các thùng chứa. Sau khi các container được thống nhất, các định nghĩa sẽ được truyền đạt tới tất cả các thành viên trong nhóm. Việc đặt tên container phải là một trong những tiêu chuẩn thông tin dự án hoặc các phương pháp/quy trình tạo lập thông tin để tất cả những người đang tạo thông tin dự án và có thể đặt tên chính xác cho tệp của họ.\r\r\r"
+                                           "text":  "Chiến lược liên kết mô tả cách dự án, trong trường hợp này là một dự án cơ sở hạ tầng, nói chung được phân chia như một cấu trúc phân chia container để làm cho dự án (hoặc tài sản) có thể quản lý được. \r\rĐiều này có thể vì một số lý do:\rQuản lý các quy trình thiết kế song song liên quan đến các nhiệm vụ thiết kế khác nhau - những quy trình này thường được liên kết với các nguyên tắc thiết kế nhưng cũng có thể được liên kết với các thành phần dự án cụ thể như một hệ thống khác\rTrong trường hợp này, mỗi phân tích container sẽ mô tả không gian 3D mà mỗi ngành cần cho thiết kế của họ\rQuản lý quyền truy cập thông tin vì lý do bảo mật – ở đây khối lượng sẽ được xác định theo phần nào của thiết kế bị hạn chế đối với một số thành viên nhất định trong nhóm\rQuản lý luồng thông tin qua internet – đặc biệt khi cơ sở hạ tầng CNTT không phù hợp để xử lý việc truyền tệp mô hình toàn bộ dự án đủ nhanh để cho phép làm việc từ xa hiệu quả\r\rDù lý do là gì, mỗi phân tích container riêng lẻ không được trùng lặp với bất kỳ phân tích container nào khác và mỗi phần của dự án phải tồn tại trong một container. Không được có khoảng trống hoặc trùng lặp giữa các thùng chứa. Sau khi các container được thống nhất, các định nghĩa sẽ được truyền đạt tới tất cả các thành viên trong nhóm. Việc đặt tên container phải là một trong những tiêu chuẩn thông tin dự án hoặc các phương pháp/quy trình tạo lập thông tin để tất cả những người đang tạo thông tin dự án và có thể đặt tên chính xác cho tệp của họ.\r\r\r"
                                        },
                                        {
                                            "slide":  40,
@@ -4508,7 +4508,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "Chiến lược liên kết mô tả cách dự án, trong trường hợp này là một dự án xây dựng, nói chung được chia thành cấu trúc phân chia container để làm cho dự án (hoặc tài sản) có thể quản lý được. Điều này có thể vì một số lý do:\r\rQuản lý các quy trình thiết kế song song liên quan đến các nhiệm vụ thiết kế khác nhau - những quy trình này thường được liên kết với các bộ môn thiết kế nhưng cũng có thể được liên kết với các thành phần dự án cụ thể như thang máy/cầu thang/tầng/lõi kết cấu\rTrong trường hợp này, mỗi tập sẽ mô tả không gian 3D mà mỗi bộ môn cần cho thiết kế của mình.\rQuản lý quyền truy cập thông tin vì lý do bảo mật – ở đây khối lượng sẽ được xác định theo phần nào của thiết kế bị hạn chế đối với một số thành viên nhất định trong nhóm\rQuản lý luồng thông tin qua internet – đặc biệt khi cơ sở hạ tầng CNTT không phù hợp để xử lý việc truyền tệp mô hình toàn bộ dự án đủ nhanh để cho phép làm việc từ xa hiệu quả\r\rDù lý do là gì, mỗi phân tích container riêng lẻ không được trùng lặp với bất kỳ phân tích container nào khác và mỗi phần của dự án phải tồn tại trong một container. Nói cách khác, không được có khoảng trống hoặc trùng lặp giữa các thùng chứa. Sau khi các container được thống nhất, các định nghĩa sẽ được truyền đạt tới tất cả các thành viên trong nhóm. Đặt tên container phải là một trong những trường bắt buộc trong quy ước tên, vì vậy tất cả những người đang tạo thông tin dự án và đặt tên tệp phải có khả năng áp dụng mã container chính xác cho tệp của họ.\r\r"
+                                           "text":  "Chiến lược liên kết mô tả cách dự án, trong trường hợp này là một dự án xây dựng, nói chung được chia thành cấu trúc phân chia container để làm cho dự án (hoặc tài sản) có thể quản lý được. Điều này có thể vì một số lý do:\r\rQuản lý các quy trình thiết kế song song liên quan đến các nhiệm vụ thiết kế khác nhau - những quy trình này thường được liên kết với các nguyên tắc thiết kế nhưng cũng có thể được liên kết với các thành phần dự án cụ thể như thang máy/cầu thang/tầng/lõi kết cấu\rTrong trường hợp này, mỗi tập sẽ mô tả không gian 3D mà mỗi môn học cần cho thiết kế của họ.\rQuản lý quyền truy cập thông tin vì lý do bảo mật – ở đây khối lượng sẽ được xác định theo phần nào của thiết kế bị hạn chế đối với một số thành viên nhất định trong nhóm\rQuản lý luồng thông tin qua internet – đặc biệt khi cơ sở hạ tầng CNTT không phù hợp để xử lý việc truyền tệp mô hình toàn bộ dự án đủ nhanh để cho phép làm việc từ xa hiệu quả\r\rDù lý do là gì, mỗi phân tích container riêng lẻ không được trùng lặp với bất kỳ phân tích container nào khác và mỗi phần của dự án phải tồn tại trong một container. Nói cách khác, không được có khoảng trống hoặc trùng lặp giữa các thùng chứa. Sau khi các container được thống nhất, các định nghĩa sẽ được truyền đạt tới tất cả các thành viên trong nhóm. Đặt tên container phải là một trong những trường bắt buộc trong quy ước tên, vì vậy tất cả những người đang tạo thông tin dự án và đặt tên tệp phải có khả năng áp dụng mã container chính xác cho tệp của họ.\r\r"
                                        },
                                        {
                                            "slide":  41,
@@ -5169,7 +5169,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "Kế hoạch cung cấp thông tin nhiệm vụ (TIDP) được mỗi nhóm nhiệm vụ chuẩn bị, nhìn chung tương đương với từng bộ môn thiết kế hoặc gói nhà thầu chính. Vì TIDP đề cập đến mọi thứ do một nhóm sản xuất nên toàn bộ tài liệu này sẽ xác định ai sẽ phân phối từng sản phẩm mà nhóm đó liệt kê. Sẽ rất hữu ích nếu mỗi TIDP được tạo theo cùng một định dạng – bố cục bảng tính hoặc kế hoạch dự án Gantt để TIDP từ các nhóm khác nhau có thể được kết hợp thành một kế hoạch dễ dàng nhất có thể.\r\rMỗi nhóm nhiệm vụ sẽ thiết lập TIDP và duy trì kế hoạch này trong suốt bổ nhiệm. Khi thực hiện việc này, mỗi nhóm nhiệm vụ phải xem xét:\rCác mốc quan trọng cung cấp thông tin của dự án\rTrách nhiệm của nhóm nhiệm vụ trong ma trận trách nhiệm chi tiết\ryêu cầu thông tin của bên được giao nhiệm vụ chính\rTính sẵn có của tài nguyên Shared trong nhóm triển khai; Và\rThời gian nhóm nhiệm vụ cần để tạo ra thông tin (tạo, điều phối, xem xét và phê duyệt)\r\rTIDP cần bao gồm:\rChi tiết về từng thông tin có thể cung cấp \rKhông chỉ là mô hình 3D \rDẫn xuất từ ​​mô hình 3D (mặt bằng, mặt đứng, mặt cắt) \rNgoài ra còn có các sản phẩm khác như lịch trình, tài liệu và bản vẽ như sơ đồ có thể không được tạo từ công cụ lập mô hình 3d\rThông tin chi tiết về thời điểm bàn giao – lần lặp đầu tiên của kế hoạch có thể chỉ đề cập đến giai đoạn dự án có liên quan và ngày bàn giao dự kiến ​​cho giai đoạn đó. Những lần lặp lại kế hoạch sau này sẽ cung cấp ngày bàn giao chính xác hơn, có tính đến logic tuần tự về cách sản xuất các sản phẩm bàn giao\r\rThông tin chi tiết có trên slide tiếp theo.\r\r\r\r\r\r\r\r"
+                                           "text":  "Kế hoạch cung cấp thông tin nhiệm vụ (TIDP) được mỗi nhóm nhiệm vụ chuẩn bị, nhìn chung tương đương với từng nguyên tắc thiết kế hoặc gói nhà thầu chính. Vì TIDP đề cập đến mọi thứ do một nhóm sản xuất nên toàn bộ tài liệu này sẽ xác định ai sẽ phân phối từng sản phẩm mà nhóm đó liệt kê. Sẽ rất hữu ích nếu mỗi TIDP được tạo theo cùng một định dạng – bố cục bảng tính hoặc kế hoạch dự án Gantt để TIDP từ các nhóm khác nhau có thể được kết hợp thành một kế hoạch dễ dàng nhất có thể.\r\rMỗi nhóm nhiệm vụ sẽ thiết lập TIDP và duy trì kế hoạch này trong suốt bổ nhiệm. Khi thực hiện việc này, mỗi nhóm nhiệm vụ phải xem xét:\rCác mốc quan trọng cung cấp thông tin của dự án\rTrách nhiệm của nhóm nhiệm vụ trong ma trận trách nhiệm chi tiết\ryêu cầu thông tin của bên được giao nhiệm vụ chính\rTính sẵn có của tài nguyên Shared trong nhóm triển khai; Và\rThời gian nhóm nhiệm vụ cần để tạo ra thông tin (tạo, điều phối, xem xét và phê duyệt)\r\rTIDP cần bao gồm:\rChi tiết về từng thông tin có thể cung cấp \rKhông chỉ là mô hình 3D \rDẫn xuất từ ​​mô hình 3D (mặt bằng, mặt đứng, mặt cắt) \rNgoài ra còn có các sản phẩm khác như lịch trình, tài liệu và bản vẽ như sơ đồ có thể không được tạo từ công cụ lập mô hình 3d\rThông tin chi tiết về thời điểm bàn giao – lần lặp đầu tiên của kế hoạch có thể chỉ đề cập đến giai đoạn dự án có liên quan và ngày bàn giao dự kiến ​​cho giai đoạn đó. Những lần lặp lại kế hoạch sau này sẽ cung cấp ngày bàn giao chính xác hơn, có tính đến logic tuần tự về cách sản xuất các sản phẩm bàn giao\r\rThông tin chi tiết có trên slide tiếp theo.\r\r\r\r\r\r\r\r"
                                        },
                                        {
                                            "slide":  50,
@@ -5303,7 +5303,7 @@
                                            "path":  "45",
                                            "kind":  "text",
                                            "shapeName":  "Rounded Rectangle 44",
-                                           "text":  "Huy động nguồn lực\r(tài nguyên)"
+                                           "text":  "Huy động mọi người\r(tài nguyên)"
                                        },
                                        {
                                            "slide":  53,
@@ -6887,7 +6887,7 @@
                                            "path":  "notes:3",
                                            "kind":  "text",
                                            "shapeName":  "Notes Placeholder 2",
-                                           "text":  "Sự tham gia cần thiết của bên giao nhiệm vụ bao gồm: \rquản lý thông tin: Họ cần hiểu quy trình quản trị dự án của riêng mình\rQuản lý yêu cầu thông tin: Họ cần thu thập và ghi lại yêu cầu thông tin từ các bên liên quan của họ. Đây là những vai trò cần thiết khi bắt đầu triển khai BIM trong một dự án\rQuản lý cung cấp thông tin: Các sản phẩm cung cấp thông tin do nhóm triển khai cung cấp sẽ cần phải được xem xét, ủy quyền và chấp nhận và ai đó trong nhóm bên giao nhiệm vụ sẽ phải chịu trách nhiệm về việc này. Ngoài ra còn có sự phối hợp giữa các đội bàn giao cũng cần được giám sát\r\rHoàn toàn có thể và được cho phép trong ISO rằng bên giao nhiệm vụ không có kỹ năng và năng lực để thực hiện tất cả các chức năng này. Trong trường hợp này, bên giao nhiệm vụ có thể ủy quyền các khía cạnh của chức năng quản lý thông tin của nó cho một chuyên gia bên được giao nhiệm vụ hoặc cho một hoặc nhiều bên được chỉ định chính có liên quan đến dự án. Tuy nhiên, nếu thực hiện điều này, bên giao nhiệm vụ phải nhớ rằng nó vẫn chịu trách nhiệm về các hoạt động này.\r\rVới phạm vi hoạt động mà các bên chỉ định (khách hàng) có thể cần thực hiện hoặc chịu trách nhiệm, có một số kỹ năng và năng lực tương ứng mà nhân viên của họ cần phải có để thành công trong các dự án BIM. Đây là những kỹ năng bổ sung cho các kỹ năng quản lý dự án kỹ thuật mà họ đã cần.\r\rNhững kỹ năng và khả năng này không chỉ tập trung vào quản lý thông tin – những vai trò khách hàng này cũng cần kết nối với nhau để hiểu rõ hoạt động kinh doanh của tổ chức chủ đầu tư.\r\r"
+                                           "text":  "Sự tham gia cần thiết của bên giao nhiệm vụ bao gồm: \rquản lý thông tin: Họ cần hiểu quy trình quản trị dự án của riêng mình\rQuản lý yêu cầu thông tin: Họ cần thu thập và ghi lại yêu cầu thông tin từ các bên liên quan của họ. Đây là những vai trò cần thiết khi bắt đầu triển khai BIM trong một dự án\rQuản lý cung cấp thông tin: Các sản phẩm cung cấp thông tin do nhóm triển khai cung cấp sẽ cần phải được xem xét, ủy quyền và chấp nhận và ai đó trong nhóm bên giao nhiệm vụ sẽ phải chịu trách nhiệm về việc này. Ngoài ra còn có sự phối hợp giữa các đội bàn giao cũng cần được giám sát\r\rHoàn toàn có thể và được cho phép trong ISO rằng bên giao nhiệm vụ không có kỹ năng và năng lực để thực hiện tất cả các chức năng này. Trong trường hợp này, bên giao nhiệm vụ có thể ủy quyền các khía cạnh của chức năng quản lý thông tin của nó cho một chuyên gia bên được giao nhiệm vụ hoặc cho một hoặc nhiều bên được chỉ định chính có liên quan đến dự án. Tuy nhiên, nếu thực hiện điều này, bên giao nhiệm vụ phải nhớ rằng nó vẫn chịu trách nhiệm về các hoạt động này.\r\rVới phạm vi hoạt động mà các bên chỉ định (khách hàng) có thể cần thực hiện hoặc chịu trách nhiệm, có một số kỹ năng và năng lực tương ứng mà nhân viên của họ cần phải có để thành công trong các dự án BIM. Đây là những kỹ năng bổ sung cho các kỹ năng quản lý dự án kỹ thuật mà họ đã cần.\r\rNhững kỹ năng và khả năng này không chỉ tập trung vào quản lý thông tin – những vai trò khách hàng này cũng cần kết nối với nhau để hiểu rõ hoạt động kinh doanh của tổ chức khách hàng.\r\r"
                                        },
                                        {
                                            "slide":  66,

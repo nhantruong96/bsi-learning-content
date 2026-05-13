@@ -1,0 +1,1654 @@
+{
+    "source":  "C:\\Users\\nhan9\\OneDrive - PORTCOAST CONSULTANT CORPORATION\\BSI BIM Qualifications\\BIM Manager and Coordinator\\02 Slides_BIM7192VNM_v1_Mar 2025.pptx",
+    "slideCount":  51,
+    "slides":  [
+                   {
+                       "slide":  1,
+                       "entries":  [
+                                       {
+                                           "slide":  1,
+                                           "path":  "5122",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 2",
+                                           "text":  "Training Academy"
+                                       },
+                                       {
+                                           "slide":  1,
+                                           "path":  "2",
+                                           "kind":  "text",
+                                           "shapeName":  "Text Placeholder 1",
+                                           "text":  "Khóa đào tạo:  BIM cộng tác - Phần 2\rĐiều phối viên BIM (BIM Coordinator) \u0026 Quản lý BIM (BIM Manager)"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  2,
+                       "entries":  [
+                                       {
+                                           "slide":  2,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "Chào mừng"
+                                       },
+                                       {
+                                           "slide":  2,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Xin vui lòng quan sát các điểm chính sau đây:\r\rVì sự an toàn cá nhân của bạn, vui lòng lưu ý các lối thoát hiểm khẩn cấp từ lớp học và tòa nhà của bạn.\r\rGiảng viên sẽ thông báo cho bạn những nhà vệ sinh gần nhất.\r\rVui lòng không để các vật dụng có giá trị trong lớp học khi đi ra ngoài. Hãy giữ chúng bên mình hoặc thực hiện các sắp xếp khác để giữ chúng an toàn.\r\rVui lòng quan tâm đến các học viên khác và tránh bị phân tâm bởi tiếng bíp/nhấp nháy của điện thoại di động của bạn.\r\rVui lòng không sử dụng thiết bị ghi âm vì chúng có thể hạn chế thảo luận tự do thoải mái.\r\rGiảng viên sẽ thông báo lịch ăn trưa và nghỉ cho các bạn. Vui lòng trở lại lớp học đúng giờ.\r\rGiảng viên sẽ thông báo cho các học viên về khu vực được biết là có thể hút thuốc.\r\rNếu có bất kỳ nhu cầu đặc biệt nào, vui lòng xác nhận những điều này ngay bây giờ.\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  3,
+                       "entries":  [
+                                       {
+                                           "slide":  3,
+                                           "path":  "7",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Giới thiệu học viên"
+                                       },
+                                       {
+                                           "slide":  3,
+                                           "path":  "10/12",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 11",
+                                           "text":  "Giới thiệu"
+                                       },
+                                       {
+                                           "slide":  3,
+                                           "path":  "15",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 14",
+                                           "text":  "10 phút"
+                                       },
+                                       {
+                                           "slide":  3,
+                                           "path":  "16",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 15",
+                                           "text":  "Bấm vào đây để bắt đầu"
+                                       },
+                                       {
+                                           "slide":  3,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Giảng viên của bạn sẽ tự giới thiệu.\r\rĐến lượt của bạn\rTên học viên?\rTổ chức và sản phẩm hay dịch vụ?\rVị trí công việc hay vai trò?\rKiến thức về BIM\rBất kỳ câu hỏi/vấn đề cụ thể nào cần được giải đáp/kỳ vọng từ khóa học?\rMột cái gì đó thú vị về BẠN?\r\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  4,
+                       "entries":  [
+                                       {
+                                           "slide":  4,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 5",
+                                           "text":  "Lợi ích dành cho bạn"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  5,
+                       "entries":  [
+                                       {
+                                           "slide":  5,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "Cấu trúc khoá học"
+                                       },
+                                       {
+                                           "slide":  5,
+                                           "path":  "9/11",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 10",
+                                           "text":  "Định dạng khóa học:\rCác hoạt động\rThảo luận trong lớp học"
+                                       },
+                                       {
+                                           "slide":  5,
+                                           "path":  "12/14",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 13",
+                                           "text":  "\rTài liệu:\rTài liệu dành cho học viên\rSlide và tài liệu tham khảo \r"
+                                       },
+                                       {
+                                           "slide":  5,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Khóa học này bao gồm các hướng dẫn, hoạt động của học viên và thảo luận.\r\rTài liệu dành cho học viên của bạn chứa tất cả các tài liệu in liên quan đến khóa học này, bao gồm các slide, hoạt động và tài liệu tham khảo. Các câu trả lời mẫu cho các hoạt động cũng nằm ở cuối Tài liệu dành cho học viên của bạn. Vui lòng chỉ tham khảo câu trả lời cho từng hoạt động sau khi hoàn thành hoặc nếu bạn thực sự gặp khó khăn.\r\rBạn sẽ tận dụng tối đa khóa học này bằng cách trở thành một người tham gia tích cực, đặt câu hỏi và tham gia vào các cuộc thảo luận và hoạt động. Hãy nhớ rằng không có câu hỏi ngớ ngẩn nào và xin vui lòng tìm kiếm sự giúp đỡ của giảng viên của bạn khi cần thiết.\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  6,
+                       "entries":  [
+                                       {
+                                           "slide":  6,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "Mục đích khoá học"
+                                       },
+                                       {
+                                           "slide":  6,
+                                           "path":  "4/11",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 10",
+                                           "text":  "\r"
+                                       },
+                                       {
+                                           "slide":  6,
+                                           "path":  "4/12",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 11",
+                                           "text":  "Cung cấp bằng chứng đánh giá năng lực phù hợp cho những người được giao nhiệm vụ phối hợp thiết lập mô hình thông tin công trình cho các dự án xây dựng/Quản lý tài sản. Khóa đào tạo trình độ chuyên môn về Mô hình Thông tin Công trình - BIM Cộng tác, Phần 2: BIM Coordinator \u0026 BIM Manager Truyền đạt tầm quan trọng của việc thiết lập các mục đích rõ ràng cho BIM và việc công tác để đạt các mục đích này thông qua các quy trình và yêu cầu thông tin rõ ràng."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  7,
+                       "entries":  [
+                                       {
+                                           "slide":  7,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "Mục tiêu học tập "
+                                       },
+                                       {
+                                           "slide":  7,
+                                           "path":  "7",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 6",
+                                           "text":  "Tổng quan và bối cảnh của bộ tiêu chuẩn ISO 19650 \rGiới thiệu về Phần mềm/ Công cụ/ Nền tảng BIM \rKế hoạch thực hiện BIM (BEP) \rCông việc điển hình của BIM Coordinator \u0026 BIM Manager\rKỹ năng điển hình của BIM Coordinator \u0026 BIM Manager\rPhương pháp luận đánh giá trình độ cho BIM Coordinator \u0026 BIM Manager"
+                                       },
+                                       {
+                                           "slide":  7,
+                                           "path":  "8/9",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 8",
+                                           "text":  "Nội dung \u0026 Kiến thức"
+                                       },
+                                       {
+                                           "slide":  7,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Sau khi hoàn thành, các học viên thành công sẽ đạt được kiến thức và kỹ năng được thể hiện:\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  8,
+                       "entries":  [
+                                       {
+                                           "slide":  8,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Phần 1: Tổng quan và bối cảnh"
+                                       },
+                                       {
+                                           "slide":  8,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r\r\r\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  9,
+                       "entries":  [
+                                       {
+                                           "slide":  9,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 2",
+                                           "text":  "Bối cảnh toàn cầu"
+                                       },
+                                       {
+                                           "slide":  9,
+                                           "path":  "7/9",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 8",
+                                           "text":  "Nhiều nền kinh tế phát triển hiện đã xác định cách tiếp cận của họ để triển khai BIM"
+                                       },
+                                       {
+                                           "slide":  9,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Có nhiều cơ hội phát triển đáng kể trong lĩnh vực xây dựng trên toàn cầu và các quá trình cũng như nhiệm vụ của BIM đã được triển khai hoặc chuyển sang ở nhiều nơi trên thế giới. Hầu hết các nền kinh tế phát triển hiện nay đều có một số sáng kiến BIM do chính phủ hoặc ngành lãnh đạo.\r\rBIM cho phép chúng ta đảm bảo rằng chúng ta sẽ chứng kiến sự tăng trưởng đáng kể trong một lĩnh vực truyền thống bị bóp nghẹt bởi thông tin nghèo nàn và các quá trình không hiệu quả.\r\rViệc áp dụng quá trình BIM trên quy mô quốc tế rộng rãi hơn này đang được hỗ trợ bởi việc xuất bản ISO 19650 Quản lý thông tin bằng cách sử dụng Mô hình Thông tin Xây dựng. Phần 1 và 2 của tiêu chuẩn này đã được xuất bản vào năm 2018, bao gồm các khái niệm và nguyên tắc (Phần 1) và ứng dụng cho các dự án hoặc giai đoạn triển khai của tài sản (Phần 2). Phần 3 và 5 đã được xuất bản vào năm 2020, bao gồm ứng dụng cho giai đoạn vận hành của tài sản (Phần 3) và quản lý thông tin chú trọng đến bảo mật (Phần 5). Phần 4 được xuất bản năm 2022, bao gồm các tiêu chí chất lượng của quá trình trao đổi thông tin.\r\rPhần còn lại của khóa học Cơ bản về BIM này tập trung vào BIM hợp tác.\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  10,
+                       "entries":  [
+                                       {
+                                           "slide":  10,
+                                           "path":  "21",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 20",
+                                           "text":  "Việc thực hiện tại Vương quốc Anh"
+                                       },
+                                       {
+                                           "slide":  10,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 3",
+                                           "text":  "Việc thực hiện tại Việt Nam"
+                                       },
+                                       {
+                                           "slide":  10,
+                                           "path":  "14",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 13",
+                                           "text":  "258/QĐ-TTg, PHÊ DUYỆT LỘ TRÌNH ÁP DỤNG MÔ HÌNH THÔNG TIN CÔNG TRÌNH (BIM) TRONG HOẠT ĐỘNG XÂY DỰNG\r347/QĐ-BXD, HƯỚNG DẪN CHI TIẾT ÁP DỤNG MÔ HÌNH THÔNG TIN CÔNG TRÌNH (BIM) ĐỐI VỚI CÔNG TRÌNH DÂN DỤNG VÀ HẠ TẦNG KỸ THUẬT ĐÔ THỊ\r348/QĐ-BXD, HƯỚNG DẪN CHUNG ÁP DỤNG MÔ HÌNH THÔNG TIN CÔNG TRÌNH (BIM)"
+                                       },
+                                       {
+                                           "slide":  10,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Nỗ lực của Vương quốc Anh trong việc áp dụng các quá trình BIM hợp tác được điều phối bởi một tập đoàn dưới tên “Khuôn khổ BIM của Vương quốc Anh” được hỗ trợ bởi:\rNIMA (trước đây gọi là Liên minh BIM Vương quốc Anh) – bao gồm chương buildingSMART Vương quốc Anh và Ireland, là trọng tâm cho sự tham gia của ngành và thể chế\rBSI – Viện Tiêu chuẩn Anh, Cơ quan Tiêu chuẩn Quốc gia Vương quốc Anh đại diện cho Vương quốc Anh tại CEN và ISO\rVà các cơ quan chính phủ khác nhau bao gồm Bộ Chiến lược Kinh doanh, Năng lượng và Công nghiệp (BEIS).\r\rTrang web cung cấp tất cả các tài nguyên Khuôn khổ BIM của Vương quốc Anh là: www.ukbimframework.org."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  11,
+                       "entries":  [
+                                       {
+                                           "slide":  11,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Tại sao lại sử dụng tiêu chuẩn?"
+                                       },
+                                       {
+                                           "slide":  11,
+                                           "path":  "8/10",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 9",
+                                           "text":  "\rPAS – Quy định kỹ thuật công khai\r"
+                                       },
+                                       {
+                                           "slide":  11,
+                                           "path":  "11/13",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 12",
+                                           "text":  "\rBS – Tiêu chuẩn Anh\r"
+                                       },
+                                       {
+                                           "slide":  11,
+                                           "path":  "14/16",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 15",
+                                           "text":  "\rEN – Tiêu chuẩn Châu Âu\r"
+                                       },
+                                       {
+                                           "slide":  11,
+                                           "path":  "18/20",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 19",
+                                           "text":  "\rISO – Tiêu chuẩn Quốc tế\r"
+                                       },
+                                       {
+                                           "slide":  11,
+                                           "path":  "22",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 21",
+                                           "text":  "European Committee for Standardization"
+                                       },
+                                       {
+                                           "slide":  11,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Việc áp dụng các tiêu chuẩn tạo thành một khuôn khổ cho bất kỳ quá trình nào và cho phép ngành được hướng dẫn bởi một quá trình đã được thống nhất. Bằng cách giảm nhu cầu các tổ chức riêng biệt phải phát minh ra các giải pháp của riêng họ cho một vấn đề chung, các tiêu chuẩn là một khía cạnh của việc thực hiện tư duy Tinh gọn khi chúng giảm sự trùng lặp lãng phí. Các tiêu chuẩn hỗ trợ việc phân phối BIM là chìa khóa cho sự thành công của việc triển khai BIM trên tất cả các dự án.\r\rCác tiêu chuẩn có thể được định nghĩa như sau:\rISO – Một tiêu chuẩn được quốc tế công nhận cung cấp hướng dẫn và hỗ trợ nhiều ngành công nghiệp khác nhau trên toàn cầu. ISO có thể là các báo cáo kỹ thuật, quy định kỹ thuật và hướng dẫn và được sử dụng để đảm bảo tính nhất quán trong cách tiếp cận sản phẩm, dịch vụ, quá trình hoặc vật liệu\rCEN – Cơ quan toàn châu Âu bao gồm các Cơ quan Tiêu chuẩn Quốc gia (không phải chính phủ). Các thành viên dự kiến ​​sẽ rút lại các tiêu chuẩn quốc gia trong cuộc xung đột. Đôi khi EU yêu cầu CEN chuẩn bị các tiêu chuẩn để hỗ trợ pháp luật EU\rVương quốc Anh:\rBS – Tiêu chuẩn Anh ngày càng được sử dụng rộng rãi trên toàn thế giới để áp dụng các nguyên tắc thực hành tốt nhất cho các dịch vụ, sản phẩm hoặc các ngành cụ thể. Chúng là các tiêu chuẩn quốc gia của Vương quốc Anh và là một ấn phẩm và thông số kỹ thuật hoặc thông lệ có thể được sử dụng làm hướng dẫn cho việc sản xuất sản phẩm hoặc thực hiện một quá trình hoặc cung cấp dịch vụ\rPAS – Quy định kỹ thuật có sẵn công khai là các tiêu chuẩn cung cấp hướng dẫn cho một quá trình, sản phẩm hoặc dịch vụ được tạo ra ngoài yêu cầu của ngành dựa trên nhu cầu đặc biệt cấp bách của ngành. Các tài liệu PAS thường phát triển để trở thành Tiêu chuẩn của Anh hoặc Quốc tế\rCác tiêu chuẩn hỗ trợ việc triển khai BIM tại Vương quốc Anh đã được phát triển và cập nhật kể từ khi ban hành Chiến lược Xây dựng của Chính phủ vào năm 2011. Các tiêu chuẩn cung cấp hướng dẫn thực hành tốt nhất theo cách chúng ta lập kế hoạch, quản lý, cung cấp và sử dụng môi trường xây dựng của mình."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  12,
+                       "entries":  [
+                                       {
+                                           "slide":  12,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 2",
+                                           "text":  "Tiêu chuẩn triển khai BIM của Vương quốc Anh \u0026 Việt nam"
+                                       },
+                                       {
+                                           "slide":  12,
+                                           "path":  "12",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 11",
+                                           "text":  "BS 8536 \rThiết kế, chế tạo và thi công đảm bảo khả năng vận hành"
+                                       },
+                                       {
+                                           "slide":  12,
+                                           "path":  "14",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 13",
+                                           "text":  "ISO 19650-1/ TCVN 14177-1\rKhái niệm và nguyên tắc"
+                                       },
+                                       {
+                                           "slide":  12,
+                                           "path":  "16",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 15",
+                                           "text":  "ISO 19650-2/ TCVN 14177-2\rGiai đoạn chuyển giao (dự án)"
+                                       },
+                                       {
+                                           "slide":  12,
+                                           "path":  "18",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 17",
+                                           "text":  "ISO 19650-3\rGiai đoạn vận hành\r(quản lý tài sản)"
+                                       },
+                                       {
+                                           "slide":  12,
+                                           "path":  "21",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 20",
+                                           "text":  "ISO 19650-4\rTrao đổi thông tin"
+                                       },
+                                       {
+                                           "slide":  12,
+                                           "path":  "24",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 23",
+                                           "text":  "UK BIM Framework"
+                                       },
+                                       {
+                                           "slide":  12,
+                                           "path":  "29",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 28",
+                                           "text":  "Bảng phân loại\rUniclass 2015"
+                                       },
+                                       {
+                                           "slide":  12,
+                                           "path":  "33",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 32",
+                                           "text":  "ISO 19650-5\rBảo mật"
+                                       },
+                                       {
+                                           "slide":  12,
+                                           "path":  "34",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 33",
+                                           "text":  "Giao thức \rThông tin"
+                                       },
+                                       {
+                                           "slide":  12,
+                                           "path":  "37",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 36",
+                                           "text":  "ISO 19650-6\rAn toàn và sức khoẻ"
+                                       },
+                                       {
+                                           "slide":  12,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "BIM hợp tác được hỗ trợ bởi một loạt các trụ cột xác định và gói gọn quá trình cũng như các yêu cầu để cung cấp. ISO 19650 đã được tạo ra và đang được phát triển thêm để hỗ trợ triển khai mang tính quốc tế các quá trình BIM:\rNguyên tắc cộng tác – ISO 19650-1:2018\rGiai đoạn vốn/triển khai – ISO 19650-2:2018\rGiai đoạn Vận hành – ISO 19650-3:2020\rTrao đổi thông tin – ISO 19650-4:2022\rBảo mật – ISO 19650-5:2020\r\rVương quốc Anh: Các quá trình Khuôn khổ BIM của Vương quốc Anh được hướng dẫn thông qua ấn phẩm của Vương quốc Anh về các phần của ISO 19650 và các tài liệu cụ thể khác của Vương quốc Anh như được nêu dưới đây:\rNguyên tắc hợp tác – BS EN ISO 19650-1\rGiai đoạn vốn/triển khai – BS EN ISO 19650-2 bao gồm Phụ lục Quốc gia Vương quốc Anh\rGiai đoạn vận hành – BS EN ISO 19650-3:2020\rTrao đổi thông tin – BS EN ISO 19650-4:2022 bao gồm Phụ lục Quốc gia Vương quốc Anh đề xuất COBie\rBảo mật – BS EN ISO 19650-5:2020\rSức khỏe \u0026 an toàn – PAS 1192-6:2018 – Một dự án phát triển điều này dưới dạng ISO 19650-6 hiện đang được tiến hành và dự kiến sẽ xuất bản vào năm 2024\rCân nhắc hoạt động cho các dự án giai đoạn triển khai – BS 8536:2022\rGia hạn hợp đồng cho cả hợp đồng giai đoạn triển khai và giai đoạn vận hành – Giao thức thông tin\rPhân loại – Uniclass 2015 (Anh triển khai ISO 12006-2)\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  13,
+                       "entries":  [
+                                       {
+                                           "slide":  13,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "BIM là gì?"
+                                       },
+                                       {
+                                           "slide":  13,
+                                           "path":  "7",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 6",
+                                           "text":  "Toàn bộ       vòng đời"
+                                       },
+                                       {
+                                           "slide":  13,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 7",
+                                           "text":  "Hợp tác          làm việc"
+                                       },
+                                       {
+                                           "slide":  13,
+                                           "path":  "9",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 8",
+                                           "text":  "Quản lý      thông tin"
+                                       },
+                                       {
+                                           "slide":  13,
+                                           "path":  "11",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 10",
+                                           "text":  "BIM"
+                                       },
+                                       {
+                                           "slide":  13,
+                                           "path":  "2",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 1",
+                                           "text":  "Introduction to BIM (Building Information Modelling) - YouTube"
+                                       },
+                                       {
+                                           "slide":  13,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "BIM bao gồm một loạt các mô hình, tài liệu và dữ liệu chuyên ngành riêng lẻ và là một quá trình mà tất cả thông tin được thu thập để cung cấp nhiều giải pháp giá trị gia tăng hơn cho khách hàng ở giai đoạn bàn giao.\r\rSơ đồ trên chỉ ra cách BIM được gắn với nhau bằng thông tin kỹ thuật số nhưng các quá trình, quy trình và con người phải được đưa ra để đảm bảo quá trình diễn ra suôn sẻ nhất có thể. Quá trình này bao gồm một loạt các mô hình chuyên ngành riêng lẻ kết hợp với nhau để tạo thành một mô hình \"liên kết\" để phối hợp và sử dụng.\r\rBIM được định nghĩa là một quá trình hơn là một đối tượng. Quá trình phải được hiểu bởi tất cả các bên tham gia vào một dự án. Điều cực kỳ quan trọng là chiến lược BIM của dự án được tất cả những người tham gia biết đến để mỗi bên đạt được lợi tức đầu tư phù hợp vào quá trình này.\r\rHơn nữa trong khóa học, chúng ta sẽ giải thích các quá trình, quy trình và con người đóng vai trò quan trọng như thế nào đối với sự thành công của dự án BIM, nhưng để hiểu tại sao cần thảo luận về những gì BIM đòi hỏi và sau đó phân tích xem nó ảnh hưởng tích cực đến công việc của chúng ta như thế nào.\r\rChỉ riêng ở Vương quốc Anh, có gần ba triệu người làm việc trong ngành xây dựng và do đó, nâng cao kỹ năng cho số lượng cá nhân này là một nhiệm vụ quan trọng đối với ngành của chúng tôi. Để có thể triển khai BIM cho công ty của bạn, có thể cần phải tác động đến nhân sự chủ chốt để đảm bảo họ có động lực phù hợp để có thể thúc đẩy quá trình triển khai cho những người khác. Sau đó, bạn có thể cung cấp kiến thức này cho chuỗi cung ứng của mình để hỗ trợ quá trình đào tạo và quản lý BIM.\r\rTùy thuộc vào quy mô hoặc tính chất của công ty bạn làm việc, có thể cần đảm bảo rằng những cá nhân này đóng vai trò là người ủng hộ BIM, thúc đẩy và làm việc hướng tới mục tiêu tăng trưởng và lợi nhuận của công ty. Trình điều khiển quan trọng cho BIM là \u0027người hỗ trợ\u0027 và những người này sẽ đảm bảo họ chia sẻ, hỗ trợ và cung cấp hướng dẫn liên quan đến công ty và dự án của bạn. "
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  14,
+                       "entries":  [
+                                       {
+                                           "slide":  14,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Phần 2: Giới thiệu về Phần mềm/ Công cụ/ Nền tảng BIM \u000b"
+                                       },
+                                       {
+                                           "slide":  14,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  15,
+                       "entries":  [
+                                       {
+                                           "slide":  15,
+                                           "path":  "2",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "Mục đích của BIM"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "49",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 48",
+                                           "text":  "Công nghệ/hệ thống tương lai"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "39",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 38",
+                                           "text":  "Sản xuất"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "41",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 40",
+                                           "text":  "Chế tạo"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 7",
+                                           "text":  "Quản lý cơ sở \u000bvật chất"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "37",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 36",
+                                           "text":  "Xây dựng"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "16",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 15",
+                                           "text":  "Vận hành"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "34",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 33",
+                                           "text":  "Mô tả"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "40",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 39",
+                                           "text":  "Lắp đặt"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "48",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 47",
+                                           "text":  "Quan trắc theo dõi"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "38",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 37",
+                                           "text":  "Xây dựng mới"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "17",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 16",
+                                           "text":  "Bảo trì"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "36",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 35",
+                                           "text":  "Nâng cấp"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "1088",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 1087",
+                                           "text":  "Phân tích"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "35",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 34",
+                                           "text":  "Thiết kế"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "43",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 42",
+                                           "text":  "IoT"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "44",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 43",
+                                           "text":  "Quản lý dữ liệu"
+                                       },
+                                       {
+                                           "slide":  15,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "BIM là quá trình thiết kế, xây dựng hoặc vận hành một tòa nhà hoặc tài sản cơ sở hạ tầng bằng cách sử dụng thông tin điện tử hướng đối tượng (Tham khảo: ISO 19650 phần 2). \rBIM là quá trình thông tin được tạo ra, ban hành và sử dụng trong tất cả các giai đoạn quan trọng của dự án xây dựng. \rBIM không chỉ được sử dụng trong giai đoạn thiết kế và xây dựng của một dự án mà còn trong quá trình sử dụng và sử dụng tòa nhà/cơ sở. \rĐây là nơi chứa phần lớn giá trị nhưng mỗi bên ở bất kỳ giai đoạn nào đều có thể được hưởng lợi nếu được áp dụng đúng cách. BIM cộng tác liên quan đến một loạt \u0027mô hình thông tin\u0027 được tạo và chia sẻ trong các giai đoạn quan trọng của việc triển khai dự án và quản lý tài sản. \rBIM không chỉ đơn thuần là tạo mô hình 3D mà còn là quá trình tạo kho lưu trữ tất cả thông tin cần thiết được cập nhật, xử lý, sử dụng và quản lý trong suốt vòng đời. \rBIM cũng có thể được mô tả như một nguyên mẫu kỹ thuật số của một tòa nhà, thể hiện cả các đặc điểm vật lý và chức năng của nó và nó có thể là nguồn thông tin được chia sẻ khi tòa nhà được đưa vào sử dụng. \rDo đó, thông tin này có thể được truy cập dễ dàng đối với các nhóm quản lý cơ sở hoặc các bên liên quan yêu cầu truy cập thông tin một cách nhanh chóng và dễ dàng. BIM cho phép quá trình hợp tác tốt hơn bằng cách đảm bảo tất cả các thành viên trong nhóm chia sẻ thông tin thường xuyên và cộng tác trong một dự án một cách cởi mở nhất có thể. \rBIM thúc đẩy các quy trình hợp tác tốt hơn vì nó thực thi cách tiếp cận nhóm để đảm bảo tất cả thông tin và dữ liệu mô hình kỹ thuật số được sử dụng để cung cấp bản trình bày kỹ thuật số thống nhất cho tòa nhà. Thông tin được chia sẻ và thu thập ở các giai đoạn quan trọng của dự án và khi kết thúc mỗi hoạt động quản lý tài sản. Khi nó được thu thập và chia sẻ, một quy trình kiểm tra thông minh sẽ được tạo ra. \rĐiều này cũng đảm bảo rằng không có thông tin nào bị mất và tất cả các bên đều biết về thông tin được nhận, chia sẻ và sử dụng ở tất cả các mốc quan trọng. Nói tóm lại, quy trình BIM tránh được các vấn đề không cần thiết như sự phối hợp kém của các yếu tố xây dựng hoặc sử dụng dữ liệu bị thay thế vì quy trình này đảm bảo tất cả các bên đang sử dụng và chia sẻ thông tin một cách thông minh và nhất quán, phù hợp với giai đoạn làm việc và chuyên ngành của họ. \rĐiều quan trọng là phải hiểu các định nghĩa về BIM trước khi thực hiện hoạt động triển khai cho công ty của bạn.\r\u000b"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  16,
+                       "entries":  [
+                                       {
+                                           "slide":  16,
+                                           "path":  "3",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 2",
+                                           "text":  "Hướng dẫn sử dụng Insight trong Autodesk BIM Collaboration Pro [12 trên 12]"
+                                       },
+                                       {
+                                           "slide":  16,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "\u000b"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  17,
+                       "entries":  [
+                                       {
+                                           "slide":  17,
+                                           "path":  "54273",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Hoạt động 1"
+                                       },
+                                       {
+                                           "slide":  17,
+                                           "path":  "27/29",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 28",
+                                           "text":  "Các phần mềm BIM đang áp dụng?"
+                                       },
+                                       {
+                                           "slide":  17,
+                                           "path":  "32",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 31",
+                                           "text":  "10 minutes"
+                                       },
+                                       {
+                                           "slide":  17,
+                                           "path":  "34",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 33",
+                                           "text":  "Click here to start"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  18,
+                       "entries":  [
+                                       {
+                                           "slide":  18,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Phần 3: Kế hoạch thực hiện BIM (BEP)"
+                                       },
+                                       {
+                                           "slide":  18,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r\r\r\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  19,
+                       "entries":  [
+                                       {
+                                           "slide":  19,
+                                           "path":  "2",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "Kế hoạch thực hiện BIM trước chỉ định 5.3.2 "
+                                       },
+                                       {
+                                           "slide":  19,
+                                           "path":  "3",
+                                           "kind":  "text",
+                                           "shapeName":  "Content Placeholder 2",
+                                           "text":  "\r\r"
+                                       },
+                                       {
+                                           "slide":  19,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "Rounded Rectangle 3",
+                                           "text":  "Chuẩn bị trong giai đoạn đấu thầu"
+                                       },
+                                       {
+                                           "slide":  19,
+                                           "path":  "5",
+                                           "kind":  "text",
+                                           "shapeName":  "Rounded Rectangle 4",
+                                           "text":  "Để giúp Bên chỉ định (khách hàng) chọn nhà cung cấp tốt nhất\rNhà cung cấp có thể đáp ứng các yêu cầu về thông tin không?"
+                                       },
+                                       {
+                                           "slide":  19,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Rounded Rectangle 7",
+                                           "text":  "Cách tiếp cận rộng để trả lời EIR cộng với các câu trả lời cụ thể được yêu cầu"
+                                       },
+                                       {
+                                           "slide":  19,
+                                           "path":  "9",
+                                           "kind":  "text",
+                                           "shapeName":  "Rounded Rectangle 8",
+                                           "text":  "Đề xuất chiến lược liên kết"
+                                       },
+                                       {
+                                           "slide":  19,
+                                           "path":  "10",
+                                           "kind":  "text",
+                                           "shapeName":  "Rounded Rectangle 9",
+                                           "text":  "Các đề xuất của Bên được chỉ định chính để sửa đổi hoặc mở rộng tiêu chuẩn thông tin và các phương pháp và quy trình tạo ra thông tin"
+                                       },
+                                       {
+                                           "slide":  19,
+                                           "path":  "11",
+                                           "kind":  "text",
+                                           "shapeName":  "Rounded Rectangle 10",
+                                           "text":  "Một số BEP có thể được yêu cầu trong quá trình sơ tuyển"
+                                       },
+                                       {
+                                           "slide":  19,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Sau khi họ đã tổ chức các nguồn lực của mình để thực hiện các hoạt động quản lý thông tin (chức năng quản lý thông tin), giai đoạn đầu tiên của phản hồi BIM từ Bên được chỉ định chính cho Bên chỉ định là chuẩn bị Kế hoạch thực hiện BIM trước chỉ định (BEP) .\r\rBEP trước chỉ định là một tài liệu trong đó bên được chỉ định chính tiềm năng (Vương quốc Anh: Nhà cung cấp chính) có thể thực hiện ba việc cụ thể thay mặt cho nhóm chuyển giao hàng mà họ chỉ đạo:\rHọ có thể giải thích một cách khái quát cách Nhóm chuyển giao sẽ đáp ứng các yêu cầu kỹ thuật, quản lý và thương mại của PIR và EIR\rHọ có thể đáp ứng bất kỳ yêu cầu đề xuất quản lý thông tin nào được xác định trong EIR\rHọ có thể giải thích khả năng và năng lực của nhóm để làm việc trong dự án BIM này\rNhư tên gọi của nó, BEP trước chỉ định là một phần của lợi nhuận dự thầu, do đó, nó được chuẩn bị trong khi nhà cung cấp vẫn đang cố gắng giành được công việc của dự án. Do đó, lượng nỗ lực dành cho việc hoàn thành BEP trước chỉ định cần phải được quản lý cẩn thận. Một số phần của BEP sẽ dành riêng cho dự án và rõ ràng sẽ cần được tạo hoặc chỉnh sửa mỗi khi BEP trước chỉ định được ban hành. Nhưng các phần khác của BEP sẽ ổn định hơn theo thời gian và có thể trở thành tài liệu tiêu chuẩn của công ty.\rKhi quá trình sơ tuyển cũng được sử dụng, trước khi đấu thầu được phát hành cho các nhà cung cấp trong danh sách ngắn, thì một số vấn đề xung quanh tiêu chuẩn thông tin dự án hoặc các phương pháp và quy trình tạo ra thông tin dự án có thể được giải quyết thông qua sơ tuyển (ví dụ: sử dụng CDE). Nếu đúng như vậy, thì tất nhiên những điều này không cần phải hỏi và trả lời nữa.\rNội dung của BEP trước chỉ định được mô tả trong ISO 19650 phần 2, Điều 5.3.2. Điều quan trọng là phải hiểu rằng những mục này được xác định là các mục cần được cân nhắc để đưa vào và chúng chỉ nên là một phần của BEP trước chỉ định nếu chúng cần thiết trong bối cảnh của dự án và chỉ định:\rSơ yếu lý lịch chuyên môn của cá nhân được đề xuất đảm nhiệm bất kỳ chức năng quản lý thông tin nào\rChiến lược cung cấp thông tin của Nhóm chuyển giao\rChiến lược liên kết được đề xuất sẽ được nhóm chuyển giao thông qua\rMa trận trách nhiệm cấp cao của nhóm chuyển giao và các sản phẩm chuyển giao chính liên quan đến từng yếu tố\rBất kỳ đề xuất bổ sung hoặc sửa đổi nào đối với phương pháp và quy trình sản xuất thông tin của dự án\rMọi đề xuất bổ sung, sửa đổi đối với tiêu chuẩn thông tin của dự án\rLịch trình đề xuất về công nghệ thông tin mà nhóm chuyển giao dự định áp dụng.\rCách tiếp cận “sẽ xem xét” được sử dụng nhiều lần trong suốt ISO 19650-2 như một cách giới thiệu một số tính linh hoạt dành riêng cho dự án trong phạm vi các hành động thích hợp đối với nhiều yêu cầu cốt lõi của tiêu chuẩn.\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  20,
+                       "entries":  [
+                                       {
+                                           "slide":  20,
+                                           "path":  "13",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "Kế hoạch huy động Nhóm chuyển giao và đăng ký rủi ro thông tin: ISO 19650-2 Điều 5.3.5 và 5.3.6"
+                                       },
+                                       {
+                                           "slide":  20,
+                                           "path":  "74/76",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 75",
+                                           "text":  "Kế hoạch huy động đặt ra cách Nhóm chuyển giao sẽ giải quyết Điều 5.5"
+                                       },
+                                       {
+                                           "slide":  20,
+                                           "path":  "77/79",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 78",
+                                           "text":  "Sổ đăng ký rủi ro đánh giá các rủi ro liên quan đến việc cung cấp thông tin kịp thời được chỉ định trong EIR"
+                                       },
+                                       {
+                                           "slide":  20,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Phần cuối cùng của phản hồi đấu thầu từ mỗi Bên được chỉ định chính là kế hoạch huy động và đăng ký rủi ro quản lý thông tin.\r\rKế hoạch huy động giải thích cách Nhóm chuyển giao sẽ huy động các nguồn lực của mình, với giả định rằng họ sẽ thắng thầu thành công. Điều 5.3.5 của ISO 19650-2 bao gồm một danh sách dài các cân nhắc được đưa vào kế hoạch này. Bao gồm các:\rCác phương pháp và quy trình tạo ra thông tin sẽ được ghi lại và kiểm tra như thế nào,\rNhóm sẽ kiểm tra quyền truy cập vào CDE như thế nào,\rLàm thế nào bất kỳ sự thiếu hụt trong đào tạo giữa các đội sẽ được giải quyết,\rCác nguồn lực bổ sung để cung cấp năng lực cần thiết sẽ được tìm thấy như thế nào (bằng cách tuyển dụng, đào tạo hoặc thuê ngoài).\r\rSổ đăng ký rủi ro được đề cập trong điều 5.3.6 của ISO 19650-2 chỉ liên quan đến rủi ro quản lý thông tin. Điều quan trọng là những điều này phải được ghi lại và quản lý, giống như cách mà các loại rủi ro khác sẽ được quản lý bởi các bên được chỉ định chính (chẳng hạn như rủi ro do thời tiết xấu hoặc do thiếu nguyên liệu). Một số chủ đề được coi là rủi ro quản lý thông tin tiềm ẩn được liệt kê trong điều 5.3.6 của ISO 19650-2, bao gồm:\rRủi ro xung quanh các mốc cung cấp thông tin\rRủi ro được chuyển giao cho Bên được chỉ định chính trong Giao thức thông tin\rRủi ro từ việc không chấp nhận bất kỳ đề xuất thay đổi nào của Bên được chỉ định chính đối với Tiêu chuẩn thông tin dự án."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  21,
+                       "entries":  [
+                                       {
+                                           "slide":  21,
+                                           "path":  "5/7",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 6",
+                                           "text":  "Kế hoạch thực hiện BIM được phát triển chi tiết hơn"
+                                       },
+                                       {
+                                           "slide":  21,
+                                           "path":  "2",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "Chỉ định và huy động: ISO 19650-2 Điều 5.4 và 5.5"
+                                       },
+                                       {
+                                           "slide":  21,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Khi một Bên được chỉ định chính (Vương quốc Anh: Nhà cung cấp dịch vụ, công trình hoặc hàng hóa cấp 1, tức là nhà thiết kế, nhà thầu hoặc nhà sản xuất) đã được chỉ định (Vương quốc Anh: Đã trao hợp đồng) thì họ phải lập kế hoạch cung cấp thông tin và quản lý thông tin chi tiết hơn nhiều , sẵn sàng bắt đầu công việc. Điều này cung cấp cho sự phát triển của BEP sau chỉ định, dựa trên BEP trước chỉ định đã gửi trước đó. Tuy nhiên, đặc biệt nếu quá trình mua sắm diễn ra trong một thời gian dài hoặc đã khiến khách hàng phải suy nghĩ lại, thì có thể cần phải thực hiện nhiều thay đổi.\r\rCó một số khía cạnh đối với việc lập kế hoạch chi tiết hơn này mà không thể thực hiện được hoặc hợp lý để thực hiện trước chỉ định (Vương quốc Anh: Trao hợp đồng). Bao gồm các:\rChuẩn bị ma trận trách nhiệm chi tiết (5.4.2)\rKết hợp các yêu cầu thông tin từ bên được chỉ định chính trong các chỉ định của Nhóm chuyển giao khác (5.4.3)\rChuẩn bị nhiệm vụ và kế hoạch cung cấp thông tin tổng thể (5.4.4 và 5.4.5)\rHuy động các nguồn lực của nhóm (5.5.1), công nghệ thông tin (5.5.2) và thử nghiệm các phương pháp và quy trình tạo ra thông tin của dự án (5.3.5)\r\rCác khía cạnh này của BEP được trình bày trong các slide sau.\r\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  22,
+                       "entries":  [
+                                       {
+                                           "slide":  22,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Môi trường dữ liệu chung: Tại sao?"
+                                       },
+                                       {
+                                           "slide":  22,
+                                           "path":  "15",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 14",
+                                           "text":  "Trong việc chia sẻ thông tin thông minh"
+                                       },
+                                       {
+                                           "slide":  22,
+                                           "path":  "16",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 15",
+                                           "text":  "Chúng ta đang sử dụng thông tin gì vào đúng thời điểm"
+                                       },
+                                       {
+                                           "slide":  22,
+                                           "path":  "17",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 16",
+                                           "text":  "Về chi tiết những gì có thể được sử dụng"
+                                       },
+                                       {
+                                           "slide":  22,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Từ góc độ người dùng, việc sử dụng CDE có nhiều mặt, nó: \rTạo dựng niềm tin: Thông tin được phát/nhận được đặt tên nhất quán và được phát hành cho một mục đích cụ thể \rCho phép phương pháp chia sẻ nhất quán: Bằng cách tải tài liệu lên CDE, chúng tôi cấp quyền truy cập cho đúng người vào đúng thời điểm, tự tin rằng tất cả các bên đang làm việc với một bộ thông tin nhất quán \rCho phép sự rõ ràng: Bằng cách gắn thẻ mỗi tài liệu với \u0027Mã phù hợp\u0027, mỗi bên hiểu được thông tin nào có thể dựa vào và cho mục đích gì. Điều này đảm bảo rằng thông tin trong tài liệu không được sử dụng cho các mục đích ngoài ý muốn và nếu có thì có thể dễ dàng kiểm tra. Điều này khuyến khích việc chia sẻ thông tin sớm và thường xuyên \rVương quốc Anh: Phụ lục quốc gia trong BS EN ISO 19650 phần 2 cung cấp các mã được sử dụng ‘Tài liệu’ là gì?: Khi chia sẻ thông tin trong CDE, ‘tài liệu’ là bất kỳ tệp nào được phát hành và tải lên. Ví dụ: Báo cáo, bản vẽ, mô hình, thông số kỹ thuật, Bảng khối lượng (BoQ), lịch trình, chương trình, sổ đăng ký rủi ro, v.v. Tất cả thông tin được tạo ra trong quá trình bàn giao tài sản xây dựng được coi là \u0027tài liệu\u0027 Dấu vết kiểm tra: Tất cả CDE đều theo dõi những gì đã được tải lên, bởi ai, khi nào và ai đã truy cập nó. Trong trường hợp có tranh chấp, điều này có thể dễ dàng được kiểm tra\r\u000b\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  23,
+                       "entries":  [
+                                       {
+                                           "slide":  23,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Tiêu chuẩn mở để chia sẻ thông tin"
+                                       },
+                                       {
+                                           "slide":  23,
+                                           "path":  "5",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 4",
+                                           "text":  "IFC Industry Foundation Classes"
+                                       },
+                                       {
+                                           "slide":  23,
+                                           "path":  "70",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 69",
+                                           "text":  "Duy trì bởi buildingSmart"
+                                       },
+                                       {
+                                           "slide":  23,
+                                           "path":  "72",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 71",
+                                           "text":  "Trao đổi dữ liệu có cấu trúc giữa các dịch vụ Kiến trúc/Kết cấu/Xây dựng và các ứng dụng xuôi dòng"
+                                       },
+                                       {
+                                           "slide":  23,
+                                           "path":  "73",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 72",
+                                           "text":  "Phiên bản hoạt động hiện tại : IFC2x3"
+                                       },
+                                       {
+                                           "slide":  23,
+                                           "path":  "74",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 73",
+                                           "text":  "Phiên bản mới nhất : IFC4x3"
+                                       },
+                                       {
+                                           "slide":  23,
+                                           "path":  "75",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 74",
+                                           "text":  "COBie"
+                                       },
+                                       {
+                                           "slide":  23,
+                                           "path":  "76",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 75",
+                                           "text":  "Duy trì bởi US NIBS"
+                                       },
+                                       {
+                                           "slide":  23,
+                                           "path":  "77",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 76",
+                                           "text":  "Trao đổi dữ liệu về không gian có thể truy cập và tài sản có thể bảo trì"
+                                       },
+                                       {
+                                           "slide":  23,
+                                           "path":  "78",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 77",
+                                           "text":  "Phiên bản hiện tại: 2.4"
+                                       },
+                                       {
+                                           "slide":  23,
+                                           "path":  "79",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 78",
+                                           "text":  "Từ xây dựng đến vận hành"
+                                       },
+                                       {
+                                           "slide":  23,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Open BIM rất quan trọng vì những lý do sau: \rNó hỗ trợ quy trình làm việc mở để cho phép các thành viên dự án chia sẻ thông tin bất kể lựa chọn phần mềm của họ\rNó tạo ra một ngôn ngữ chung Nó hỗ trợ chia sẻ thông tin qua tất cả các giai đoạn của dự án \rNó cung cấp dữ liệu để sử dụng trong suốt vòng đời của tài sản \rBuilding Smart hỗ trợ trao đổi thông tin giữa các ứng dụng phần mềm trong ngành xây dựng bằng cách sử dụng định dạng có thể hoán đổi cho nhau Các lớp nền tảng công nghiệp (IFC) ISO 16739:2013. \rCOBie là một lược đồ dữ liệu để phân phối dữ liệu nội dung có cấu trúc ở định dạng trung lập. Nó được phát triển để giúp chủ đầu tư dự án và/hoặc chủ sở hữu tòa nhà nhận được thông tin về cơ sở vật chất để vận hành. \rVương quốc Anh: Tiêu chuẩn Anh hỗ trợ COBie là BS EN ISO 19650-4 trong đó điều này được giải thích trong Phụ lục Quốc gia.\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  24,
+                       "entries":  [
+                                       {
+                                           "slide":  24,
+                                           "path":  "54273",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Hoạt động 2"
+                                       },
+                                       {
+                                           "slide":  24,
+                                           "path":  "27/29",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 28",
+                                           "text":  "BEP có ý nghĩa gì đối với các hoạt động thực hiện dự án trong tổ chức của bạn? "
+                                       },
+                                       {
+                                           "slide":  24,
+                                           "path":  "32",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 31",
+                                           "text":  "10 minutes"
+                                       },
+                                       {
+                                           "slide":  24,
+                                           "path":  "34",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 33",
+                                           "text":  "Click here to start"
+                                       },
+                                       {
+                                           "slide":  24,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "\u000b"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  25,
+                       "entries":  [
+                                       {
+                                           "slide":  25,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Phần 4: Công việc điển hình của BIM Coordinator \u0026 BIM Manager\u000b"
+                                       },
+                                       {
+                                           "slide":  25,
+                                           "path":  "3",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 2",
+                                           "text":  "Project Creation \u0026 Setup - BIM Collaborate Pro - Autodesk Construction Cloud"
+                                       },
+                                       {
+                                           "slide":  25,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 5",
+                                           "text":  "OneCAD | Tích hợp Revit và Naviswork với Autodesk Construction Cloud (Webinar\u0027s Record)"
+                                       },
+                                       {
+                                           "slide":  25,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r\r\r\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  26,
+                       "entries":  [
+                                       {
+                                           "slide":  26,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Kỹ năng và kiến ​​thức"
+                                       },
+                                       {
+                                           "slide":  26,
+                                           "path":  "2",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 1",
+                                           "text":  "Chiến lược"
+                                       },
+                                       {
+                                           "slide":  26,
+                                           "path":  "155",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 154",
+                                           "text":  "Quản lý"
+                                       },
+                                       {
+                                           "slide":  26,
+                                           "path":  "156",
+                                           "kind":  "text",
+                                           "shapeName":  "Oval 155",
+                                           "text":  "Kỹ thuật"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  27,
+                       "entries":  [
+                                       {
+                                           "slide":  27,
+                                           "path":  "7",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 6",
+                                           "text":  "Tóm tắt công việc: \rChúng tôi đang tìm kiếm một BIM Coordinator (Điều phối viên BIM) có kinh nghiệm và chú trọng đến chi tiết để gia nhập đội ngũ của chúng tôi. Trong vai trò này, bạn sẽ chịu trách nhiệm quản lý và điều phối công nghệ và quy trình BIM. Là một Điều phối viên BIM, bạn sẽ giám sát việc tạo, phát triển và tích hợp mô hình trong suốt vòng đời của dự án. Bạn cũng sẽ đảm bảo rằng các mô hình BIM của dự án chính xác, được cập nhật và tuân thủ các yêu cầu của dự án cũng như các tiêu chuẩn ngành."
+                                       },
+                                       {
+                                           "slide":  27,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Coordinator – Mô tả công việc"
+                                       },
+                                       {
+                                           "slide":  27,
+                                           "path":  "13",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 12",
+                                           "text":  "Trách nhiệm chính: \r• Quản lý và điều phối việc phát triển, triển khai và thực thi các tiêu chuẩn BIM trên tất cả các dự án, tệp và mô hình liên quan đến BIM. \r• Đảm bảo việc phối hợp, xử lý và phát hành tài liệu và bản vẽ dự án chính xác và kịp thời. \r• Tạo, tổ chức và quản lý các mẫu BIM và nội dung cụ thể của dự án. \r• Hợp tác với các nhóm dự án để hiểu và thực hiện các mục tiêu BIM của dự án. \r• Đào tạo các thành viên trong nhóm về quy trình và công cụ BIM khi cần thiết. \r• Hỗ trợ phát hiện xung đột và tham gia các cuộc họp điều phối. \r• Giám sát quy trình làm việc BIM của dự án và đưa ra các đề xuất cải tiến. \r• Phát triển và duy trì các mô hình BIM của dự án và dữ liệu liên quan. \r• Đảm bảo tuân thủ các tiêu chuẩn BIM nội bộ và bên ngoài cũng như các yêu cầu của dự án. \r• Khắc phục sự cố và giải quyết các vấn đề và xung đột liên quan đến BIM. \r• Ghi nhận, theo dõi và truyền đạt các vấn đề, thay đổi và cập nhật liên quan đến BIM."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  28,
+                       "entries":  [
+                                       {
+                                           "slide":  28,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Coordinator – Mô tả công việc"
+                                       },
+                                       {
+                                           "slide":  28,
+                                           "path":  "3",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 2",
+                                           "text":  "Kỹ năng và trình độ yêu cầu: \r• Thành thạo các chương trình phần mềm BIM như Revit, AutoCAD và Navisworks. \r• Hiểu rõ các tiêu chuẩn và quy trình làm việc BIM. \r• Kỹ năng giao tiếp và tương tác xuất sắc. \r• Chú ý đến chi tiết và kỹ năng tổ chức mạnh mẽ. \r• Bằng cử nhân về Kiến trúc, Kỹ thuật, Quản lý Xây dựng hoặc lĩnh vực liên quan. \r• Tối thiểu 3 năm kinh nghiệm trong vai trò liên quan đến BIM."
+                                       },
+                                       {
+                                           "slide":  28,
+                                           "path":  "5",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 4",
+                                           "text":  "Trình độ ưu tiên: \r• Chứng chỉ chuyên nghiệp về BIM hoặc các công nghệ liên quan. \r• Kinh nghiệm với các dự án xây dựng quy mô lớn."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  29,
+                       "entries":  [
+                                       {
+                                           "slide":  29,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Coordinator – Nhiệm vụ cụ thể ở dự án"
+                                       },
+                                       {
+                                           "slide":  29,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 3",
+                                           "text":  "Những nhiệm vụ này giúp đảm bảo rằng các quy trình BIM được quản lý hiệu quả và dự án diễn ra suôn sẻ từ thiết kế đến xây dựng.\r 1. Phát triển Kế hoạch Thực hiện BIM (BEP): \r• Tạo các BEP chi tiết phù hợp với yêu cầu cụ thể của từng dự án. \r• Xác định vai trò, trách nhiệm và quy trình làm việc cho đội ngũ dự án.\r2. Tạo và Bảo trì Mô hình: \r• Phát triển và duy trì các mô hình BIM cho các lĩnh vực kiến trúc, kết cấu và MEP (Cơ khí, Điện và nước). \r• Đảm bảo các mô hình được cập nhật thường xuyên để phản ánh các thay đổi thiết kế và tiến độ xây dựng.\r3 Phát hiện và Điều phối Xung đột: \r• Thực hiện phát hiện xung đột bằng phần mềm như Navisworks để xác định và giải quyết các xung đột giữa các hệ thống xây dựng khác nhau. \r• Điều phối với các nhóm thiết kế và xây dựng để giải quyết các xung đột.\r4. Tuân thủ Tiêu chuẩn BIM: \r• Đảm bảo tất cả các mô hình BIM và tài liệu tuân thủ các tiêu chuẩn cụ thể của dự án và quy định ngành. \r• Thực hiện các cuộc kiểm tra định kỳ để xác minh sự tuân thủ và chất lượng.\r5. Đào tạo và Hỗ trợ: \r• Cung cấp các buổi đào tạo cho các thành viên trong nhóm dự án về các công cụ và quy trình BIM. \r• Cung cấp hỗ trợ liên tục để đảm bảo các thành viên trong nhóm thành thạo sử dụng phần mềm BIM."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  30,
+                       "entries":  [
+                                       {
+                                           "slide":  30,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Coordinator – Nhiệm vụ cụ thể ở dự án"
+                                       },
+                                       {
+                                           "slide":  30,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 3",
+                                           "text":  "6. Hợp tác với Các Bên Liên Quan: \r• Tạo điều kiện giao tiếp và hợp tác giữa các kiến trúc sư, kỹ sư, nhà thầu và các bên liên quan khác. \r• Tổ chức và dẫn dắt các cuộc họp điều phối BIM để thảo luận về tiến độ dự án và giải quyết các vấn đề.\r7. Tài liệu và Báo cáo: \r• Phát triển và duy trì tài liệu BIM cụ thể của dự án, bao gồm các báo cáo tiến độ mô hình và báo cáo phát hiện xung đột. \r• Chuẩn bị và phân phối các cập nhật định kỳ cho các bên liên quan của dự án.\r8. Quản lý Dữ liệu: \r• Quản lý và tổ chức dữ liệu dự án trong các mô hình BIM, đảm bảo độ chính xác và khả năng truy cập. \r• Sử dụng dữ liệu BIM để tạo ra các lịch trình, số lượng và thông tin liên quan đến dự án.\r9. Khắc phục sự cố và Giải quyết Vấn đề: \r• Xác định và giải quyết các vấn đề liên quan đến BIM phát sinh trong vòng đời dự án. \r• Cung cấp hỗ trợ kỹ thuật cho các thành viên trong nhóm để giải quyết các thách thức về phần mềm hoặc mô hình.\r10. Kiểm soát Chất lượng: \r• Thực hiện các biện pháp kiểm soát chất lượng để đảm bảo độ chính xác và độ tin cậy của các mô hình BIM. \r• Thực hiện các cuộc kiểm tra và đánh giá định kỳ để duy trì tiêu chuẩn cao về tính toàn vẹn của mô hình.\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  31,
+                       "entries":  [
+                                       {
+                                           "slide":  31,
+                                           "path":  "69",
+                                           "kind":  "text",
+                                           "shapeName":  "Shape 725",
+                                           "text":  "Hoạt động 3"
+                                       },
+                                       {
+                                           "slide":  31,
+                                           "path":  "72/74",
+                                           "kind":  "text",
+                                           "shapeName":  "Shape 744",
+                                           "text":  "So sánh vai trò BIM Coordinator và BIM Manager ở Công ty bạn?"
+                                       },
+                                       {
+                                           "slide":  31,
+                                           "path":  "24",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 23",
+                                           "text":  "10 phút"
+                                       },
+                                       {
+                                           "slide":  31,
+                                           "path":  "25",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 24",
+                                           "text":  "Bấm vào đây để bắt đầu"
+                                       },
+                                       {
+                                           "slide":  31,
+                                           "path":  "2",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 1",
+                                           "text":  "Autodesk Construction Cloud Model Coordination: Cloud Workflows Supplemented with Navisworks"
+                                       },
+                                       {
+                                           "slide":  31,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Tóm tắt\rQuản lý BIM thường tập trung vào lập kế hoạch chiến lược, lãnh đạo và đảm bảo tuân thủ và chất lượng tổng thể trên các dự án.\rĐiều phối viên BIM tham gia nhiều hơn vào các khía cạnh thực tế của việc tạo, bảo trì mô hình và điều phối hàng ngày.\rCả hai vai trò đều rất quan trọng để triển khai và quản lý hiệu quả các quy trình BIM trong các dự án xây dựng.\r\u000b"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  32,
+                       "entries":  [
+                                       {
+                                           "slide":  32,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Manager – Mô tả công việc"
+                                       },
+                                       {
+                                           "slide":  32,
+                                           "path":  "3",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 2",
+                                           "text":  "Tóm tắt công việc: \rChúng tôi đang tìm kiếm một Quản lý BIM tận tâm để dẫn dắt đội ngũ của chúng tôi trong việc quản lý các dự án xây dựng hiệu quả hơn. Quản lý BIM sẽ dẫn đầu việc tạo và phát triển các giao thức BIM của công ty và tích hợp hệ thống. Trách nhiệm của bạn sẽ bao gồm triển khai các mô-đun đào tạo BIM, dẫn dắt thiết lập dự án BIM, quản lý việc sử dụng công nghệ BIM của đội ngũ dự án và làm việc với các nhóm thiết kế và xây dựng để tối ưu hóa quy trình.\rTrách nhiệm chính: \r• Quản lý và điều phối việc phát triển, triển khai và thực thi các tiêu chuẩn BIM trên tất cả các dự án, tệp và mô hình liên quan đến BIM. \r• Cung cấp đào tạo và giám sát cho các nhóm dự án về phần mềm và công cụ BIM, bao gồm Revit, AutoCAD và Navisworks. \r• Giám sát việc tạo và bảo trì các mô hình BIM trong suốt vòng đời của các dự án xây dựng. \r• Phát triển và triển khai các kế hoạch thực hiện BIM (BEP) và các tiêu chuẩn BIM cho các dự án. \r• Dẫn dắt các cuộc họp điều phối BIM và giám sát các sản phẩm dự án BIM. \r• Quản lý và hướng dẫn các thành viên trong nhóm BIM và cung cấp hướng dẫn về các thực hành tốt nhất của BIM. \r• Đảm bảo tuân thủ các yêu cầu, tiêu chuẩn và quy định của dự án BIM. \r• Khắc phục sự cố và giải quyết các vấn đề và xung đột liên quan đến BIM. \r• Phát triển và duy trì tài liệu và báo cáo BIM."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  33,
+                       "entries":  [
+                                       {
+                                           "slide":  33,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Manager – Mô tả công việc"
+                                       },
+                                       {
+                                           "slide":  33,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 3",
+                                           "text":  "Kỹ năng và trình độ yêu cầu: \r• Kiến thức chuyên sâu về công nghệ, phần mềm và quy trình làm việc BIM. \r• Kỹ năng quản lý dự án và lãnh đạo mạnh mẽ. \r• Kỹ năng giao tiếp và tương tác xuất sắc. \r• Thành thạo các chương trình phần mềm BIM như Revit, AutoCAD và Navisworks. \r• Hiểu biết về các tiêu chuẩn và quy định ngành, như ISO 19650. \r• Bằng cử nhân về Kiến trúc, Kỹ thuật, Quản lý Xây dựng hoặc lĩnh vực liên quan. \r• Tối thiểu 5 năm kinh nghiệm trong vai trò liên quan đến BIM.\r\rTrình độ ưu tiên: \r• Bằng thạc sĩ trong lĩnh vực liên quan. \r• Chứng chỉ chuyên nghiệp về BIM hoặc các công nghệ liên quan. \r• Kinh nghiệm với các dự án xây dựng quy mô lớn."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  34,
+                       "entries":  [
+                                       {
+                                           "slide":  34,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Manager – Nhiệm vụ cụ thể ở dự án"
+                                       },
+                                       {
+                                           "slide":  34,
+                                           "path":  "3",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 2",
+                                           "text":  "Những nhiệm vụ này giúp đảm bảo rằng các quy trình BIM được quản lý hiệu quả và dự án diễn ra suôn sẻ từ thiết kế đến xây dựng."
+                                       },
+                                       {
+                                           "slide":  34,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 5",
+                                           "text":  "Phát triển và Triển khai Giao thức BIM: \r• Thiết lập các giao thức và tiêu chuẩn BIM cụ thể cho dự án để đảm bảo tính nhất quán và chất lượng trong tất cả các giai đoạn của dự án. \r• Tùy chỉnh các kế hoạch thực hiện BIM (BEP) để phù hợp với các yêu cầu đặc thù của từng dự án.\r\r2. Giám sát Điều phối Mô hình: \r• Giám sát việc tích hợp và điều phối các mô hình BIM từ các lĩnh vực khác nhau (kiến trúc, kết cấu, MEP).\r• Đảm bảo tất cả các mô hình được căn chỉnh chính xác và không có xung đột.\r\r3. Tổ chức Các Cuộc Họp Điều phối BIM: \r• Dẫn dắt các cuộc họp điều phối BIM định kỳ với các bên liên quan của dự án để xem xét tiến độ mô hình, giải quyết các vấn đề và đảm bảo sự đồng thuận. \r• Tạo điều kiện giao tiếp giữa các nhóm thiết kế và xây dựng để giải quyết bất kỳ sự khác biệt nào.\r\r4. Đảm bảo và Kiểm soát Chất lượng: \r• Thực hiện các biện pháp kiểm soát chất lượng để đảm bảo độ chính xác và độ tin cậy của các mô hình BIM. \r• Thực hiện các cuộc kiểm tra và đánh giá định kỳ để duy trì tiêu chuẩn cao về tính toàn vẹn của mô hình."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  35,
+                       "entries":  [
+                                       {
+                                           "slide":  35,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Manager – Nhiệm vụ cụ thể ở dự án"
+                                       },
+                                       {
+                                           "slide":  35,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 3",
+                                           "text":  "5. Đào tạo và Hướng dẫn Các Thành viên Trong Nhóm: \r• Cung cấp các buổi đào tạo cho các thành viên trong nhóm dự án về các công cụ, quy trình và thực hành tốt nhất của BIM. \r• Hướng dẫn các nhân viên BIM cấp dưới và đảm bảo họ thành thạo trong việc sử dụng phần mềm BIM.\r\r6. Quản lý Dữ liệu và Tài liệu BIM: \r• Giám sát việc quản lý và tổ chức dữ liệu dự án trong các mô hình BIM. \r• Đảm bảo tất cả các tài liệu BIM, bao gồm các báo cáo tiến độ mô hình và báo cáo phát hiện xung đột, chính xác và cập nhật.\r\r7. Phát hiện và Giải quyết Xung đột: \r• Thực hiện phát hiện xung đột bằng phần mềm như Navisworks để xác định và giải quyết các xung đột giữa các hệ thống xây dựng khác nhau. \r• Điều phối với các nhóm thiết kế và xây dựng để giải quyết các xung đột.\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  36,
+                       "entries":  [
+                                       {
+                                           "slide":  36,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Manager – Nhiệm vụ cụ thể ở dự án"
+                                       },
+                                       {
+                                           "slide":  36,
+                                           "path":  "5",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 4",
+                                           "text":  "Đảm bảo Tuân thủ Tiêu chuẩn: \r• Đảm bảo tất cả các mô hình và quy trình BIM tuân thủ các tiêu chuẩn cụ thể của dự án và quy định ngành. \r• Cập nhật các tiêu chuẩn BIM mới nhất và tích hợp chúng vào quy trình làm việc của dự án.\r\rHợp tác với Các Bên Liên Quan: \r• Làm việc chặt chẽ với các kiến trúc sư, kỹ sư, nhà thầu và các bên liên quan khác để đảm bảo tích hợp liền mạch các quy trình BIM. \r• Tạo điều kiện hợp tác và giao tiếp để đạt được các mục tiêu của dự án.\r\rGiám sát Tiến độ Dự án: \r• Theo dõi và giám sát tiến độ của các nhiệm vụ và sản phẩm liên quan đến BIM. \r• Cung cấp các cập nhật định kỳ cho các bên liên quan của dự án về tình trạng của các hoạt động BIM."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  37,
+                       "entries":  [
+                                       {
+                                           "slide":  37,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Phần 5: Kỹ năng điển hình của BIM Coordinator \u0026 BIM Manager\u000b"
+                                       },
+                                       {
+                                           "slide":  37,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r\r\r\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  38,
+                       "entries":  [
+                                       {
+                                           "slide":  38,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Coordinator – Kỹ năng"
+                                       },
+                                       {
+                                           "slide":  38,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 3",
+                                           "text":  "Một Điều phối viên BIM cần kết hợp các kỹ năng kỹ thuật, tổ chức và giao tiếp để quản lý và điều phối hiệu quả các quy trình BIM. Dưới đây là một số kỹ năng chính:\rKỹ năng kỹ thuật: \r• Thành thạo phần mềm BIM: Chuyên môn về các công cụ như Revit, AutoCAD, Navisworks và các phần mềm liên quan đến BIM khác. \r• Hiểu biết về tiêu chuẩn BIM: Kiến thức về các tiêu chuẩn ngành như ISO 19650. \r• Mô hình hóa và điều phối: Khả năng tạo, quản lý và điều phối các mô hình BIM trong suốt vòng đời dự án.\r\rKỹ năng tổ chức: \r• Chú ý đến chi tiết: Mắt nhìn chi tiết để đảm bảo độ chính xác và tuân thủ các tiêu chuẩn BIM. \r• Quản lý tài liệu: Kỹ năng quản lý và tổ chức tài liệu dự án và các mô hình BIM. \r• Quản lý thời gian: Khả năng quản lý nhiều nhiệm vụ và thời hạn một cách hiệu quả.\r\rKỹ năng giao tiếp: \r• Kỹ năng giao tiếp: Kỹ năng giao tiếp và hợp tác mạnh mẽ để làm việc hiệu quả với các bên liên quan khác nhau, bao gồm kiến trúc sư, kỹ sư và đội ngũ xây dựng. \r• Đào tạo và hỗ trợ: Khả năng cung cấp đào tạo và hỗ trợ cho các thành viên trong nhóm về các công cụ và thực hành tốt nhất của BIM. \r• Giải quyết xung đột: Kỹ năng giải quyết các vấn đề và xung đột liên quan đến BIM trong nhóm dự án."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  39,
+                       "entries":  [
+                                       {
+                                           "slide":  39,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Coordinator – Kỹ năng"
+                                       },
+                                       {
+                                           "slide":  39,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 3",
+                                           "text":  "Một Điều phối viên BIM cần kết hợp các kỹ năng kỹ thuật, tổ chức và giao tiếp để quản lý và điều phối hiệu quả các quy trình BIM. Dưới đây là một số kỹ năng chính:\r\rKỹ năng phân tích: \r• Giải quyết vấn đề: Khả năng khắc phục sự cố và giải quyết các vấn đề và xung đột liên quan đến BIM. \r• Quản lý dữ liệu: Kỹ năng quản lý và phân tích dữ liệu trong các mô hình BIM để tối ưu hóa kết quả dự án.\r\rKhả năng thích ứng: \r• Học hỏi liên tục: Sẵn sàng cập nhật các công nghệ BIM mới nhất và xu hướng ngành. \r• Linh hoạt: Khả năng thích ứng với các yêu cầu và quy trình làm việc thay đổi của dự án."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  40,
+                       "entries":  [
+                                       {
+                                           "slide":  40,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Manager – Kỹ năng"
+                                       },
+                                       {
+                                           "slide":  40,
+                                           "path":  "3",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 2",
+                                           "text":  "Một Quản lý BIM cần có một bộ kỹ năng đa dạng để quản lý và điều phối hiệu quả các quy trình BIM. Dưới đây là một số kỹ năng chính:\r\rKỹ năng kỹ thuật: \r• Thành thạo phần mềm BIM: Chuyên môn về các công cụ như Revit, AutoCAD, Navisworks và các phần mềm liên quan đến BIM khác. \r• Hiểu biết về tiêu chuẩn BIM: Kiến thức về các tiêu chuẩn ngành như ISO 19650. \r• Mô hình hóa và điều phối: Khả năng tạo, quản lý và điều phối các mô hình BIM trong suốt vòng đời dự án.\r\rKỹ năng quản lý dự án: \r• Lãnh đạo: Khả năng dẫn dắt và hướng dẫn một đội ngũ, đảm bảo mọi người đều tuân thủ các giao thức BIM. \r• Lập kế hoạch dự án: Kỹ năng phát triển và triển khai các kế hoạch thực hiện BIM (BEP) và quản lý thời gian của dự án. \r• Giải quyết vấn đề: Khả năng khắc phục sự cố và giải quyết các vấn đề và xung đột liên quan đến BIM."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  41,
+                       "entries":  [
+                                       {
+                                           "slide":  41,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "BIM Manager – Kỹ năng"
+                                       },
+                                       {
+                                           "slide":  41,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 3",
+                                           "text":  "Kỹ năng giao tiếp: \r• Kỹ năng giao tiếp: Kỹ năng giao tiếp và hợp tác mạnh mẽ để làm việc hiệu quả với các bên liên quan khác nhau, bao gồm kiến trúc sư, kỹ sư và đội ngũ xây dựng. \r• Đào tạo và hỗ trợ: Khả năng cung cấp đào tạo và hỗ trợ cho các thành viên trong nhóm về các công cụ và thực hành tốt nhất của BIM.\r\rKỹ năng phân tích: \r• Chú ý đến chi tiết: Mắt nhìn chi tiết để đảm bảo độ chính xác và tuân thủ các tiêu chuẩn BIM. \r• Quản lý dữ liệu: Kỹ năng quản lý và phân tích dữ liệu trong các mô hình BIM để tối ưu hóa kết quả dự án.\r\rKhả năng thích ứng: \r• Học hỏi liên tục: Sẵn sàng cập nhật các công nghệ BIM mới nhất và xu hướng ngành.\r • Linh hoạt: Khả năng thích ứng với các yêu cầu và quy trình làm việc thay đổi của dự án."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  42,
+                       "entries":  [
+                                       {
+                                           "slide":  42,
+                                           "path":  "69",
+                                           "kind":  "text",
+                                           "shapeName":  "Shape 725",
+                                           "text":  "Hoạt động 4"
+                                       },
+                                       {
+                                           "slide":  42,
+                                           "path":  "72/74",
+                                           "kind":  "text",
+                                           "shapeName":  "Shape 744",
+                                           "text":  "Công cụ phát hiện xung đột? Chiến lược theo dõi và giải quyết vấn đề trên CDE?"
+                                       },
+                                       {
+                                           "slide":  42,
+                                           "path":  "24",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 23",
+                                           "text":  "15 phút"
+                                       },
+                                       {
+                                           "slide":  42,
+                                           "path":  "25",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 24",
+                                           "text":  "Bấm vào đây để bắt đầu"
+                                       },
+                                       {
+                                           "slide":  42,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 3",
+                                           "text":  "Những phần mềm phát hiện xung đột trong bản vẽ thiết kế"
+                                       },
+                                       {
+                                           "slide":  42,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 5",
+                                           "text":  "Tự động phát hiện xung đột trong BIM Collaboration Pro [10 trên 12]"
+                                       },
+                                       {
+                                           "slide":  42,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 7",
+                                           "text":  "Model Coordination (Clash Detection) Tour - Module Tour Series - Autodesk Construction Cloud"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  43,
+                       "entries":  [
+                                       {
+                                           "slide":  43,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Phần 6: Phương pháp luận đánh giá trình độ cho \u000bBIM Coordinator \u0026 BIM Manager\u000b\u000b"
+                                       },
+                                       {
+                                           "slide":  43,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………\r\r\r\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  44,
+                       "entries":  [
+                                       {
+                                           "slide":  44,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Đánh giá trình độ cho BIM Coordinator\u000b"
+                                       },
+                                       {
+                                           "slide":  44,
+                                           "path":  "6",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 5",
+                                           "text":  "1. Đánh giá Kỹ năng Kỹ thuật:\rChứng chỉ chuyên môn, kinh nghiệm: bằng cấp, chứng chỉ hành nghề\rKiến thức về Phần mềm BIM: Kiểm tra khả năng sử dụng các công cụ như Revit, AutoCAD, Navisworks và các phần mềm liên quan khác.\rHiểu biết về Tiêu chuẩn BIM: Đánh giá kiến thức về các tiêu chuẩn ngành như ISO 19650.\rKhả năng Mô hình hóa và Điều phối: Kiểm tra khả năng tạo, quản lý và điều phối các mô hình BIM trong suốt vòng đời dự án.\r2. Đánh giá Kỹ năng Tổ chức:\rChú ý đến Chi tiết: Đánh giá khả năng chú ý đến chi tiết để đảm bảo độ chính xác và tuân thủ các tiêu chuẩn BIM.\rQuản lý Tài liệu: Kiểm tra kỹ năng quản lý và tổ chức tài liệu dự án và các mô hình BIM.\rQuản lý Thời gian: Đánh giá khả năng quản lý nhiều nhiệm vụ và thời hạn một cách hiệu quả.\r3. Đánh giá Kỹ năng Giao tiếp:\rKỹ năng Giao tiếp: Đánh giá khả năng giao tiếp và hợp tác với các bên liên quan khác nhau.\rĐào tạo và Hỗ trợ: Kiểm tra khả năng cung cấp đào tạo và hỗ trợ cho các thành viên trong nhóm về các công cụ và thực hành tốt nhất của BIM.\rGiải quyết Xung đột: Đánh giá khả năng giải quyết các vấn đề và xung đột liên quan đến BIM trong nhóm dự án."
+                                       },
+                                       {
+                                           "slide":  44,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Mục đích: Phương pháp luận này giúp đảm bảo rằng cả Điều phối viên BIM và Quản lý BIM đều có đủ kỹ năng và kiến thức để quản lý và điều phối hiệu quả các quy trình BIM trong các dự án xây dựng\rPhương pháp luận toàn diện bao gồm các tiêu chí và quy trình đánh giá cụ thể.\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  45,
+                       "entries":  [
+                                       {
+                                           "slide":  45,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Đánh giá trình độ cho BIM Coordinator\u000b"
+                                       },
+                                       {
+                                           "slide":  45,
+                                           "path":  "3",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 2",
+                                           "text":  "4. Đánh giá Kỹ năng Phân tích:\rGiải quyết Vấn đề: Kiểm tra khả năng khắc phục sự cố và giải quyết các vấn đề và xung đột liên quan đến BIM.\rQuản lý Dữ liệu: Đánh giá kỹ năng quản lý và phân tích dữ liệu trong các mô hình BIM để tối ưu hóa kết quả dự án.\r\r5. Đánh giá Khả năng Thích ứng:\rHọc hỏi Liên tục: Đánh giá sự sẵn sàng cập nhật các công nghệ BIM mới nhất và xu hướng ngành.\rLinh hoạt: Kiểm tra khả năng thích ứng với các yêu cầu và quy trình làm việc thay đổi của dự án."
+                                       },
+                                       {
+                                           "slide":  45,
+                                           "path":  "5",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 4",
+                                           "text":  "Quy trình Đánh giá\r Chứng chỉ chuyên môn, kinh nghiệm: Hệ thống quản lý và kỹ thuật, bằng cấp, chứng chỉ hành nghề\rPhỏng vấn Kỹ thuật: Thực hiện các cuộc phỏng vấn kỹ thuật để đánh giá kiến thức và kỹ năng của ứng viên.\r Bài Kiểm tra Thực hành: Yêu cầu ứng viên thực hiện các bài kiểm tra thực hành để đánh giá khả năng sử dụng phần mềm BIM và giải quyết các tình huống thực tế.\r Đánh giá Hiệu suất: Xem xét hiệu suất làm việc trước đây của ứng viên thông qua các dự án đã hoàn thành và phản hồi từ các đồng nghiệp và quản lý.\r Đánh giá Liên tục: Thực hiện đánh giá liên tục trong suốt quá trình làm việc để đảm bảo ứng viên duy trì và nâng cao trình độ của mình."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  46,
+                       "entries":  [
+                                       {
+                                           "slide":  46,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Đánh giá trình độ cho BIM Manager\u000b"
+                                       },
+                                       {
+                                           "slide":  46,
+                                           "path":  "4",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 3",
+                                           "text":  "1. Đánh giá Kỹ năng Kỹ thuật:\rChứng chỉ chuyên môn, kinh nghiệm: bằng cấp, chứng chỉ hành nghề\rKiến thức về Công nghệ BIM: Kiểm tra kiến thức chuyên sâu về công nghệ, phần mềm và quy trình làm việc BIM.\rHiểu biết về Tiêu chuẩn BIM: Đánh giá kiến thức về các tiêu chuẩn ngành như ISO 19650.\rKhả năng Mô hình hóa và Điều phối: Kiểm tra khả năng tạo, quản lý và điều phối các mô hình BIM trong suốt vòng đời dự án.\r2. Đánh giá Kỹ năng Quản lý Dự án:\rLãnh đạo: Đánh giá khả năng dẫn dắt và hướng dẫn một đội ngũ, đảm bảo mọi người đều tuân thủ các giao thức BIM.\rLập Kế hoạch Dự án: Kiểm tra kỹ năng phát triển và triển khai các kế hoạch thực hiện BIM (BEP) và quản lý thời gian của dự án.\rGiải quyết Vấn đề: Đánh giá khả năng khắc phục sự cố và giải quyết các vấn đề và xung đột liên quan đến BIM.\r3. Đánh giá Kỹ năng Giao tiếp:\rKỹ năng Giao tiếp: Đánh giá khả năng giao tiếp và hợp tác với các bên liên quan khác nhau.\rĐào tạo và Hỗ trợ: Kiểm tra khả năng cung cấp đào tạo và hỗ trợ cho các thành viên trong nhóm về các công cụ và thực hành tốt nhất của BIM."
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  47,
+                       "entries":  [
+                                       {
+                                           "slide":  47,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 3",
+                                           "text":  "Đánh giá trình độ cho BIM Manager\u000b"
+                                       },
+                                       {
+                                           "slide":  47,
+                                           "path":  "3",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 2",
+                                           "text":  "4. Đánh giá Kỹ năng Phân tích:\rChú ý đến Chi tiết: Đánh giá khả năng chú ý đến chi tiết để đảm bảo độ chính xác và tuân thủ các tiêu chuẩn BIM.\rQuản lý Dữ liệu: Kiểm tra kỹ năng quản lý và phân tích dữ liệu trong các mô hình BIM để tối ưu hóa kết quả dự án.\r5. Đánh giá Khả năng Thích ứng:\rHọc hỏi Liên tục: Đánh giá sự sẵn sàng cập nhật các công nghệ BIM mới nhất và xu hướng ngành.\rLinh hoạt: Kiểm tra khả năng thích ứng với các yêu cầu và quy trình làm việc thay đổi của dự án."
+                                       },
+                                       {
+                                           "slide":  47,
+                                           "path":  "5",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 4",
+                                           "text":  "Quy trình Đánh giá, tương tự BIM Coordinator\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  48,
+                       "entries":  [
+                                       {
+                                           "slide":  48,
+                                           "path":  "69",
+                                           "kind":  "text",
+                                           "shapeName":  "Shape 725",
+                                           "text":  "Hoạt động 5"
+                                       },
+                                       {
+                                           "slide":  48,
+                                           "path":  "72/74",
+                                           "kind":  "text",
+                                           "shapeName":  "Shape 744",
+                                           "text":  "Làm thế nào bạn có thể đánh giá trình độ BIM Coordinator và BIM Manager? Các bậc thang của công ty bạn cho vị trí BIM Manager? "
+                                       },
+                                       {
+                                           "slide":  48,
+                                           "path":  "24",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 23",
+                                           "text":  "15 phút"
+                                       },
+                                       {
+                                           "slide":  48,
+                                           "path":  "25",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 24",
+                                           "text":  "Bấm vào đây để bắt đầu"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  49,
+                       "entries":  [
+                                       {
+                                           "slide":  49,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "Đánh giá và câu hỏi cuối cùng"
+                                       },
+                                       {
+                                           "slide":  49,
+                                           "path":  "10",
+                                           "kind":  "text",
+                                           "shapeName":  "TextBox 9",
+                                           "text":  "?"
+                                       },
+                                       {
+                                           "slide":  49,
+                                           "path":  "notes:3",
+                                           "kind":  "text",
+                                           "shapeName":  "Notes Placeholder 2",
+                                           "text":  "Những kỳ vọng/câu hỏi cụ thể của bạn đã được trả lời chưa?\r"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  50,
+                       "entries":  [
+                                       {
+                                           "slide":  50,
+                                           "path":  "2",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "CÁM ƠN"
+                                       },
+                                       {
+                                           "slide":  50,
+                                           "path":  "5",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 4",
+                                           "text":  "Xin chân thành cảm ơn sự hỗ trợ của các bạn BKCONS Academy, Training Team của BSI Vietnam trong khóa học này!"
+                                       },
+                                       {
+                                           "slide":  50,
+                                           "path":  "3",
+                                           "kind":  "text",
+                                           "shapeName":  "Footer Placeholder 2",
+                                           "text":  "Copyright © 2022 BSI. All rights reserved"
+                                       }
+                                   ]
+                   },
+                   {
+                       "slide":  51,
+                       "entries":  [
+                                       {
+                                           "slide":  51,
+                                           "path":  "8",
+                                           "kind":  "text",
+                                           "shapeName":  "Title 1",
+                                           "text":  "Và cuối cùng......"
+                                       },
+                                       {
+                                           "slide":  51,
+                                           "path":  "10",
+                                           "kind":  "text",
+                                           "shapeName":  "Rectangle 9",
+                                           "text":  "Cảm ơn các bạn học viên đã tham gia khoá học và chúc bạn tiếp tục hành trình theo lộ trình BIM đã chọn"
+                                       }
+                                   ]
+                   }
+               ]
+}
