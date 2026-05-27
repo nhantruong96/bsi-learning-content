@@ -1,75 +1,56 @@
 # BSI Learning Content
 
-Workspace này phục vụ nhiều mục đích liên quan đến học liệu BSI, không chỉ dịch workbook.
+Workspace này phục vụ việc dịch slide đào tạo BIM / ISO 19650 sang tiếng Việt theo `AGENTS.md` và `glossary.md`.
 
-Các luồng công việc chính:
+## Nguồn Quyết Định
 
-- `translation/`: dịch và bản địa hóa slide, workbook, DOCX, PPTX.
-- `authoring/`: biên soạn giáo trình mới, cấu trúc buổi học, hoạt động, đánh giá.
-- `courses/`: nơi tổ chức từng khóa học hoặc từng bộ nội dung theo mã khóa.
+Khi dịch, chỉ dùng thứ tự ưu tiên sau:
+
+1. `glossary.md`
+2. `AGENTS.md`
+3. `Example/`
+4. `References/`
+
+`Example/` là mẫu văn phong và cách xử lý thuật ngữ đã được duyệt. `References/` chỉ dùng để kiểm tra nghĩa nguồn hoặc bối cảnh tiêu chuẩn. Không dùng cache, bản dịch trung gian cũ, override cũ, hoặc cấu trúc workspace cũ để quyết định văn phong hay thuật ngữ.
+
+Các file và thư mục chính:
+
+- `AGENTS.md`: quy tắc dịch, cấu trúc đầu ra và checklist chất lượng.
+- `glossary.md`: thuật ngữ bắt buộc dùng khi dịch.
+- `vi_translation.md`: bản dịch tiếng Việt theo cấu trúc slide/note.
+- `translation_issues.md`: nhật ký các điểm OCR, nguồn hoặc thuật ngữ cần kiểm tra.
+- `slides/`: deck nguồn đang xử lý, text trích xuất và ảnh slide.
 - `References/`: tài liệu tham chiếu, tiêu chuẩn, ví dụ gốc.
-- `References/Example/`: thư viện hồ sơ khóa học mẫu, mỗi thư mục con là một bộ hồ sơ hoàn chỉnh của một khóa.
-- `tools/`: script hỗ trợ trích xuất, dịch, đóng gói và scaffold workspace.
-- `_work/`: file trung gian, cache, JSON extract, bản build tạm.
+- `Example/`: deck ví dụ nhanh, giữ nguyên để đối chiếu.
 
-## Định hướng sử dụng
-
-Workspace này phù hợp cho:
-
-- dịch học liệu hiện có sang tiếng Việt;
-- biên soạn mới từ tài liệu chuẩn hoặc ghi chú nội bộ;
-- xây dựng outline khóa học, lesson plan, activity sheet, assessment;
-- chuẩn hóa đầu ra cho review và đóng gói phát hành nội bộ.
-
-## Cấu trúc hồ sơ khóa học mẫu
-
-Trong `References/Example/`, mỗi thư mục khóa học hiện được xem là một package chuẩn. Bên trong thường có:
-
-- `Delegate Workbook/`
-- `Tutor Guide/` hoặc `Tutor guide/`
-- `Certificate Sample/` hoặc `Certificate sample/`
-- `Version Control/` hoặc `Version control/`
-- file gốc cấp package như `Build List_...` và `Important Course Info(rmation)_...`
-
-Các biến thể chữ hoa/chữ thường và cách viết `Info`/`Information` đều được xem là hợp lệ trong config mới.
-
-## Cấu trúc đề xuất cho khóa học mới
-
-Mỗi khóa học nên có một thư mục riêng trong `courses/`, ví dụ:
+## Cấu trúc dịch slide hiện tại
 
 ```text
-courses/
-  BIM70001/
-    01_brief/
-    02_source/
-      Delegate Workbook/
-      Tutor Guide/
-      Certificate Sample/
-      Version Control/
-    03_authoring/
-    04_translation/
-    05_review/
-    06_delivery/
+project-root/
+├─ AGENTS.md
+├─ glossary.md
+├─ vi_translation.md
+├─ translation_issues.md
+├─ slides/
+│  ├─ source.pptx
+│  ├─ exported_text/
+│  └─ images/
 ```
 
-## Khởi tạo nhanh một khóa học mới
-
-```powershell
-powershell -ExecutionPolicy Bypass -File tools\new-course-workspace.ps1 `
-  -CourseCode "BIM99999" `
-  -CourseTitle "Sample Course"
-```
+Ghi chú: `slides/source.pptx` là vị trí dành cho deck nguồn đang dịch. Các thư mục `References/` và `Example/` được giữ nguyên ở gốc workspace để tiện đối chiếu.
 
 ## Quy ước làm việc
 
-- Nguồn gốc tài liệu gốc đặt ở `References/` hoặc `courses/<code>/02_source/`.
-- Nếu dùng package kiểu BSI, nên giữ nguyên cấu trúc hồ sơ như trong `References/Example/<course-package>/`.
-- Nội dung đang biên soạn đặt ở `courses/<code>/03_authoring/`.
-- Bản dịch và override đặt ở `courses/<code>/04_translation/` hoặc `translation/config/` nếu dùng chung.
-- Tài liệu chờ rà soát đặt ở `courses/<code>/05_review/`.
-- Bản giao cuối cùng đặt ở `courses/<code>/06_delivery/`.
+- Đọc `AGENTS.md` và `glossary.md` trước khi dịch.
+- Đặt deck nguồn đang xử lý tại `slides/source.pptx`.
+- Đặt text trích xuất tại `slides/exported_text/`.
+- Đặt ảnh slide tại `slides/images/`.
+- Ghi bản dịch vào `vi_translation.md`.
+- Ghi mọi điểm chưa chắc chắn vào `translation_issues.md`.
+- Không dùng lại cấu hình dịch tự động, override cũ hoặc cache dịch máy để quyết định thuật ngữ.
+- Không dùng `_work/`, `translation/`, `authoring/`, `courses/`, `tools/`, hoặc config workspace cũ làm nguồn tham khảo nếu chúng xuất hiện lại.
 
 ## Ghi chú
 
-- Các script dịch hiện tại vẫn được giữ nguyên để đảm bảo tương thích ngược.
-- Tên khuyến nghị cho thư mục gốc trên máy là `BSI Learning Content` để đồng bộ với scope và cấu hình hiện tại.
+- Pipeline dịch tự động cũ đã được loại bỏ vì có thuật ngữ xung đột với `glossary.md`.
+- Workspace hiện được giữ tối giản để tránh mọi bias từ pipeline hoặc cấu hình cũ.

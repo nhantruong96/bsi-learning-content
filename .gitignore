@@ -22,3 +22,12 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+
+# Legacy/generated translation artifacts are not sources of truth
+_work/
+translation/
+authoring/
+courses/
+tools/
+workspace.config.json
+*.translations.json
